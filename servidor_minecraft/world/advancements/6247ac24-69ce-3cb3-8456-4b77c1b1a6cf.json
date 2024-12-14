@@ -1434,81 +1434,9 @@
     },
     "done": true
   },
-  "scguns:main/end/lone_wonder": {
-    "criteria": {
-      "lone_wonder": "2024-12-13 23:18:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/coarse_dirt": {
-    "criteria": {
-      "has_gravel": "2024-12-14 00:01:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
-    "criteria": {
-      "has_raw_gold": "2024-12-13 22:40:33 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2024-12-13 22:33:03 +0000"
-    },
-    "done": true
-  },
-  "scguns:main/ocean_blueprint": {
-    "criteria": {
-      "ocean_blueprint": "2024-12-14 00:02:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite_stairs": {
-    "criteria": {
-      "has_granite": "2024-12-14 00:01:45 +0000"
-    },
-    "done": true
-  },
-  "scguns:main/ocean/sequoia": {
-    "criteria": {
-      "sequoia": "2024-12-13 23:20:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/jungle_wood": {
-    "criteria": {
-      "has_log": "2024-12-13 23:17:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/golden_axe": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-13 22:40:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/jungle_planks": {
-    "criteria": {
-      "has_logs": "2024-12-13 23:17:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/raw_gold_block": {
-    "criteria": {
-      "has_raw_gold": "2024-12-13 22:40:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2024-12-14 00:01:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/golden_pickaxe": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-13 22:40:35 +0000"
     },
     "done": true
   },
@@ -1536,45 +1464,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_nugget": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-13 22:40:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/granite_wall": {
-    "criteria": {
-      "has_granite": "2024-12-14 00:01:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/golden_shovel": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-13 22:40:35 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2024-12-13 22:33:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/golden_apple": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-13 22:40:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
-    "criteria": {
-      "has_raw_gold": "2024-12-13 22:40:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2024-12-14 00:01:45 +0000"
     },
     "done": true
   },
@@ -1584,75 +1476,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/golden_boots": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-13 22:40:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2024-12-14 00:01:45 +0000"
-    },
-    "done": true
-  },
-  "scguns:main/scorched/earths_corpse": {
-    "criteria": {
-      "earths_corpse": "2024-12-13 23:19:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/golden_helmet": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-13 22:40:35 +0000"
-    },
-    "done": true
-  },
-  "scguns:main/piglin/pyroclastic_flow": {
-    "criteria": {
-      "pyroclastic_flow": "2024-12-13 23:18:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_granite": {
-    "criteria": {
-      "has_granite": "2024-12-14 00:01:45 +0000"
-    },
-    "done": true
-  },
-  "scguns:main/diamond_steel/uppercut": {
-    "criteria": {
-      "uppercut": "2024-12-13 23:41:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/golden_sword": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-13 22:40:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/gold_block": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-13 22:40:35 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2024-12-13 22:33:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2024-12-14 00:01:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/golden_chestplate": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-13 22:40:35 +0000"
     },
     "done": true
   },
@@ -1662,51 +1488,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sea_lantern": {
-    "criteria": {
-      "has_prismarine_crystals": "2024-12-14 00:02:27 +0000"
-    },
-    "done": true
-  },
-  "scguns:main/deep_dark/whispers": {
-    "criteria": {
-      "whispers": "2024-12-13 23:18:12 +0000"
-    },
-    "done": true
-  },
-  "scguns:main/piglin/super_shotgun": {
-    "criteria": {
-      "super_shotgun": "2024-12-13 23:18:09 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2024-12-13 22:33:03 +0000"
-    },
-    "done": true
-  },
-  "scguns:main/scorched/locust": {
-    "criteria": {
-      "locust": "2024-12-13 23:19:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/golden_hoe": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-13 22:40:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2024-12-14 00:01:45 +0000"
-    },
-    "done": true
-  },
-  "scguns:main/piglin/blasphemy": {
-    "criteria": {
-      "blasphemy": "2024-12-13 23:18:08 +0000"
     },
     "done": true
   },
@@ -1722,21 +1506,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/granite_slab": {
-    "criteria": {
-      "has_granite": "2024-12-14 00:01:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2024-12-13 22:33:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2024-12-14 00:01:45 +0000"
     },
     "done": true
   },
@@ -1746,21 +1518,99 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2024-12-13 22:33:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2024-12-13 22:40:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2024-12-13 22:40:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2024-12-13 22:40:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2024-12-13 22:40:35 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/conduit": {
+  "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
-      "has_nautilus_core": "2024-12-14 00:02:27 +0000"
+      "has_gold_ingot": "2024-12-13 22:40:35 +0000"
     },
     "done": true
   },
-  "scguns:main/scorched/rat_king_and_queen": {
+  "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
-      "rat_king_and_queen": "2024-12-13 23:19:50 +0000"
+      "has_gold_ingot": "2024-12-13 22:40:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-13 22:40:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-13 22:40:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-13 22:40:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-13 22:40:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-13 22:40:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-13 22:40:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-13 22:40:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-13 22:40:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-13 22:40:35 +0000"
     },
     "done": true
   },
@@ -1770,9 +1620,159 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/diamond_boots": {
+  "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
-      "has_diamond": "2024-12-13 22:33:03 +0000"
+      "has_log": "2024-12-13 23:17:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2024-12-13 23:17:21 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/piglin/pyroclastic_flow": {
+    "criteria": {
+      "pyroclastic_flow": "2024-12-13 23:18:04 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/piglin/blasphemy": {
+    "criteria": {
+      "blasphemy": "2024-12-13 23:18:08 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/piglin/super_shotgun": {
+    "criteria": {
+      "super_shotgun": "2024-12-13 23:18:09 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/deep_dark/whispers": {
+    "criteria": {
+      "whispers": "2024-12-13 23:18:12 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/end/lone_wonder": {
+    "criteria": {
+      "lone_wonder": "2024-12-13 23:18:14 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/scorched/rat_king_and_queen": {
+    "criteria": {
+      "rat_king_and_queen": "2024-12-13 23:19:50 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/scorched/locust": {
+    "criteria": {
+      "locust": "2024-12-13 23:19:53 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/scorched/earths_corpse": {
+    "criteria": {
+      "earths_corpse": "2024-12-13 23:19:59 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/ocean/sequoia": {
+    "criteria": {
+      "sequoia": "2024-12-13 23:20:59 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/diamond_steel/uppercut": {
+    "criteria": {
+      "uppercut": "2024-12-13 23:41:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2024-12-14 00:01:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-14 00:01:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2024-12-14 00:01:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-14 00:01:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-14 00:01:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2024-12-14 00:01:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-14 00:01:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-14 00:01:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2024-12-14 00:01:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-14 00:01:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2024-12-14 00:01:57 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/ocean_blueprint": {
+    "criteria": {
+      "ocean_blueprint": "2024-12-14 00:02:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2024-12-14 00:02:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2024-12-14 00:02:27 +0000"
     },
     "done": true
   },

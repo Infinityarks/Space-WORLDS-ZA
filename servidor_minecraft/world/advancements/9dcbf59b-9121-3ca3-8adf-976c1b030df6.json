@@ -2976,12 +2976,6 @@
     },
     "done": true
   },
-  "simpleplanes:recipes/plane": {
-    "criteria": {
-      "in_fire": "2024-12-13 23:37:26 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2024-12-13 23:19:26 +0000"
@@ -3033,6 +3027,12 @@
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2024-12-13 23:19:26 +0000"
+    },
+    "done": true
+  },
+  "simpleplanes:recipes/plane": {
+    "criteria": {
+      "in_fire": "2024-12-13 23:37:26 +0000"
     },
     "done": true
   },
