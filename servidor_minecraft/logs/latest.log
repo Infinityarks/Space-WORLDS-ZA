@@ -1119,3 +1119,31 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [14Dec2024 20:32:26.664] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: modern_structures:planting
 [14Dec2024 20:32:26.664] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:planting' in chunk [-48, -80], discarding
 [14Dec2024 20:33:58.034] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/inventory/ClickAction
+[14Dec2024 20:38:45.677] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/player/AdvancementEvent$AdvancementProgressEvent$ProgressType
+[14Dec2024 20:39:03.753] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ClinicaSanPablo[/127.128.175.180:40729] logged in with entity id 5187 at (2502.8488249559136, 105.5, -4360.059596948856)
+[14Dec2024 20:39:03.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ClinicaSanPablo joined the game
+[14Dec2024 20:39:05.768] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[14Dec2024 20:39:40.292] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/vehicle/Boat$Status
+[14Dec2024 20:40:01.493] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/BeehiveBlockEntity$BeeReleaseStatus
+[14Dec2024 20:42:05.966] [ForkJoinPool.commonPool-worker-5/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> wtf
+[14Dec2024 20:42:10.494] [ForkJoinPool.commonPool-worker-5/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> hubo roollback?
+[14Dec2024 20:42:51.970] [ForkJoinPool.commonPool-worker-5/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> porque lo dices?
+[14Dec2024 20:42:58.510] [ForkJoinPool.commonPool-worker-5/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> y tu base? xd
+[14Dec2024 20:43:00.662] [ForkJoinPool.commonPool-worker-5/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> vos estabas ahi?
+[14Dec2024 20:43:17.344] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from ClinicaSanPablo: Location (2418.25727891922, 80.00039422512054, -4304.5625) too far away from hit block BlockPos{x=2419, y=79, z=-4306}.
+[14Dec2024 20:43:18.493] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from ClinicaSanPablo: Location (2418.25, 80.08869004249573, -4304.909694075584) too far away from hit block BlockPos{x=2419, y=79, z=-4306}.
+[14Dec2024 20:43:39.393] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/ShulkerBoxBlockEntity$AnimationStatus
+[14Dec2024 20:43:46.543] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from ClinicaSanPablo: Location (2422.4375, 80.25551772117615, -4303.301697015762) too far away from hit block BlockPos{x=2421, y=79, z=-4305}.
+[14Dec2024 20:43:59.544] [ForkJoinPool.commonPool-worker-5/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> sabes si estabas en ese lugar cuando te saliste?
+[14Dec2024 20:44:17.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Teleported Rebondrake5556 to Dreoufther]
+[14Dec2024 20:44:33.954] [ForkJoinPool.commonPool-worker-5/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> y mony?
+[14Dec2024 20:44:47.257] [ForkJoinPool.commonPool-worker-5/INFO] [net.minecraft.server.MinecraftServer/]: <Dreoufther> no entra todavia :v
+[14Dec2024 20:46:48.250] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ArazibeMoney50_[/127.10.2.120:49471] logged in with entity id 14328 at (-726.3000000119209, 55.0, 164.4857588549525)
+[14Dec2024 20:46:48.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArazibeMoney50_ joined the game
+[14Dec2024 20:46:55.296] [ForkJoinPool.commonPool-worker-6/INFO] [net.minecraft.server.MinecraftServer/]: <Dreoufther> por fin
+[14Dec2024 20:47:04.681] [ForkJoinPool.commonPool-worker-6/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> xdxdxd
+[14Dec2024 20:47:08.293] [ForkJoinPool.commonPool-worker-6/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> estabas ahi cuando te desconectaste?
+[14Dec2024 20:47:20.411] [ForkJoinPool.commonPool-worker-6/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> en las vias?
+[14Dec2024 20:47:23.032] [ForkJoinPool.commonPool-worker-6/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> monycrafteos
+[14Dec2024 20:47:25.956] [ForkJoinPool.commonPool-worker-6/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> si
+[14Dec2024 20:47:28.334] [ForkJoinPool.commonPool-worker-6/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> sisisi
