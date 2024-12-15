@@ -1541,3 +1541,6 @@ Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.resource
 [15Dec2024 18:52:29.077] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/41980, l='ServerLevel[World]', x=2532.39, y=86.43, z=-4354.31] died, message: 'Villager blew up'
 [15Dec2024 18:52:29.078] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/41979, l='ServerLevel[World]', x=2532.52, y=85.62, z=-4353.73] died, message: 'Villager blew up'
 [15Dec2024 18:52:29.078] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/41984, l='ServerLevel[World]', x=2532.62, y=84.97, z=-4353.27] died, message: 'Villager blew up'
+[15Dec2024 19:22:21.229] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/46272, l='ServerLevel[World]', x=2554.28, y=79.64, z=-4375.71] died, message: 'Farmer was poked to death by a barbed wire.'
+[15Dec2024 19:24:14.979] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIOTNyx lost connection: Disconnected
+[15Dec2024 19:24:14.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIOTNyx left the game
