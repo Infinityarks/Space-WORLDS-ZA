@@ -1544,3 +1544,5 @@ Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.resource
 [15Dec2024 19:22:21.229] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/46272, l='ServerLevel[World]', x=2554.28, y=79.64, z=-4375.71] died, message: 'Farmer was poked to death by a barbed wire.'
 [15Dec2024 19:24:14.979] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIOTNyx lost connection: Disconnected
 [15Dec2024 19:24:14.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIOTNyx left the game
+[15Dec2024 20:28:06.682] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RIOTNyx[/127.135.191.121:38809] logged in with entity id 51653 at (2510.0281697227956, 80.0, -4363.229659557709)
+[15Dec2024 20:28:06.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIOTNyx joined the game
