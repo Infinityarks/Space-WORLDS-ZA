@@ -1630,3 +1630,24 @@ Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.resource
 [15Dec2024 22:27:11.481] [ForkJoinPool.commonPool-worker-12/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> cuantas vidas tienes?
 [15Dec2024 22:27:14.842] [ForkJoinPool.commonPool-worker-12/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> 1
 [15Dec2024 22:38:41.130] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/70197, l='ServerLevel[World]', x=2510.45, y=80.17, z=-4368.87] died, message: 'Villager burned to death'
+[15Dec2024 22:39:51.573] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/72351, l='ServerLevel[World]', x=2511.93, y=76.32, z=-4362.34] died, message: 'Villager was slain by RIOTNyx'
+[15Dec2024 22:40:47.363] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ClinicaSanPablo[/127.128.175.180:57757] logged in with entity id 72593 at (3577.503711453736, 122.9045272859854, -4675.141416052606)
+[15Dec2024 22:40:47.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ClinicaSanPablo joined the game
+[15Dec2024 22:40:58.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ClinicaSanPablo fell from a high place
+[15Dec2024 22:41:07.732] [ForkJoinPool.commonPool-worker-13/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> efectivamente me olvide avisarle a galleta de eso xd
+[15Dec2024 22:41:13.682] [ForkJoinPool.commonPool-worker-13/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> perame tantito ahi le digo
+[15Dec2024 22:41:42.983] [ForkJoinPool.commonPool-worker-13/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> dile que me tienes como testigo xd
+[15Dec2024 22:45:42.896] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Player ClinicaSanPablo tried to attack an invalid entity
+[15Dec2024 22:45:42.933] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ClinicaSanPablo lost connection: Attempting to attack an invalid entity
+[15Dec2024 22:45:42.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ClinicaSanPablo left the game
+[15Dec2024 22:46:01.735] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@59b75472[id=<null>,name=ClinicaSanPablo,properties={},legacy=false] (/127.128.175.180:50111) lost connection: Disconnected
+[15Dec2024 22:46:35.333] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4f1004f[id=<null>,name=ClinicaSanPablo,properties={},legacy=false] (/127.128.175.180:58871) lost connection: Disconnected
+[15Dec2024 22:47:05.333] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/71607, l='ServerLevel[World]', x=2515.51, y=75.00, z=-4360.30] died, message: 'Fletcher was slain by RIOTNyx'
+[15Dec2024 22:47:37.874] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ClinicaSanPablo[/127.128.175.180:43875] logged in with entity id 79269 at (3916.841929890579, 95.0, -4463.0)
+[15Dec2024 22:47:37.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ClinicaSanPablo joined the game
+[15Dec2024 22:47:54.743] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rebondrake5556[/127.223.108.19:47943] logged in with entity id 79556 at (-4602.3103106449535, 66.0, 3409.3094022691575)
+[15Dec2024 22:47:54.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rebondrake5556 joined the game
+[15Dec2024 22:48:13.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Survival Mode]
+[15Dec2024 22:48:15.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Creative Mode]
+[15Dec2024 22:49:00.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Survival Mode]
+[15Dec2024 22:49:01.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Spectator Mode]
