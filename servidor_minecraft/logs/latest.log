@@ -1547,3 +1547,4 @@ Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.resource
 [15Dec2024 20:28:06.682] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RIOTNyx[/127.135.191.121:38809] logged in with entity id 51653 at (2510.0281697227956, 80.0, -4363.229659557709)
 [15Dec2024 20:28:06.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIOTNyx joined the game
 [15Dec2024 20:29:18.330] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting top/ribs/scguns/item/attachment/IAttachment$Type
+[15Dec2024 20:39:16.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to RIOTNyx: a
