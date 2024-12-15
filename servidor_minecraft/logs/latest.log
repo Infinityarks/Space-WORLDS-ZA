@@ -1548,3 +1548,4 @@ Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.resource
 [15Dec2024 20:28:06.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIOTNyx joined the game
 [15Dec2024 20:29:18.330] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting top/ribs/scguns/item/attachment/IAttachment$Type
 [15Dec2024 20:39:16.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to RIOTNyx: a
+[15Dec2024 20:56:09.178] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/61280, l='ServerLevel[World]', x=2512.43, y=75.00, z=-4360.56] died, message: 'Villager was burnt to a crisp whilst fighting RIOTNyx'
