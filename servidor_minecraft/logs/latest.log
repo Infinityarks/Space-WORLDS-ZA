@@ -1651,3 +1651,6 @@ Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.resource
 [15Dec2024 22:48:15.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Creative Mode]
 [15Dec2024 22:49:00.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Survival Mode]
 [15Dec2024 22:49:01.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Spectator Mode]
+[15Dec2024 22:51:35.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set ClinicaSanPablo's game mode to Survival Mode]
+[15Dec2024 22:51:41.785] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rebondrake5556 lost connection: Disconnected
+[15Dec2024 22:51:41.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rebondrake5556 left the game

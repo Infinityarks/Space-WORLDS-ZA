@@ -2028,18 +2028,6 @@
     },
     "done": true
   },
-  "scguns:main/blackpowder/flintlock_pistol": {
-    "criteria": {
-      "flintlock_pistol": "2024-12-15 01:49:32 +0000"
-    },
-    "done": true
-  },
-  "scguns:main/copper/scrapper": {
-    "criteria": {
-      "scrapper": "2024-12-15 01:50:19 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2024-12-15 01:49:26 +0000"
@@ -2049,6 +2037,18 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2024-12-15 01:49:26 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/blackpowder/flintlock_pistol": {
+    "criteria": {
+      "flintlock_pistol": "2024-12-15 01:49:32 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/copper/scrapper": {
+    "criteria": {
+      "scrapper": "2024-12-15 01:50:19 +0000"
     },
     "done": true
   },
