@@ -1669,3 +1669,9 @@ Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.resource
 [15Dec2024 23:29:03.949] [ForkJoinPool.commonPool-worker-19/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> para que sirven?
 [15Dec2024 23:29:07.831] [ForkJoinPool.commonPool-worker-19/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> ya te muestro
 [15Dec2024 23:29:11.031] [ForkJoinPool.commonPool-worker-19/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> pasate nomoas xd
+[15Dec2024 23:32:51.656] [Server thread/WARN] [net.minecraft.world.level.block.entity.SignBlockEntity/]: Player ArazibeMoney50_ just tried to change non-editable sign
+[15Dec2024 23:35:05.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to RIOTNyx: hd flexea
+[15Dec2024 23:35:05.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to ClinicaSanPablo: hd flexea
+[15Dec2024 23:35:05.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to ArazibeMoney50_: hd flexea
+[15Dec2024 23:39:36.485] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ArazibeMoney50_ lost connection: Disconnected
+[15Dec2024 23:39:36.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArazibeMoney50_ left the game
