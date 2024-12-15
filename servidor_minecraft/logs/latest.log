@@ -1549,3 +1549,7 @@ Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.resource
 [15Dec2024 20:29:18.330] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting top/ribs/scguns/item/attachment/IAttachment$Type
 [15Dec2024 20:39:16.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to RIOTNyx: a
 [15Dec2024 20:56:09.178] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/61280, l='ServerLevel[World]', x=2512.43, y=75.00, z=-4360.56] died, message: 'Villager was burnt to a crisp whilst fighting RIOTNyx'
+[15Dec2024 20:59:31.366] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2472, y=54, z=-4443} BlockPos{x=2472, y=53, z=-4442}
+[15Dec2024 21:05:00.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to RIOTNyx: a
+[15Dec2024 21:05:06.470] [ForkJoinPool.commonPool-worker-7/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> b
+[15Dec2024 21:07:00.425] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/63465, l='ServerLevel[World]', x=2517.06, y=75.00, z=-4359.56] died, message: 'Villager was slain by RIOTNyx'
