@@ -3913,3 +3913,152 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [15Dec2024 18:24:31.426] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting xyz/przemyk/simpleplanes/network/CycleItemsPacket$Type
 [15Dec2024 18:26:09.654] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
 [15Dec2024 18:26:09.662] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[15Dec2024 18:30:37.074] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! -23.48416997931463,-0.9385445965816075,-3.2683782677504496
+[15Dec2024 18:30:37.075] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! -22.779919749533747,-0.9129089192330468,-3.169597517823604
+[15Dec2024 18:30:37.075] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! -22.07553401285122,-0.8840426509772499,-3.070906002184529
+[15Dec2024 18:30:37.075] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! -21.371086789521996,-0.8529937680107196,-2.9722852104050617
+[15Dec2024 18:30:37.075] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! -20.666615472698595,-0.8205568911073442,-2.8737157342084174
+[15Dec2024 18:30:37.076] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! -19.962133386896767,-0.7873325463549463,-2.7751785767841284
+[15Dec2024 18:30:37.076] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! -19.257637928208624,-0.7537732836442501,-2.6766556373386265
+[15Dec2024 18:30:37.076] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! -18.553115901488127,-0.7202192196553767,-2.5781299912359827
+[15Dec2024 18:30:37.076] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! -17.848547102839348,-0.6869252619648876,-2.4795859116993597
+[15Dec2024 18:30:37.077] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! -17.143906736893314,-0.6540818422916459,-2.3810090185370427
+[15Dec2024 18:30:37.088] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! -17.150101806681505,-0.6378892634317594,-2.382617573915013
+[15Dec2024 18:30:37.126] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! -16.444041908038344,-0.6218300514285602,-2.2831757765179646
+[15Dec2024 18:30:37.160] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! -16.44500771660796,-0.6216324101812347,-2.283405838082217
+[15Dec2024 18:31:08.779] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! -20.80093505311288,2.0412352326181917,-6.619869903585823
+[15Dec2024 18:31:08.780] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! -20.02792786143118,1.9651968147178138,-6.37337012369062
+[15Dec2024 18:31:08.780] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! -19.254702236817593,1.8897315322445536,-6.12686012346785
+[15Dec2024 18:31:08.781] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! -18.481297203597933,1.8146264984835625,-5.880330024860086
+[15Dec2024 18:31:08.781] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! -17.70774023198146,1.7397217375975913,-5.63376942283594
+[15Dec2024 18:31:08.781] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! -16.934050116167782,1.664897152037156,-5.3871678583000175
+[15Dec2024 18:31:08.787] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! -16.1602390653984,1.5900626946879584,-5.140515261809924
+[15Dec2024 18:31:08.787] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! -15.386314369289721,1.5151509612076381,-4.893801919236466
+[15Dec2024 18:31:08.787] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! -14.612279548230617,1.4401116031167476,-4.647018726174792
+[15Dec2024 18:31:08.787] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! -13.838135286143824,1.3649071208459702,-4.400157145386402
+[15Dec2024 18:31:08.796] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! -13.06509905646999,1.2867520886728414,-4.153185565007334
+[15Dec2024 18:31:08.845] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! -13.065623469251477,1.2873687193015542,-4.153623445604353
+[15Dec2024 18:31:08.879] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! -13.066169705347875,1.2873006280370873,-4.153914235942466
+[15Dec2024 18:31:09.643] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[15Dec2024 18:31:09.648] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[15Dec2024 18:31:49.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to RIOTNyx: riot moriste?
+[15Dec2024 18:31:59.895] [ForkJoinPool.commonPool-worker-3/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> si
+[15Dec2024 18:33:36.249] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! -4.698307886702423,0.298251886321907,-16.110429515968008
+[15Dec2024 18:33:36.250] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! -4.5145588325140125,0.29224299852560875,-15.446272118555498
+[15Dec2024 18:33:36.256] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! -4.331180355586184,0.2899347904975116,-14.779446140960317
+[15Dec2024 18:33:36.256] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! -4.148086418404546,0.2902292840920495,-14.110216406965264
+[15Dec2024 18:33:36.256] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! -3.9651970085687935,0.29228853218072004,-13.438784884092456
+[15Dec2024 18:33:36.257] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! -3.7824398428274435,0.2954754515335196,-12.765308817884488
+[15Dec2024 18:33:36.257] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! -3.599750868492265,0.29930709029420655,-12.08991305093059
+[15Dec2024 18:33:36.257] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! -3.4170741064694994,0.3034182443499276,-11.41269854262464
+[15Dec2024 18:33:36.262] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! -3.234361119897585,0.3075333676881087,-10.73374837755
+[15Dec2024 18:33:36.262] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! -3.051570376137988,0.3114450367902748,-10.053132061236738
+[15Dec2024 18:34:06.079] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! 19.359366718380898,-0.761097044501895,6.256034998608811
+[15Dec2024 18:34:06.080] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! 18.68325252751356,-0.7361626397239149,6.038177288520274
+[15Dec2024 18:34:06.080] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! 18.00690788128395,-0.7090012071012666,5.820168172974718
+[15Dec2024 18:34:06.080] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! 17.330371768824534,-0.6804099279879665,5.602044409881728
+[15Dec2024 18:34:06.081] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! 16.653659955035437,-0.6509916348797447,5.383831758576434
+[15Dec2024 18:34:06.081] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! 15.976772981944578,-0.6212009174693662,5.165547836973019
+[15Dec2024 18:34:06.081] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! 15.299701326435297,-0.5913796829869682,4.947204368737857
+[15Dec2024 18:34:06.081] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! 14.62242880513395,-0.5617844042153308,4.728808869448585
+[15Dec2024 18:34:06.086] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! 13.944934988013756,-0.5326068860786393,4.510365523898145
+[15Dec2024 18:34:06.086] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! 13.267196812694237,-0.5039900571711087,4.291875997787429
+[15Dec2024 18:34:06.095] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! 12.589189691909269,-0.47603994569382735,4.073340096115771
+[15Dec2024 18:34:06.147] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! 12.591217438603053,-0.4785000481379029,4.073968059905837
+[15Dec2024 18:34:06.172] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! 11.911661286347226,-0.46317965410108286,3.855499103938655
+[15Dec2024 18:34:14.698] [ForkJoinPool.commonPool-worker-4/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> me mataste tu
+[15Dec2024 18:34:39.328] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! 18.381706523440698,-0.09362219529347726,8.592463240602228
+[15Dec2024 18:34:39.335] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! 17.71529046993055,-0.09198261272922537,8.28166001354839
+[15Dec2024 18:34:39.340] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! 17.048575627684386,-0.08827879839807906,7.970637975112368
+[15Dec2024 18:34:39.341] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! 16.381615809511004,-0.08322761209623764,7.659446968395969
+[15Dec2024 18:34:39.341] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! 15.714441212434394,-0.07737076938306586,7.348122105771836
+[15Dec2024 18:34:39.372] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! 15.04706590459,-0.07111668776045121,7.036687883578452
+[15Dec2024 18:34:39.373] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! 14.37949292144367,-0.06477262623351976,6.725160982481611
+[15Dec2024 18:34:39.373] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! 13.711717743394729,-0.05856923198970776,6.413552312133106
+[15Dec2024 18:34:39.373] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! 13.043730730298648,-0.0526792161652736,6.101868468102111
+[15Dec2024 18:34:39.373] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! 12.375518820604611,-0.04723153204301411,5.79011284418084
+[15Dec2024 18:34:39.374] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! 11.70706675682959,-0.04232210047354101,5.478286420668155
+[15Dec2024 18:34:39.429] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! 12.376220306381583,-0.044029200438131966,5.790236691595965
+[15Dec2024 18:34:40.129] [Server thread/INFO] [limitedlives/]: RIOTNyx has 2 lives.
+[15Dec2024 18:35:10.853] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! -7.700168633474277,1.557794577555029,18.649803664841784
+[15Dec2024 18:35:10.854] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! -7.36497486084636,1.5006786896137925,18.00769879146901
+[15Dec2024 18:35:10.854] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! -7.0365626052121115,1.4442608396459633,17.36223879548379
+[15Dec2024 18:35:10.854] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! -6.7125774390901825,1.3882049502803824,16.71473015887841
+[15Dec2024 18:35:10.854] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! -6.39098245373134,1.332259785811587,16.066241596583495
+[15Dec2024 18:35:10.855] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! -6.070023852433678,1.2762386542077024,15.417659910152906
+[15Dec2024 18:35:10.855] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! -5.748198030584263,1.2200038822992099,14.769731472816602
+[15Dec2024 18:35:10.855] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! -5.424220155288822,1.1634550395694419,14.123093583130867
+[15Dec2024 18:35:10.855] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! -5.096996221343488,1.106519956731546,13.478297718596878
+[15Dec2024 18:35:10.855] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! -4.765597966221776,1.0491479213796708,12.835827096005232
+[15Dec2024 18:35:10.860] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! -4.4292403918716445,0.9913045462203911,12.196110139008852
+[15Dec2024 18:35:10.945] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! -4.909005187291768,1.0562783317965057,12.752950667751065
+[15Dec2024 18:35:10.996] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! -4.915142127099898,1.056125949281494,12.749018412319856
+[15Dec2024 18:35:11.028] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! -4.920665903936424,1.0559992097329456,12.745479334196716
+[15Dec2024 18:35:11.061] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! -4.51302666864558,0.994413387365725,12.146645184130648
+[15Dec2024 18:35:11.174] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! -4.933532084512535,1.056110287982321,12.736981755743727
+[15Dec2024 18:35:11.175] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! -4.518289155275397,0.994086015327909,12.143329081916818
+[15Dec2024 18:35:11.222] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! -4.520527618634333,0.9939635917903615,12.141892077246666
+[15Dec2024 18:35:42.655] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! -13.867933188882489,0.7520138908960945,-1.9822215064996271
+[15Dec2024 18:35:42.661] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! -13.35007643505196,0.7203144710890257,-1.8533773822264266
+[15Dec2024 18:35:42.686] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! -13.33660150354308,0.7223186727178899,-1.8977074305612405
+[15Dec2024 18:35:42.686] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! -12.817790034801419,0.6905578138478461,-1.7781226704428263
+[15Dec2024 18:35:42.686] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! -12.299134449492612,0.658640395411723,-1.660585157163041
+[15Dec2024 18:35:42.687] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! -11.780944040401664,0.6265036476875281,-1.5436999986168303
+[15Dec2024 18:35:42.687] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! -11.263473721701757,0.5940965665800064,-1.426276556803714
+[15Dec2024 18:35:42.687] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! -10.746939790040415,0.5613774797439675,-1.3073001329830731
+[15Dec2024 18:35:42.687] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! -10.23153095083444,0.5283121368360071,-1.18590725498143
+[15Dec2024 18:35:54.531] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved wrongly! 0.2679913085449963
+[15Dec2024 18:36:09.590] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/core_id
+[15Dec2024 18:36:09.590] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/core_id
+[15Dec2024 18:36:09.590] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/physical_package_id
+[15Dec2024 18:36:09.590] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/physical_package_id
+[15Dec2024 18:36:09.590] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cpu_capacity
+[15Dec2024 18:36:09.591] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/core_id
+[15Dec2024 18:36:09.591] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/core_id
+[15Dec2024 18:36:09.591] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/physical_package_id
+[15Dec2024 18:36:09.591] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/physical_package_id
+[15Dec2024 18:36:09.591] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cpu_capacity
+[15Dec2024 18:36:09.592] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/core_id
+[15Dec2024 18:36:09.592] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/core_id
+[15Dec2024 18:36:09.592] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/physical_package_id
+[15Dec2024 18:36:09.592] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/physical_package_id
+[15Dec2024 18:36:09.592] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cpu_capacity
+[15Dec2024 18:36:09.592] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/core_id
+[15Dec2024 18:36:09.592] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/core_id
+[15Dec2024 18:36:09.593] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/physical_package_id
+[15Dec2024 18:36:09.593] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/physical_package_id
+[15Dec2024 18:36:09.593] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cpu_capacity
+[15Dec2024 18:36:09.593] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/cpuinfo
+[15Dec2024 18:36:09.602] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/self/auxv
+[15Dec2024 18:36:09.603] [Server thread/DEBUG] [oshi.util.FileUtil/]: No oshi.architecture.properties file found from ClassLoader cpw.mods.modlauncher.TransformingClassLoader@235d659c
+[15Dec2024 18:36:09.604] [Server thread/DEBUG] [oshi.util.FileUtil/]: No oshi.architecture.properties file found from ClassLoader jdk.internal.loader.ClassLoaders$AppClassLoader@2f92e0f4
+[15Dec2024 18:36:09.613] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/meminfo
+[15Dec2024 18:36:09.613] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/meminfo
+[15Dec2024 18:36:09.617] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.EntityStorage/]: An Entity type entity.scguns.brass_bolt has thrown an exception trying to write state. It will not persist. Report this to the mod author
+net.minecraft.ReportedException: Saving entity NBT
+	at net.minecraft.world.entity.Entity.m_20240_(Entity.java:1683) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.world.entity.Entity.m_20086_(Entity.java:1588) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.world.entity.Entity.m_20223_(Entity.java:1595) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.world.level.chunk.storage.EntityStorage.m_156565_(EntityStorage.java:93) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1708) ~[?:?]
+	at java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:762) ~[?:?]
+	at net.minecraft.world.level.chunk.storage.EntityStorage.m_141971_(EntityStorage.java:90) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.world.level.entity.PersistentEntitySectionManager.m_157512_(PersistentEntitySectionManager.java:217) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.world.level.entity.PersistentEntitySectionManager.m_157578_(PersistentEntitySectionManager.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at it.unimi.dsi.fastutil.longs.LongOpenHashSet.forEach(LongOpenHashSet.java:756) ~[fastutil-8.5.9.jar%2390!/:?]
+	at it.unimi.dsi.fastutil.longs.LongIterable.forEach(LongIterable.java:146) ~[fastutil-8.5.9.jar%2390!/:?]
+	at it.unimi.dsi.fastutil.longs.AbstractLongCollection.forEach(AbstractLongCollection.java:149) ~[fastutil-8.5.9.jar%2390!/:?]
+	at net.minecraft.world.level.entity.PersistentEntitySectionManager.m_157554_(PersistentEntitySectionManager.java:286) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8643_(ServerLevel.java:746) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.server.MinecraftServer.m_129885_(MinecraftServer.java:507) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.server.MinecraftServer.m_195514_(MinecraftServer.java:532) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:824) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.resources.ResourceLocation.toString()" because the return value of "net.minecraft.core.Registry.m_7981_(Object)" is null
+	at net.minecraft.world.entity.projectile.AbstractArrow.m_7380_(AbstractArrow.java:465) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.world.entity.Entity.m_20240_(Entity.java:1662) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	... 19 more
+[15Dec2024 18:36:09.686] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[15Dec2024 18:36:09.691] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
