@@ -1656,3 +1656,16 @@ Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.resource
 [15Dec2024 22:51:41.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rebondrake5556 left the game
 [15Dec2024 23:10:31.987] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ClinicaSanPablo moved wrongly!
 [15Dec2024 23:17:55.372] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ClinicaSanPablo moved wrongly!
+[15Dec2024 23:25:02.835] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[15Dec2024 23:25:03.336] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/material/MapColor$Brightness
+[15Dec2024 23:25:36.833] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2553, y=84, z=-4580} BlockPos{x=2552, y=83, z=-4581}
+[15Dec2024 23:25:36.882] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2553, y=84, z=-4580} BlockPos{x=2552, y=83, z=-4581}
+[15Dec2024 23:25:36.932] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2553, y=84, z=-4580} BlockPos{x=2552, y=83, z=-4581}
+[15Dec2024 23:26:03.182] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ArazibeMoney50_ lost connection: Disconnected
+[15Dec2024 23:26:03.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArazibeMoney50_ left the game
+[15Dec2024 23:26:07.488] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ArazibeMoney50_[/127.10.2.120:38759] logged in with entity id 97059 at (-1582.154807878977, 57.5, 770.1857280551535)
+[15Dec2024 23:26:07.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArazibeMoney50_ joined the game
+[15Dec2024 23:28:54.412] [ForkJoinPool.commonPool-worker-19/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> xd
+[15Dec2024 23:29:03.949] [ForkJoinPool.commonPool-worker-19/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> para que sirven?
+[15Dec2024 23:29:07.831] [ForkJoinPool.commonPool-worker-19/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> ya te muestro
+[15Dec2024 23:29:11.031] [ForkJoinPool.commonPool-worker-19/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> pasate nomoas xd
