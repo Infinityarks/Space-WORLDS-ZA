@@ -4449,3 +4449,8 @@ Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.resource
 [15Dec2024 21:11:09.651] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
 [15Dec2024 21:16:09.630] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
 [15Dec2024 21:16:09.636] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[15Dec2024 21:20:18.027] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIOTNyx moved wrongly!
+[15Dec2024 21:21:09.647] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[15Dec2024 21:21:09.652] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[15Dec2024 21:26:09.645] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[15Dec2024 21:26:09.651] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
