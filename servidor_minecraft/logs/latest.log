@@ -1659,3 +1659,97 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [16Dec2024 21:21:27.775] [Worker-Main-141/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-59, z=33}
 [16Dec2024 21:21:27.775] [Worker-Main-141/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=7, y=-59, z=40}
 [16Dec2024 21:21:27.775] [Worker-Main-141/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=7, y=-59, z=33}
+[16Dec2024 21:24:37.702] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=3695, y=70, z=-3121} but found not block entity block Block{minecraft:stone_bricks} at location
+[16Dec2024 21:24:37.703] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:stone_bricks} but failed at location BlockPos{x=3695, y=70, z=-3121}
+[16Dec2024 21:25:45.773] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ClinicaSanPablo[/127.128.175.180:44155] logged in with entity id 54262 at (2674.6724777160016, 90.0, -4915.483885787879)
+[16Dec2024 21:25:45.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ClinicaSanPablo joined the game
+[16Dec2024 21:26:02.787] [ForkJoinPool.commonPool-worker-29/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> se callo el porton
+[16Dec2024 21:26:43.099] [ForkJoinPool.commonPool-worker-29/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> por un segundo te juro que vi a riot en espectador en el tab
+[16Dec2024 21:26:47.982] [ForkJoinPool.commonPool-worker-29/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> pense que se mato xd
+[16Dec2024 21:26:52.044] [ForkJoinPool.commonPool-worker-29/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> JAJAJA
+[16Dec2024 21:27:41.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArazibeMoney50_ blew up
+[16Dec2024 21:27:41.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dreoufther blew up
+[16Dec2024 21:27:43.833] [ForkJoinPool.commonPool-worker-29/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> xD
+[16Dec2024 21:27:46.914] [ForkJoinPool.commonPool-worker-29/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> ????
+[16Dec2024 21:27:56.164] [ForkJoinPool.commonPool-worker-29/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> jajajajajajaja
+[16Dec2024 21:27:56.216] [ForkJoinPool.commonPool-worker-29/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> double kill de minas
+[16Dec2024 21:27:56.899] [ForkJoinPool.commonPool-worker-29/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> potente
+[16Dec2024 21:28:05.936] [ForkJoinPool.commonPool-worker-29/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> donde estan las minas?
+[16Dec2024 21:28:08.025] [ForkJoinPool.commonPool-worker-29/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> fue un elicopetero
+[16Dec2024 21:28:10.416] [ForkJoinPool.commonPool-worker-29/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> xa
+[16Dec2024 21:28:20.083] [ForkJoinPool.commonPool-worker-29/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> q raro
+[16Dec2024 21:28:24.550] [ForkJoinPool.commonPool-worker-29/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> yo si sobrevivi a la explosion de uno
+[16Dec2024 21:28:32.050] [ForkJoinPool.commonPool-worker-29/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> pense que no te hacia insta kill
+[16Dec2024 21:28:41.093] [ForkJoinPool.commonPool-worker-29/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> :)
+[16Dec2024 21:28:53.805] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[16Dec2024 21:28:55.732] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/material/MapColor$Brightness
+[16Dec2024 21:29:16.449] [ForkJoinPool.commonPool-worker-29/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> oh bueno nuevo dato para no olvidar
+[16Dec2024 21:32:43.031] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['Humanoid'/62362, l='ServerLevel[World]', x=0.00, y=0.00, z=0.00] ...
+[16Dec2024 21:32:43.032] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['Humanoid'/62362, l='ServerLevel[World]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[16Dec2024 21:32:43.032] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Humanoid['Endermandrow TSI'/62362, l='ServerLevel[World]', x=17.50, y=65.00, z=-15.50].
+[16Dec2024 21:32:43.033] [Server thread/INFO] [Easy NPC/]: Loading trading offers [net.minecraft.world.item.trading.MerchantOffer@bdf281a] for Humanoid['Endermandrow TSI'/62362, l='ServerLevel[World]', x=17.50, y=65.00, z=-15.50]
+[16Dec2024 21:32:43.979] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['Humanoid'/62379, l='ServerLevel[World]', x=0.00, y=0.00, z=0.00] ...
+[16Dec2024 21:32:43.980] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['Humanoid'/62379, l='ServerLevel[World]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[16Dec2024 21:32:43.980] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Humanoid['Kisu'/62379, l='ServerLevel[World]', x=15.50, y=65.00, z=-17.50].
+[16Dec2024 21:32:43.981] [Server thread/INFO] [Easy NPC/]: Loading trading offers [net.minecraft.world.item.trading.MerchantOffer@3043fcd0, net.minecraft.world.item.trading.MerchantOffer@146d6c23, net.minecraft.world.item.trading.MerchantOffer@4f442a91, net.minecraft.world.item.trading.MerchantOffer@18cbd599] for Humanoid['Kisu'/62379, l='ServerLevel[World]', x=15.50, y=65.00, z=-17.50]
+[16Dec2024 21:33:33.625] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rebondrake5556[/127.223.108.19:51241] logged in with entity id 63552 at (-1570.6113856651293, 59.0, 772.2197995995783)
+[16Dec2024 21:33:33.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rebondrake5556 joined the game
+[16Dec2024 21:34:16.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Spectator Mode]
+[16Dec2024 21:34:35.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Creative Mode]
+[16Dec2024 21:34:53.649] [ForkJoinPool.commonPool-worker-32/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> wally murio pa siempre
+[16Dec2024 21:34:57.814] [ForkJoinPool.commonPool-worker-32/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> lo perdimo
+[16Dec2024 21:34:58.213] [ForkJoinPool.commonPool-worker-32/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> JAJAJAJ
+[16Dec2024 21:35:00.367] [ForkJoinPool.commonPool-worker-32/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> xD
+[16Dec2024 21:35:06.812] [ForkJoinPool.commonPool-worker-32/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> pipipi
+[16Dec2024 21:35:10.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Teleported Dreoufther to Rebondrake5556]
+[16Dec2024 21:35:14.901] [ForkJoinPool.commonPool-worker-32/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> galleta me tenia emocionado del primer dia
+[16Dec2024 21:35:22.063] [ForkJoinPool.commonPool-worker-32/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> pq se salio del gurpo wally
+[16Dec2024 21:35:22.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set Dreoufther's game mode to Survival Mode]
+[16Dec2024 21:35:23.034] [ForkJoinPool.commonPool-worker-32/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> diciendome que esta el equipo este de tryhard todo potente
+[16Dec2024 21:35:29.151] [ForkJoinPool.commonPool-worker-32/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> en todo lo que llevo los e visto morir un chingo
+[16Dec2024 21:35:29.651] [ForkJoinPool.commonPool-worker-32/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> xD
+[16Dec2024 21:35:41.014] [ForkJoinPool.commonPool-worker-32/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> ese no es
+[16Dec2024 21:35:47.351] [ForkJoinPool.commonPool-worker-32/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> toncs nunca se conectan o q
+[16Dec2024 21:35:53.912] [ForkJoinPool.commonPool-worker-32/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> el team que decia es rusheadores
+[16Dec2024 21:35:58.218] [ForkJoinPool.commonPool-worker-32/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> aparte de estos 2 solo e visto a 2 personas mas
+[16Dec2024 21:36:06.120] [ForkJoinPool.commonPool-worker-32/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> se conectaron desde el dia 1 a 5
+[16Dec2024 21:36:41.317] [ForkJoinPool.commonPool-worker-32/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> axd
+[16Dec2024 21:36:45.618] [ForkJoinPool.commonPool-worker-32/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> pa eso
+[16Dec2024 21:36:57.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dreoufther fell from a high place
+[16Dec2024 21:37:01.418] [ForkJoinPool.commonPool-worker-32/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> grande
+[16Dec2024 21:37:13.274] [ForkJoinPool.commonPool-worker-32/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> JAJAJAJAJA}
+[16Dec2024 21:37:15.065] [ForkJoinPool.commonPool-worker-32/INFO] [net.minecraft.server.MinecraftServer/]: <Dreoufther> cojudo
+[16Dec2024 21:37:23.432] [ForkJoinPool.commonPool-worker-32/INFO] [net.minecraft.server.MinecraftServer/]: <Dreoufther> mony me sacste del elicoptero
+[16Dec2024 21:37:28.414] [ForkJoinPool.commonPool-worker-32/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> COMO
+[16Dec2024 21:37:31.615] [ForkJoinPool.commonPool-worker-32/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> YO NO FUIII
+[16Dec2024 21:37:35.068] [ForkJoinPool.commonPool-worker-32/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> cuando hay mas de una persona en el heli
+[16Dec2024 21:37:44.284] [ForkJoinPool.commonPool-worker-32/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> y uno sale o se desconecta o algo por el stilo
+[16Dec2024 21:37:45.513] [ForkJoinPool.commonPool-worker-32/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> pasa eso
+[16Dec2024 21:37:49.765] [ForkJoinPool.commonPool-worker-32/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> porque el heli se sigue moviendo xd
+[16Dec2024 21:37:58.613] [ForkJoinPool.commonPool-worker-32/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> PERO YO NO LO SAQUEEE
+[16Dec2024 21:38:00.571] [ForkJoinPool.commonPool-worker-32/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> jajajaj
+[16Dec2024 21:38:28.617] [ForkJoinPool.commonPool-worker-32/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> galleta mira
+[16Dec2024 21:38:57.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Spectator Mode]
+[16Dec2024 21:39:06.674] [ForkJoinPool.commonPool-worker-32/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> mierdines
+[16Dec2024 21:39:47.596] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['Humanoid'/69434, l='ServerLevel[World]', x=0.00, y=0.00, z=0.00] ...
+[16Dec2024 21:39:47.598] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['Humanoid'/69434, l='ServerLevel[World]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[16Dec2024 21:39:47.599] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Humanoid['Endermandrow TSI'/69434, l='ServerLevel[World]', x=17.50, y=65.00, z=-15.50].
+[16Dec2024 21:39:47.603] [Server thread/INFO] [Easy NPC/]: Loading trading offers [net.minecraft.world.item.trading.MerchantOffer@3d4ce474] for Humanoid['Endermandrow TSI'/69434, l='ServerLevel[World]', x=17.50, y=65.00, z=-15.50]
+[16Dec2024 21:39:49.104] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['Humanoid'/69452, l='ServerLevel[World]', x=0.00, y=0.00, z=0.00] ...
+[16Dec2024 21:39:49.104] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['Humanoid'/69452, l='ServerLevel[World]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[16Dec2024 21:39:49.104] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Humanoid['Kisu'/69452, l='ServerLevel[World]', x=15.50, y=65.00, z=-17.50].
+[16Dec2024 21:39:49.104] [Server thread/INFO] [Easy NPC/]: Loading trading offers [net.minecraft.world.item.trading.MerchantOffer@275d4459, net.minecraft.world.item.trading.MerchantOffer@7dcf2b35, net.minecraft.world.item.trading.MerchantOffer@1eca8b9, net.minecraft.world.item.trading.MerchantOffer@414304a7] for Humanoid['Kisu'/69452, l='ServerLevel[World]', x=15.50, y=65.00, z=-17.50]
+[16Dec2024 21:39:57.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Creative Mode]
+[16Dec2024 21:40:40.062] [ForkJoinPool.commonPool-worker-33/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> con esto le quedara 1 vida a patooveja
+[16Dec2024 21:40:53.625] [ForkJoinPool.commonPool-worker-33/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> ya se van gastando el 90% de los recursos en revivirlos
+[16Dec2024 21:40:56.769] [ForkJoinPool.commonPool-worker-33/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> xD
+[16Dec2024 21:41:04.790] [ForkJoinPool.commonPool-worker-33/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> y tambien todas las vidas del equipo
+[16Dec2024 21:41:06.085] [ForkJoinPool.commonPool-worker-33/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> a cierto
+[16Dec2024 21:41:13.119] [ForkJoinPool.commonPool-worker-33/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> mas vale que esta mochila no me desaparesca las cosas galleta >:C
+[16Dec2024 21:41:19.219] [ForkJoinPool.commonPool-worker-33/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> XDD
+[16Dec2024 21:41:29.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Teleported Dreoufther to Rebondrake5556]
+[16Dec2024 21:42:29.086] [ForkJoinPool.commonPool-worker-34/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> igual te re cagaron los del team esew
+[16Dec2024 21:42:34.919] [ForkJoinPool.commonPool-worker-34/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> se re fueronx d
+[16Dec2024 21:42:59.313] [ForkJoinPool.commonPool-worker-34/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> cual team
+[16Dec2024 21:43:05.196] [ForkJoinPool.commonPool-worker-34/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> ?
+[16Dec2024 21:43:05.310] [ForkJoinPool.commonPool-worker-34/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> el de rush

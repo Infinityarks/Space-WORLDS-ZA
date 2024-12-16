@@ -137,6 +137,7 @@
       "minecraft:creeper": "2024-12-08 17:06:02 +0000",
       "minecraft:husk": "2024-12-13 00:10:43 +0000",
       "minecraft:enderman": "2024-12-10 17:27:11 +0000",
+      "minecraft:stray": "2024-12-16 21:34:41 +0000",
       "minecraft:zombie": "2024-12-08 17:04:25 +0000",
       "minecraft:drowned": "2024-12-09 01:05:15 +0000",
       "minecraft:zombie_villager": "2024-12-09 02:33:09 +0000"
@@ -2054,6 +2055,12 @@
     },
     "done": true
   },
+  "scguns:main/diamond_steel/soul_drummer": {
+    "criteria": {
+      "soul_drummer": "2024-12-16 19:37:34 +0000"
+    },
+    "done": true
+  },
   "scguns:main/diamond_steel/prush_gun": {
     "criteria": {
       "prush_gun": "2024-12-16 19:44:20 +0000"
@@ -2084,18 +2091,6 @@
     },
     "done": true
   },
-  "scguns:main/diamond_steel/soul_drummer": {
-    "criteria": {
-      "soul_drummer": "2024-12-16 19:37:34 +0000"
-    },
-    "done": true
-  },
-  "scguns:main/diamond_steel/lockewood": {
-    "criteria": {
-      "lockewood": "2024-12-16 19:53:02 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/deepslate_tile_wall": {
     "criteria": {
       "has_deepslate_tiles": "2024-12-16 19:52:39 +0000"
@@ -2111,6 +2106,12 @@
   "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
     "criteria": {
       "has_deepslate_tiles": "2024-12-16 19:52:39 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/diamond_steel/lockewood": {
+    "criteria": {
+      "lockewood": "2024-12-16 19:53:02 +0000"
     },
     "done": true
   },
