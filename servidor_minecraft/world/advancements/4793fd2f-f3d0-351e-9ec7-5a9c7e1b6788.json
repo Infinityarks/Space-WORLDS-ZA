@@ -2752,6 +2752,12 @@
     },
     "done": true
   },
+  "zombiekit:whos_your_daddy": {
+    "criteria": {
+      "whos_your_daddy": "2024-12-16 19:53:24 +0000"
+    },
+    "done": true
+  },
   "zombiekit:saw": {
     "criteria": {
       "saw": "2024-12-16 19:46:41 +0000"
@@ -2767,6 +2773,18 @@
   "scguns:main/copper/umax_pistol": {
     "criteria": {
       "umax_pistol": "2024-12-16 19:44:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-12-16 19:58:48 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2024-12-16 19:54:11 +0000"
     },
     "done": true
   },
@@ -2824,9 +2842,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-12-16 19:58:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/conduit": {
     "criteria": {
       "has_nautilus_core": "2024-12-16 19:31:47 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2024-12-16 19:54:11 +0000"
     },
     "done": true
   },
