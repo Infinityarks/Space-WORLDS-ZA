@@ -8378,3 +8378,62 @@ Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.resource
 [16Dec2024 03:13:47.750] [Server thread/INFO] [Easy NPC/]: Opening menu 00430208-df83-4775-95f7-f1ced9bb0e47 for npc 2bce5709-0789-4265-96f7-1b8eba7fb991 and player ServerPlayer['RIOTNyx'/167840, l='ServerLevel[World]', x=16.64, y=65.00, z=-17.73] with DialogMenuHandler{displayName=literal{Endermandrow TSI}[style={color=#FF00FF}]}
 [16Dec2024 03:13:49.048] [Server thread/INFO] [Easy NPC/]: Opening menu 3d16c434-c61c-40a4-b453-2d7f0da8fbc0 for npc 2bce5709-0789-4265-96f7-1b8eba7fb991 and player ServerPlayer['RIOTNyx'/167840, l='ServerLevel[World]', x=16.64, y=65.00, z=-17.73] with DialogMenuHandler{displayName=literal{Endermandrow TSI}[style={color=#FF00FF}]}
 [16Dec2024 03:13:53.633] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/227120, l='ServerLevel[World]', x=2516.51, y=75.00, z=-4359.51] died, message: 'Librarian was slain by Zombie Villager'
+[16Dec2024 03:16:09.665] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[16Dec2024 03:16:09.671] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[16Dec2024 03:18:59.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArazibeMoney50_ blew up
+[16Dec2024 03:19:03.435] [ForkJoinPool.commonPool-worker-51/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> otra ves
+[16Dec2024 03:19:06.780] [ForkJoinPool.commonPool-worker-51/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> q
+[16Dec2024 03:19:13.084] [ForkJoinPool.commonPool-worker-51/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> q no te acaban de revivir?
+[16Dec2024 03:19:18.547] [ForkJoinPool.commonPool-worker-51/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> q significa blew up
+[16Dec2024 03:19:22.479] [ForkJoinPool.commonPool-worker-51/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> q explotaste
+[16Dec2024 03:19:27.339] [ForkJoinPool.commonPool-worker-51/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> man conq
+[16Dec2024 03:19:35.029] [ForkJoinPool.commonPool-worker-51/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> ps no fue un creeper
+[16Dec2024 03:19:35.123] [ForkJoinPool.commonPool-worker-51/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> estouy full diamnte wtf
+[16Dec2024 03:19:40.234] [ForkJoinPool.commonPool-worker-51/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> porque si no aparece by a creeper
+[16Dec2024 03:19:40.510] [ForkJoinPool.commonPool-worker-51/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> nmms
+[16Dec2024 03:19:44.882] [ForkJoinPool.commonPool-worker-51/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> posiblemente te comiste una mina
+[16Dec2024 03:19:51.580] [ForkJoinPool.commonPool-worker-51/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> hace poco descubri que existen xd
+[16Dec2024 03:19:56.630] [ForkJoinPool.commonPool-worker-51/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> a
+[16Dec2024 03:20:11.783] [ForkJoinPool.commonPool-worker-51/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> q verga
+[16Dec2024 03:20:19.928] [ForkJoinPool.commonPool-worker-51/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> pero donde moriste mas o menos
+[16Dec2024 03:20:23.917] [ForkJoinPool.commonPool-worker-51/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> sepa
+[16Dec2024 03:20:26.401] [ForkJoinPool.commonPool-worker-51/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> si fue como una zona militar
+[16Dec2024 03:20:29.734] [ForkJoinPool.commonPool-worker-51/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> toncs si fue una mina
+[16Dec2024 03:20:33.782] [ForkJoinPool.commonPool-worker-51/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> en un bosque xd
+[16Dec2024 03:20:37.236] [ForkJoinPool.commonPool-worker-51/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> a toncs si ni idea
+[16Dec2024 03:20:44.588] [ForkJoinPool.commonPool-worker-51/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> pero wtf full diamnte
+[16Dec2024 03:20:47.535] [ForkJoinPool.commonPool-worker-51/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> de ves en cuando hay explosiones random causadas por bichos todo raros
+[16Dec2024 03:20:49.063] [ForkJoinPool.commonPool-worker-51/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> encantado he
+[16Dec2024 03:20:52.335] [ForkJoinPool.commonPool-worker-51/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> esos haces buen daño xd
+[16Dec2024 03:21:03.569] [ForkJoinPool.commonPool-worker-51/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> me esta cargando la vrg
+[16Dec2024 03:21:09.647] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[16Dec2024 03:21:09.653] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[16Dec2024 03:21:23.597] [ForkJoinPool.commonPool-worker-51/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> en plan literal solo pum
+[16Dec2024 03:21:30.230] [ForkJoinPool.commonPool-worker-51/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> pues si llega a pasar
+[16Dec2024 03:21:37.895] [ForkJoinPool.commonPool-worker-51/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> JAJAJA
+[16Dec2024 03:21:43.797] [ForkJoinPool.commonPool-worker-51/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> yo vivo asi con miedo wacho escucho explosiones por todos lados xD
+[16Dec2024 03:21:54.030] [ForkJoinPool.commonPool-worker-51/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> a donde valla escucho explosiones
+[16Dec2024 03:21:58.779] [ForkJoinPool.commonPool-worker-51/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> mayormente en bosques
+[16Dec2024 03:22:22.621] [ForkJoinPool.commonPool-worker-51/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> nmms si revivo ya no salgo pa nada alv
+[16Dec2024 03:22:35.435] [ForkJoinPool.commonPool-worker-51/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> yo tengo 1 vida y vivo al limite
+[16Dec2024 03:22:38.302] [ForkJoinPool.commonPool-worker-51/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> es cuestion de no tener miedo
+[16Dec2024 03:22:42.981] [ForkJoinPool.commonPool-worker-51/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> si le tienes miedo a morir si te vas a morir xd
+[16Dec2024 03:23:12.903] [ForkJoinPool.commonPool-worker-51/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> Y MAÑANA SUBE EL PUTO PRECIO DE LA REVIVICIOOOOOOOOOOOON
+[16Dec2024 03:23:18.032] [ForkJoinPool.commonPool-worker-51/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> y si
+[16Dec2024 03:23:45.915] [ForkJoinPool.commonPool-worker-51/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> SI AY MINAS PERRA MADRE
+[16Dec2024 03:23:48.936] [ForkJoinPool.commonPool-worker-51/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> xD
+[16Dec2024 03:23:57.003] [ForkJoinPool.commonPool-worker-51/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> eso explica las explosiones que escucho siempre por el bosque
+[16Dec2024 03:24:58.618] [ForkJoinPool.commonPool-worker-52/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> ni hacen destrozo lit te matan sin mas
+[16Dec2024 03:25:07.886] [ForkJoinPool.commonPool-worker-52/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> a tonces se cuales son
+[16Dec2024 03:25:10.188] [ForkJoinPool.commonPool-worker-52/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> si son como diminutas
+[16Dec2024 03:25:14.783] [ForkJoinPool.commonPool-worker-52/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> tonces esas son crafteables
+[16Dec2024 03:25:16.653] [ForkJoinPool.commonPool-worker-52/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> las probe
+[16Dec2024 03:25:21.037] [ForkJoinPool.commonPool-worker-52/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> si se ven como marrones
+[16Dec2024 03:25:23.581] [ForkJoinPool.commonPool-worker-52/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> esas si ni idea
+[16Dec2024 03:25:44.418] [ForkJoinPool.commonPool-worker-52/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> son como verdes
+[16Dec2024 03:25:49.655] [ForkJoinPool.commonPool-worker-52/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> a tonces si se cuales son
+[16Dec2024 03:25:57.336] [ForkJoinPool.commonPool-worker-52/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> no alcanse a probar cuanto daño hacian
+[16Dec2024 03:25:59.987] [ForkJoinPool.commonPool-worker-52/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> las probe con zombies nomas
+[16Dec2024 03:26:09.649] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[16Dec2024 03:26:09.655] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[16Dec2024 03:26:25.103] [ForkJoinPool.commonPool-worker-52/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> igual q mala suerte
