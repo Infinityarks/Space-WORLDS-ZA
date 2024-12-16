@@ -1348,3 +1348,6 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [16Dec2024 18:43:19.512] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 100
 [16Dec2024 18:43:19.512] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@75ced3a2]Can't spawn wave because max cap has been reached
 [16Dec2024 18:43:46.058] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[16Dec2024 18:58:11.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to RIOTNyx: a
+[16Dec2024 18:58:35.735] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/38, l='ServerLevel[World]', x=2515.50, y=75.00, z=-4367.30] died, message: 'Villager was slain by RIOTNyx'
+[16Dec2024 18:58:44.234] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/82, l='ServerLevel[World]', x=2515.50, y=75.00, z=-4366.75] died, message: 'Villager was slain by RIOTNyx'
