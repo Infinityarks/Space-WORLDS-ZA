@@ -4954,3 +4954,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [16Dec2024 20:14:04.516] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
 [16Dec2024 20:19:04.512] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
 [16Dec2024 20:19:04.517] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[16Dec2024 20:24:04.520] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[16Dec2024 20:24:04.525] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[16Dec2024 20:29:04.512] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[16Dec2024 20:29:04.518] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
