@@ -2752,9 +2752,39 @@
     },
     "done": true
   },
+  "zombiekit:saw": {
+    "criteria": {
+      "saw": "2024-12-16 19:46:41 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/copper/makeshift_rifle": {
+    "criteria": {
+      "makeshift_rifle": "2024-12-16 19:44:47 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/copper/umax_pistol": {
+    "criteria": {
+      "umax_pistol": "2024-12-16 19:44:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/spyglass": {
     "criteria": {
       "has_amethyst_shard": "2024-12-16 19:35:27 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/copper/bruiser": {
+    "criteria": {
+      "bruiser": "2024-12-16 19:44:51 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/copper/llr_director": {
+    "criteria": {
+      "llr_director": "2024-12-16 19:44:52 +0000"
     },
     "done": true
   },
@@ -2764,9 +2794,27 @@
     },
     "done": true
   },
+  "scguns:main/copper/scrapper": {
+    "criteria": {
+      "scrapper": "2024-12-16 19:44:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2024-12-16 19:35:30 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/copper/arc_worker": {
+    "criteria": {
+      "arc_worker": "2024-12-16 19:44:52 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/copper/boomstick": {
+    "criteria": {
+      "boomstick": "2024-12-16 19:44:51 +0000"
     },
     "done": true
   },

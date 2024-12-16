@@ -2053,6 +2053,12 @@
     },
     "done": true
   },
+  "scguns:main/diamond_steel/prush_gun": {
+    "criteria": {
+      "prush_gun": "2024-12-16 19:44:20 +0000"
+    },
+    "done": true
+  },
   "scguns:main/diamond_steel/soul_drummer": {
     "criteria": {
       "soul_drummer": "2024-12-16 19:37:34 +0000"

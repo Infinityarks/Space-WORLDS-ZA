@@ -4671,3 +4671,43 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [16Dec2024 19:38:47.669] [Server thread/WARN] [scguns/]: literal{Rebondrake5556}(6247ac24-69ce-3cb3-8456-4b77c1b1a6cf) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 97
 [16Dec2024 19:39:04.577] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
 [16Dec2024 19:39:04.584] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[16Dec2024 19:41:09.859] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of zombiekit:shelter/touring_car
+[16Dec2024 19:41:44.618] [ForkJoinPool.commonPool-worker-10/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> porque el equipo de chris no se mete?
+[16Dec2024 19:41:54.570] [ForkJoinPool.commonPool-worker-10/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> porque ya estan op
+[16Dec2024 19:42:01.766] [ForkJoinPool.commonPool-worker-10/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> estan esperando a cambios
+[16Dec2024 19:42:16.618] [Server thread/WARN] [scguns/]: literal{Rebondrake5556}(6247ac24-69ce-3cb3-8456-4b77c1b1a6cf) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 150
+[16Dec2024 19:42:22.121] [Server thread/WARN] [scguns/]: literal{Rebondrake5556}(6247ac24-69ce-3cb3-8456-4b77c1b1a6cf) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 142
+[16Dec2024 19:42:54.470] [Server thread/WARN] [scguns/]: literal{Rebondrake5556}(6247ac24-69ce-3cb3-8456-4b77c1b1a6cf) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 498
+[16Dec2024 19:42:54.621] [Server thread/WARN] [scguns/]: literal{Rebondrake5556}(6247ac24-69ce-3cb3-8456-4b77c1b1a6cf) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 347
+[16Dec2024 19:42:54.627] [Server thread/WARN] [scguns/]: literal{Rebondrake5556}(6247ac24-69ce-3cb3-8456-4b77c1b1a6cf) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 341
+[16Dec2024 19:42:54.631] [Server thread/WARN] [scguns/]: literal{Rebondrake5556}(6247ac24-69ce-3cb3-8456-4b77c1b1a6cf) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 337
+[16Dec2024 19:42:54.780] [Server thread/WARN] [scguns/]: literal{Rebondrake5556}(6247ac24-69ce-3cb3-8456-4b77c1b1a6cf) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 187
+[16Dec2024 19:42:55.868] [ForkJoinPool.commonPool-worker-10/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> que tienen?
+[16Dec2024 19:43:20.654] [ForkJoinPool.commonPool-worker-10/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> creo que tienen la astella
+[16Dec2024 19:43:25.767] [ForkJoinPool.commonPool-worker-10/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> arma de 42 de daño
+[16Dec2024 19:43:33.504] [ForkJoinPool.commonPool-worker-10/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> y tienen armaduras full echant
+[16Dec2024 19:44:04.545] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[16Dec2024 19:44:04.551] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[16Dec2024 19:44:33.097] [Server thread/WARN] [scguns/]: literal{Rebondrake5556}(6247ac24-69ce-3cb3-8456-4b77c1b1a6cf) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 388
+[16Dec2024 19:44:33.100] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rebondrake5556 moved too quickly! 9.513932590007698,0.9509389940944573,3.1263659477538965
+[16Dec2024 19:44:49.042] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rebondrake5556 moved too quickly! 6.208578607164327,-0.964514527485953,-7.876451038475267
+[16Dec2024 19:44:49.220] [Server thread/WARN] [scguns/]: literal{Rebondrake5556}(6247ac24-69ce-3cb3-8456-4b77c1b1a6cf) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 549
+[16Dec2024 19:44:52.776] [ForkJoinPool.commonPool-worker-11/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> bruh nosotros tenemos una arma que ignoro el 75 porcionto de la armadura y que tiene una mejora que hace 137 de daño
+[16Dec2024 19:44:56.170] [ForkJoinPool.commonPool-worker-11/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> xd
+[16Dec2024 19:45:11.670] [ForkJoinPool.commonPool-worker-11/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> y pues mi armadura imagina si la consigo toda
+[16Dec2024 19:45:48.544] [ForkJoinPool.commonPool-worker-11/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> pero eso es un fracotirador
+[16Dec2024 19:45:53.523] [ForkJoinPool.commonPool-worker-11/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> shhhhh
+[16Dec2024 19:45:58.762] [ForkJoinPool.commonPool-worker-11/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> xd
+[16Dec2024 19:46:30.636] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/tacz/guns/api/entity/ShootResult
+[16Dec2024 19:46:41.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArazibeMoney50_ has made the advancement [《Saw》]
+[16Dec2024 19:47:13.461] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['Humanoid'/15985, l='ServerLevel[World]', x=0.00, y=0.00, z=0.00] ...
+[16Dec2024 19:47:13.462] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['Humanoid'/15985, l='ServerLevel[World]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[16Dec2024 19:47:13.462] [Server thread/INFO] [Easy NPC/]: Finalize spawn for Humanoid['Humanoid'/15985, l='ServerLevel[World]', x=-2451.50, y=77.00, z=260.50] ...
+[16Dec2024 19:47:13.463] [Server thread/INFO] [Easy NPC/]: Register default action interaction events for Humanoid['Humanoid'/15985, l='ServerLevel[World]', x=-2451.50, y=77.00, z=260.50] ...
+[16Dec2024 19:47:25.676] [Server thread/INFO] [Easy NPC/]: Opening menu c2d24619-f96b-426c-a8df-d3316e54f26a for npc a81692c8-5a31-4f1c-9632-b62877f0ea4e and player ServerPlayer['Rebondrake5556'/7367, l='ServerLevel[World]', x=-2451.87, y=77.00, z=259.16] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Humanoid]}]
+[16Dec2024 19:47:25.679] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting de/markusbordihn/easynpc/data/attribute/BaseAttributeType
+[16Dec2024 19:47:28.276] [Server thread/INFO] [Easy NPC/]: Removing Easy NPC Humanoid['Humanoid'/15985, l='ServerLevel[World]', x=-2451.50, y=77.00, z=260.50] requested by ServerPlayer['Rebondrake5556'/7367, l='ServerLevel[World]', x=-2451.87, y=77.00, z=259.16]
+[16Dec2024 19:47:51.561] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/tacz/guns/api/event/common/GunDamageSourcePart
+[16Dec2024 19:48:56.331] [ForkJoinPool.commonPool-worker-12/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> de que mod es esa arma?
+[16Dec2024 19:49:04.543] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[16Dec2024 19:49:04.548] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
