@@ -2165,3 +2165,17 @@ Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.resource
 [16Dec2024 23:00:48.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dreoufther was slain by Zombified Piglin
 [16Dec2024 23:00:50.912] [ForkJoinPool.commonPool-worker-48/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> a
 [16Dec2024 23:05:52.262] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Dreoufther'/163402, l='ServerLevel[World]', x=-1568.90, y=59.00, z=770.54] died: Zombie Player was shot by ArazibeMoney50_
+[16Dec2024 23:07:47.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArazibeMoney50_ has completed the challenge [We Union!]
+[16Dec2024 23:23:07.078] [Worker-Main-141/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-58, z=43}
+[16Dec2024 23:23:07.079] [Worker-Main-141/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=6, y=-58, z=43}
+[16Dec2024 23:23:07.079] [Worker-Main-141/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-59, z=40}
+[16Dec2024 23:23:07.080] [Worker-Main-141/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-59, z=33}
+[16Dec2024 23:23:07.080] [Worker-Main-141/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=7, y=-59, z=40}
+[16Dec2024 23:23:07.080] [Worker-Main-141/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=7, y=-59, z=33}
+[16Dec2024 23:23:10.659] [Worker-Main-120/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-58, z=31}
+[16Dec2024 23:23:10.660] [Worker-Main-120/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=6, y=-58, z=31}
+[16Dec2024 23:24:21.118] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=4975, y=78, z=-5007} but found not block entity block Block{minecraft:stone} at location
+[16Dec2024 23:24:21.118] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=4975, y=78, z=-5007}
+[16Dec2024 23:24:25.999] [Worker-Main-120/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombiekit:uv_lamp_entity
+[16Dec2024 23:24:30.014] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/65339, l='ServerLevel[World]', x=2518.33, y=75.06, z=-4360.50] died, message: 'Villager was slain by RIOTNyx'
+[16Dec2024 23:26:29.969] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/65313, l='ServerLevel[World]', x=2520.62, y=75.00, z=-4358.57] died, message: 'Villager was slain by RIOTNyx'
