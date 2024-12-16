@@ -1839,3 +1839,214 @@ Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.resource
 [16Dec2024 21:52:52.212] [ForkJoinPool.commonPool-worker-35/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> como 8
 [16Dec2024 21:53:37.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Spectator Mode]
 [16Dec2024 21:53:46.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Teleported ArazibeMoney50_ to Dreoufther]
+[16Dec2024 21:54:03.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set ArazibeMoney50_'s game mode to Survival Mode]
+[16Dec2024 21:54:06.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Creative Mode]
+[16Dec2024 21:54:23.125] [ForkJoinPool.commonPool-worker-36/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> ClinicaSanPablo ven
+[16Dec2024 21:54:50.764] [ForkJoinPool.commonPool-worker-36/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> pera ahi voy
+[16Dec2024 21:54:54.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Teleported ArazibeMoney50_ to Dreoufther]
+[16Dec2024 21:55:45.311] [ForkJoinPool.commonPool-worker-36/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> donde andas
+[16Dec2024 21:56:32.072] [ForkJoinPool.commonPool-worker-36/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> me sirve
+[16Dec2024 21:56:46.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Applied effect Strength to Rebondrake5556]
+[16Dec2024 21:56:52.771] [ForkJoinPool.commonPool-worker-36/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> veni para que veas el penetrator(no es broma asi se llama)
+[16Dec2024 21:57:40.369] [ForkJoinPool.commonPool-worker-36/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> ?
+[16Dec2024 21:57:41.771] [ForkJoinPool.commonPool-worker-36/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> a
+[16Dec2024 21:57:42.372] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2519, y=77, z=-4323} BlockPos{x=2520, y=76, z=-4323}
+[16Dec2024 21:57:42.725] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2519, y=77, z=-4323} BlockPos{x=2519, y=76, z=-4323}
+[16Dec2024 21:57:42.787] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2519, y=77, z=-4323} BlockPos{x=2519, y=76, z=-4323}
+[16Dec2024 21:57:43.879] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2519, y=77, z=-4323} BlockPos{x=2518, y=76, z=-4322}
+[16Dec2024 21:57:44.119] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2519, y=77, z=-4323} BlockPos{x=2519, y=76, z=-4323}
+[16Dec2024 21:57:44.979] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2519, y=77, z=-4323} BlockPos{x=2520, y=76, z=-4324}
+[16Dec2024 21:57:45.331] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2519, y=77, z=-4323} BlockPos{x=2519, y=76, z=-4323}
+[16Dec2024 21:57:45.422] [ForkJoinPool.commonPool-worker-36/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> ocupo mechero toncs xd
+[16Dec2024 21:57:45.535] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2519, y=77, z=-4323} BlockPos{x=2519, y=76, z=-4323}
+[16Dec2024 21:57:51.181] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2519, y=77, z=-4323} BlockPos{x=2519, y=76, z=-4323}
+[16Dec2024 21:57:52.325] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2519, y=77, z=-4323} BlockPos{x=2519, y=76, z=-4323}
+[16Dec2024 21:57:52.825] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2519, y=77, z=-4323} BlockPos{x=2519, y=76, z=-4323}
+[16Dec2024 21:57:54.527] [ForkJoinPool.commonPool-worker-36/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> ando en la miseria total
+[16Dec2024 21:58:07.723] [ForkJoinPool.commonPool-worker-36/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> el fuego de esas cosas no se puede apagar normal ocupas agua xd
+[16Dec2024 21:58:13.475] [ForkJoinPool.commonPool-worker-36/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> ok
+[16Dec2024 21:58:29.680] [ForkJoinPool.commonPool-worker-36/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> te sobro obsidiana llorosa?
+[16Dec2024 21:58:34.822] [ForkJoinPool.commonPool-worker-36/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> nan no consegui
+[16Dec2024 21:58:46.871] [ForkJoinPool.commonPool-worker-36/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> gg ezz
+[16Dec2024 21:58:51.814] [ForkJoinPool.commonPool-worker-36/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> ?
+[16Dec2024 21:59:31.473] [ForkJoinPool.commonPool-worker-36/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> ya ahora si tengo el mechero creo que asi si prende
+[16Dec2024 21:59:42.919] [ForkJoinPool.commonPool-worker-36/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> tampoco
+[16Dec2024 21:59:47.273] [ForkJoinPool.commonPool-worker-36/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> a ver
+[16Dec2024 22:01:25.865] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rebondrake5556 lost connection: Disconnected
+[16Dec2024 22:01:25.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rebondrake5556 left the game
+[16Dec2024 22:02:13.923] [ForkJoinPool.commonPool-worker-37/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> ta bin
+[16Dec2024 22:06:51.384] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:trappedtruck' in chunk [86, -274], discarding
+[16Dec2024 22:06:51.386] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:trappedtruck' in chunk [86, -273], discarding
+[16Dec2024 22:06:51.397] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:trappedtruck' in chunk [86, -272], discarding
+[16Dec2024 22:06:52.522] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:trappedtruck' in chunk [85, -272], discarding
+[16Dec2024 22:06:52.523] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:trappedtruck' in chunk [85, -273], discarding
+[16Dec2024 22:06:52.524] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:trappedtruck' in chunk [85, -274], discarding
+[16Dec2024 22:06:53.679] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:trappedtruck' in chunk [84, -274], discarding
+[16Dec2024 22:06:53.680] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: modern_structures:trappedtruck
+[16Dec2024 22:06:53.680] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:trappedtruck' in chunk [84, -273], discarding
+[16Dec2024 22:06:53.681] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:trappedtruck' in chunk [84, -272], discarding
+[16Dec2024 22:06:54.781] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:trappedtruck' in chunk [83, -274], discarding
+[16Dec2024 22:06:54.798] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:trappedtruck' in chunk [83, -273], discarding
+[16Dec2024 22:06:54.799] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:trappedtruck' in chunk [83, -272], discarding
+[16Dec2024 22:07:28.261] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ArazibeMoney50_ lost connection: Disconnected
+[16Dec2024 22:07:28.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArazibeMoney50_ left the game
+[16Dec2024 22:07:38.140] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:oildrill' in chunk [63, -280], discarding
+[16Dec2024 22:07:38.141] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:oildrill' in chunk [63, -279], discarding
+[16Dec2024 22:07:38.145] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:trappedtruck' in chunk [63, -274], discarding
+[16Dec2024 22:07:39.380] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:oildrill' in chunk [62, -280], discarding
+[16Dec2024 22:07:39.381] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: modern_structures:oildrill
+[16Dec2024 22:07:39.381] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:oildrill' in chunk [62, -279], discarding
+[16Dec2024 22:07:39.392] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:trappedtruck' in chunk [62, -274], discarding
+[16Dec2024 22:07:39.396] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: modern_structures:trappedtruck
+[16Dec2024 22:07:39.397] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:trappedtruck' in chunk [63, -273], discarding
+[16Dec2024 22:07:41.218] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:trappedtruck' in chunk [63, -272], discarding
+[16Dec2024 22:07:41.222] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:oildrill' in chunk [61, -280], discarding
+[16Dec2024 22:07:41.224] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:oildrill' in chunk [61, -279], discarding
+[16Dec2024 22:07:41.227] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:trappedtruck' in chunk [61, -274], discarding
+[16Dec2024 22:07:41.227] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:trappedtruck' in chunk [62, -273], discarding
+[16Dec2024 22:08:25.766] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rebondrake5556[/127.223.108.19:57731] logged in with entity id 94675 at (2633.95341131678, 113.0, -4333.567684195847)
+[16Dec2024 22:08:25.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rebondrake5556 joined the game
+[16Dec2024 22:09:37.295] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:trappedtruck' in chunk [61, -274], discarding
+[16Dec2024 22:09:37.296] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:trappedtruck' in chunk [62, -274], discarding
+[16Dec2024 22:09:37.296] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:trappedtruck' in chunk [63, -274], discarding
+[16Dec2024 22:09:38.657] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:trappedtruck' in chunk [62, -273], discarding
+[16Dec2024 22:09:38.664] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:trappedtruck' in chunk [61, -273], discarding
+[16Dec2024 22:09:38.665] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: modern_structures:trappedtruck
+[16Dec2024 22:09:38.665] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:trappedtruck' in chunk [63, -273], discarding
+[16Dec2024 22:09:39.624] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ArazibeMoney50_[/127.10.2.120:54999] logged in with entity id 96523 at (-2169.353566109082, -10.52269881890556, -1191.4019008459493)
+[16Dec2024 22:09:39.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArazibeMoney50_ joined the game
+[16Dec2024 22:09:40.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set ArazibeMoney50_'s game mode to Creative Mode]
+[16Dec2024 22:09:41.352] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:trappedtruck' in chunk [61, -272], discarding
+[16Dec2024 22:09:41.354] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:trappedtruck' in chunk [62, -272], discarding
+[16Dec2024 22:09:41.355] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:trappedtruck' in chunk [63, -272], discarding
+[16Dec2024 22:09:44.429] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:trappedtruck' in chunk [61, -271], discarding
+[16Dec2024 22:09:44.430] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:trappedtruck' in chunk [62, -271], discarding
+[16Dec2024 22:09:44.431] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:trappedtruck' in chunk [63, -271], discarding
+[16Dec2024 22:09:47.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Spectator Mode]
+[16Dec2024 22:09:53.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Creative Mode]
+[16Dec2024 22:10:06.921] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97833, l='ServerLevel[World]', x=969.27, y=63.00, z=-4226.25, removed=DISCARDED]
+[16Dec2024 22:10:15.618] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:oildrill' in chunk [62, -250], discarding
+[16Dec2024 22:10:15.619] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:oildrill' in chunk [63, -250], discarding
+[16Dec2024 22:10:15.672] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:oildrill' in chunk [62, -249], discarding
+[16Dec2024 22:10:15.673] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:oildrill' in chunk [63, -249], discarding
+[16Dec2024 22:10:15.682] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: modern_structures:oildrill
+[16Dec2024 22:10:15.683] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:oildrill' in chunk [62, -248], discarding
+[16Dec2024 22:10:15.683] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:oildrill' in chunk [63, -248], discarding
+[16Dec2024 22:10:18.873] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:oildrill' in chunk [61, -250], discarding
+[16Dec2024 22:10:19.975] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:oildrill' in chunk [61, -249], discarding
+[16Dec2024 22:10:21.036] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:oildrill' in chunk [61, -248], discarding
+[16Dec2024 22:10:29.700] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: modern_structures:trappedtruck
+[16Dec2024 22:10:42.023] [Worker-Main-141/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-58, z=31}
+[16Dec2024 22:10:42.023] [Worker-Main-141/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=6, y=-58, z=31}
+[16Dec2024 22:10:42.024] [Worker-Main-141/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-58, z=43}
+[16Dec2024 22:10:42.024] [Worker-Main-141/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=6, y=-58, z=43}
+[16Dec2024 22:10:42.024] [Worker-Main-141/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-59, z=40}
+[16Dec2024 22:10:42.024] [Worker-Main-141/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-59, z=33}
+[16Dec2024 22:10:42.024] [Worker-Main-141/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=7, y=-59, z=40}
+[16Dec2024 22:10:42.024] [Worker-Main-141/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=7, y=-59, z=33}
+[16Dec2024 22:10:52.177] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:boat' in chunk [49, -211], discarding
+[16Dec2024 22:10:52.178] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:boat' in chunk [50, -211], discarding
+[16Dec2024 22:10:52.179] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:boat' in chunk [51, -211], discarding
+[16Dec2024 22:10:52.180] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:boat' in chunk [52, -211], discarding
+[16Dec2024 22:10:53.373] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:boat' in chunk [49, -210], discarding
+[16Dec2024 22:10:53.375] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:boat' in chunk [50, -210], discarding
+[16Dec2024 22:10:53.376] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:boat' in chunk [51, -210], discarding
+[16Dec2024 22:10:53.376] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:boat' in chunk [52, -210], discarding
+[16Dec2024 22:10:54.569] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:boat' in chunk [49, -209], discarding
+[16Dec2024 22:10:54.570] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:boat' in chunk [50, -209], discarding
+[16Dec2024 22:10:54.571] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:boat' in chunk [51, -209], discarding
+[16Dec2024 22:10:54.572] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:boat' in chunk [52, -209], discarding
+[16Dec2024 22:10:56.595] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:boat' in chunk [49, -208], discarding
+[16Dec2024 22:10:56.598] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:boat' in chunk [50, -208], discarding
+[16Dec2024 22:10:56.599] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:boat' in chunk [51, -208], discarding
+[16Dec2024 22:10:56.599] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: modern_structures:boat
+[16Dec2024 22:10:56.600] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:boat' in chunk [52, -208], discarding
+[16Dec2024 22:11:05.222] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@75ced3a2]Trying to start horde event on day 110 with nextDay 110 and time 18000
+[16Dec2024 22:11:05.222] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@33f869b4
+[16Dec2024 22:11:05.223] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@75ced3a2]Spawntable is empty, canceling event start.
+[16Dec2024 22:11:05.223] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@6b994bb9]Trying to start horde event on day 50 with nextDay 50 and time 18000
+[16Dec2024 22:11:05.223] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@6c1b577e
+[16Dec2024 22:11:05.223] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 40
+[16Dec2024 22:11:05.223] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 40
+[16Dec2024 22:11:05.224] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=3,minDay=30,maxDay=40]{{HandItems:[{Count:1,id:"trident"}]}} to hordespawn on day 40
+[16Dec2024 22:11:05.224] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=40,maxDay=40] to hordespawn on day 40
+[16Dec2024 22:11:05.224] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 40
+[16Dec2024 22:11:05.280] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 50
+[16Dec2024 22:11:05.280] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 50
+[16Dec2024 22:11:05.280] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 50
+[16Dec2024 22:11:05.281] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 50
+[16Dec2024 22:11:10.365] [ForkJoinPool.commonPool-worker-40/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> verga la horda
+[16Dec2024 22:11:17.392] [ForkJoinPool.commonPool-worker-40/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> ni modo a seguir buscando prote xd
+[16Dec2024 22:11:21.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set ArazibeMoney50_'s game mode to Survival Mode]
+[16Dec2024 22:11:21.030] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:boat' in chunk [49, -182], discarding
+[16Dec2024 22:11:21.041] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:boat' in chunk [50, -182], discarding
+[16Dec2024 22:11:21.042] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:boat' in chunk [51, -182], discarding
+[16Dec2024 22:11:21.042] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: modern_structures:boat
+[16Dec2024 22:11:21.042] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:boat' in chunk [52, -182], discarding
+[16Dec2024 22:11:22.179] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:boat' in chunk [49, -181], discarding
+[16Dec2024 22:11:22.182] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:boat' in chunk [50, -181], discarding
+[16Dec2024 22:11:22.203] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:boat' in chunk [51, -181], discarding
+[16Dec2024 22:11:22.205] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:boat' in chunk [52, -181], discarding
+[16Dec2024 22:11:22.902] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:boat' in chunk [49, -180], discarding
+[16Dec2024 22:11:22.903] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:boat' in chunk [50, -180], discarding
+[16Dec2024 22:11:22.903] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:boat' in chunk [51, -180], discarding
+[16Dec2024 22:11:22.904] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:boat' in chunk [52, -180], discarding
+[16Dec2024 22:11:24.958] [ForkJoinPool.commonPool-worker-40/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> ya que estas galleta
+[16Dec2024 22:11:27.437] [ForkJoinPool.commonPool-worker-40/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> podes venir un segundo
+[16Dec2024 22:11:29.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Teleported Dreoufther to ArazibeMoney50_]
+[16Dec2024 22:11:31.242] [ForkJoinPool.commonPool-worker-40/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> asi testeo algo en ti
+[16Dec2024 22:11:36.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Spectator Mode]
+[16Dec2024 22:11:51.932] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:boat' in chunk [49, -156], discarding
+[16Dec2024 22:11:51.933] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:boat' in chunk [50, -156], discarding
+[16Dec2024 22:11:51.934] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:boat' in chunk [51, -156], discarding
+[16Dec2024 22:11:51.934] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: modern_structures:boat
+[16Dec2024 22:11:51.934] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:boat' in chunk [52, -156], discarding
+[16Dec2024 22:11:53.420] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:boat' in chunk [49, -155], discarding
+[16Dec2024 22:11:53.422] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:boat' in chunk [50, -155], discarding
+[16Dec2024 22:11:53.423] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:boat' in chunk [51, -155], discarding
+[16Dec2024 22:11:53.423] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:boat' in chunk [52, -155], discarding
+[16Dec2024 22:11:55.103] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:boat' in chunk [49, -154], discarding
+[16Dec2024 22:11:55.104] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:boat' in chunk [50, -154], discarding
+[16Dec2024 22:11:55.105] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:boat' in chunk [51, -154], discarding
+[16Dec2024 22:11:55.105] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:boat' in chunk [52, -154], discarding
+[16Dec2024 22:11:55.263] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 50
+[16Dec2024 22:11:55.263] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 50
+[16Dec2024 22:11:55.263] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 50
+[16Dec2024 22:11:55.263] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 50
+[16Dec2024 22:11:57.703] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: modern_structures:boat
+[16Dec2024 22:11:57.737] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: modern_structures:boat
+[16Dec2024 22:12:05.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Creative Mode]
+[16Dec2024 22:12:13.660] [ForkJoinPool.commonPool-worker-40/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> shh
+[16Dec2024 22:12:20.999] [ForkJoinPool.commonPool-worker-40/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> usted no diga nada
+[16Dec2024 22:12:39.849] [ForkJoinPool.commonPool-worker-40/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> ojo
+[16Dec2024 22:12:45.263] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 50
+[16Dec2024 22:12:45.264] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 50
+[16Dec2024 22:12:45.264] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 50
+[16Dec2024 22:12:45.265] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 50
+[16Dec2024 22:12:49.325] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:trappedtruck' in chunk [1, -129], discarding
+[16Dec2024 22:12:49.326] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:trappedtruck' in chunk [1, -128], discarding
+[16Dec2024 22:12:50.779] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:trappedtruck' in chunk [1, -127], discarding
+[16Dec2024 22:12:51.666] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:trappedtruck' in chunk [0, -129], discarding
+[16Dec2024 22:12:51.667] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:trappedtruck' in chunk [0, -128], discarding
+[16Dec2024 22:12:51.668] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:trappedtruck' in chunk [0, -127], discarding
+[16Dec2024 22:12:52.133] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:trappedtruck' in chunk [1, -126], discarding
+[16Dec2024 22:12:52.146] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: modern_structures:trappedtruck
+[16Dec2024 22:12:52.147] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:trappedtruck' in chunk [0, -126], discarding
+[16Dec2024 22:12:53.340] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:oildrill' in chunk [1, -125], discarding
+[16Dec2024 22:12:53.340] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:oildrill' in chunk [0, -125], discarding
+[16Dec2024 22:12:53.828] [ForkJoinPool.commonPool-worker-40/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> lo probamos en ti
+[16Dec2024 22:13:05.062] [ForkJoinPool.commonPool-worker-40/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> pontela
+[16Dec2024 22:13:05.578] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: modern_structures:boat
+[16Dec2024 22:13:05.578] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:boat' in chunk [26, -130], discarding
+[16Dec2024 22:13:05.579] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:boat' in chunk [26, -129], discarding
+[16Dec2024 22:13:05.580] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:boat' in chunk [26, -128], discarding
+[16Dec2024 22:13:06.673] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:boat' in chunk [27, -129], discarding
+[16Dec2024 22:13:06.674] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:boat' in chunk [27, -128], discarding
+[16Dec2024 22:13:06.675] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:boat' in chunk [27, -130], discarding
+[16Dec2024 22:13:07.638] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:boat' in chunk [28, -128], discarding
+[16Dec2024 22:13:07.646] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:boat' in chunk [28, -129], discarding
+[16Dec2024 22:13:07.648] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:boat' in chunk [28, -130], discarding
+[16Dec2024 22:13:35.266] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 50
+[16Dec2024 22:13:35.266] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 50
+[16Dec2024 22:13:35.267] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 50
+[16Dec2024 22:13:35.267] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 50

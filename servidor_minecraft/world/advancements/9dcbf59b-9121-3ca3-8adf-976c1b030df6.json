@@ -23,6 +23,7 @@
       "minecraft:mushroom_fields": "2024-12-08 18:41:02 +0000",
       "minecraft:taiga": "2024-12-08 20:54:24 +0000",
       "minecraft:deep_ocean": "2024-12-08 18:43:26 +0000",
+      "minecraft:eroded_badlands": "2024-12-16 22:08:19 +0000",
       "minecraft:cherry_grove": "2024-12-10 02:06:08 +0000",
       "minecraft:sunflower_plains": "2024-12-12 20:12:04 +0000",
       "minecraft:birch_forest": "2024-12-08 19:00:26 +0000",
@@ -3614,6 +3615,24 @@
   "scguns:main/copper/makeshift_rifle": {
     "criteria": {
       "makeshift_rifle": "2024-12-16 21:12:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
+    "criteria": {
+      "has_yellow_terracotta": "2024-12-16 22:09:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2024-12-16 22:09:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2024-12-16 22:09:09 +0000"
     },
     "done": true
   },
