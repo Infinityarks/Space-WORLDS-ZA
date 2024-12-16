@@ -2161,3 +2161,7 @@ Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.resource
 [16Dec2024 22:55:15.272] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 50
 [16Dec2024 22:55:15.272] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 50
 [16Dec2024 22:55:15.276] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@68811cf8]Can't spawn wave because max cap has been reached
+[16Dec2024 22:57:42.075] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/139309, l='ServerLevel[World]', x=-1571.16, y=58.92, z=777.91] died, message: 'Cleric was slain by ArazibeMoney50_'
+[16Dec2024 23:00:48.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dreoufther was slain by Zombified Piglin
+[16Dec2024 23:00:50.912] [ForkJoinPool.commonPool-worker-48/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> a
+[16Dec2024 23:05:52.262] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Dreoufther'/163402, l='ServerLevel[World]', x=-1568.90, y=59.00, z=770.54] died: Zombie Player was shot by ArazibeMoney50_
