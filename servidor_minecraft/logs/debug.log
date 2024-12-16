@@ -6874,3 +6874,29 @@ Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.resource
 [16Dec2024 02:01:24.684] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ArazibeMoney50_ lost connection: Disconnected
 [16Dec2024 02:01:24.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArazibeMoney50_ left the game
 [16Dec2024 02:02:51.589] [Worker-Main-349/DEBUG] [ModernFix/]: Using cached upgraded version of zombiekit:shelter/jungle_shelter
+[16Dec2024 02:03:03.864] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Dreoufther: Location (-1662.4483691453934, 72.75, 635.8422984480858) too far away from hit block BlockPos{x=-1663, y=71, z=635}.
+[16Dec2024 02:05:47.659] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from RIOTNyx: Location (3895.132039666176, 102.61831104755402, -4442.800473332405) too far away from hit block BlockPos{x=3894, y=101, z=-4441}.
+[16Dec2024 02:05:47.684] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from RIOTNyx: Location (3895.132039666176, 102.61831104755402, -4442.800473332405) too far away from hit block BlockPos{x=3894, y=101, z=-4441}.
+[16Dec2024 02:05:47.846] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from RIOTNyx: Location (3895.0530002117157, 102.61831104755402, -4442.107285499573) too far away from hit block BlockPos{x=3894, y=101, z=-4441}.
+[16Dec2024 02:05:47.847] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from RIOTNyx: Location (3895.0530002117157, 102.61831104755402, -4442.107285499573) too far away from hit block BlockPos{x=3894, y=101, z=-4441}.
+[16Dec2024 02:05:48.052] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from RIOTNyx: Location (3895.0162320137024, 102.61824572086334, -4441.485394060612) too far away from hit block BlockPos{x=3894, y=101, z=-4441}.
+[16Dec2024 02:05:48.053] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from RIOTNyx: Location (3895.0162320137024, 102.61824572086334, -4441.485394060612) too far away from hit block BlockPos{x=3894, y=101, z=-4441}.
+[16Dec2024 02:06:09.651] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[16Dec2024 02:06:09.656] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[16Dec2024 02:06:40.668] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from RIOTNyx: Location (4090.402589261532, 98.16133868694305, -4350.84375) too far away from hit block BlockPos{x=4091, y=97, z=-4352}.
+[16Dec2024 02:06:56.695] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4107, y=97, z=-4365} BlockPos{x=4105, y=97, z=-4366}
+[16Dec2024 02:08:45.543] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4249, y=120, z=-4438} BlockPos{x=4248, y=119, z=-4437}
+[16Dec2024 02:09:08.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ClinicaSanPablo has made the advancement [What a Deal!]
+[16Dec2024 02:10:28.441] [ForkJoinPool.commonPool-worker-41/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> ni tan mal 32 bloques de oro
+[16Dec2024 02:10:41.474] [ForkJoinPool.commonPool-worker-41/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> me re cagaron las minas poco oro mucho hierro xd
+[16Dec2024 02:11:09.669] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[16Dec2024 02:11:09.674] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[16Dec2024 02:11:30.047] [Worker-Main-349/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-58, z=31}
+[16Dec2024 02:11:30.048] [Worker-Main-349/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=6, y=-58, z=31}
+[16Dec2024 02:11:36.840] [Worker-Main-348/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-58, z=43}
+[16Dec2024 02:11:36.840] [Worker-Main-348/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=6, y=-58, z=43}
+[16Dec2024 02:11:36.840] [Worker-Main-348/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-59, z=40}
+[16Dec2024 02:11:36.840] [Worker-Main-348/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-59, z=33}
+[16Dec2024 02:11:36.841] [Worker-Main-348/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=7, y=-59, z=40}
+[16Dec2024 02:11:36.841] [Worker-Main-348/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=7, y=-59, z=33}
+[16Dec2024 02:13:03.217] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4160, y=121, z=-4616} BlockPos{x=4160, y=119, z=-4616}
