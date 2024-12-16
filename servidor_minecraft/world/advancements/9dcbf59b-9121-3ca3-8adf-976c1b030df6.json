@@ -3573,5 +3573,23 @@
     },
     "done": true
   },
+  "scguns:main/craft_gun_parts_mold": {
+    "criteria": {
+      "gun_parts_mold": "2024-12-16 20:37:28 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/craft_blank_mold": {
+    "criteria": {
+      "blank_mold": "2024-12-16 20:35:29 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/craft_stamping_press": {
+    "criteria": {
+      "stamping_press": "2024-12-16 20:34:33 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

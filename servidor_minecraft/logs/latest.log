@@ -1570,3 +1570,6 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [16Dec2024 20:07:59.008] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ArazibeMoney50_ lost connection: Disconnected
 [16Dec2024 20:07:59.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArazibeMoney50_ left the game
 [16Dec2024 20:10:17.904] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/Phantom$AttackPhase
+[16Dec2024 20:40:47.672] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2b84d451[id=<null>,name=ArazibeMoney50_,properties={},legacy=false] (/127.10.2.120:33915) lost connection: Disconnected
+[16Dec2024 20:41:30.880] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ArazibeMoney50_[/127.10.2.120:37147] logged in with entity id 27994 at (-1573.699999988079, 58.875, 765.3000000119209)
+[16Dec2024 20:41:30.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArazibeMoney50_ joined the game
