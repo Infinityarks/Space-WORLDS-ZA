@@ -433,3 +433,85 @@ Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.resource
 [16Dec2024 02:31:37.033] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [easy_npc:network,framework:play,zombiekit:zombiekit,tacz:handshake,better_zombie_drops:better_zombie_drops,curios:main,sona:sona,framework:handshake,simpleplanes:main,scguns:play,hordes:infection,cure:cure,extinction:extinction,hordes:hordeevent,tacz:network,geckolib:main] rejected vanilla connections
 [16Dec2024 02:31:37.033] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/127.89.152.76:44779] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
 [16Dec2024 02:33:16.790] [ForkJoinPool.commonPool-worker-46/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> ArazibeMoney50_ pense que estabas vivo
+[16Dec2024 02:35:08.943] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dreoufther[/127.44.182.56:37001] logged in with entity id 181732 at (-1571.0900686016175, 59.0, 771.9414876705138)
+[16Dec2024 02:35:08.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dreoufther joined the game
+[16Dec2024 02:35:10.492] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Reinksl lost connection: Disconnected
+[16Dec2024 02:35:10.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Reinksl left the game
+[16Dec2024 02:36:05.940] [ForkJoinPool.commonPool-worker-47/INFO] [net.minecraft.server.MinecraftServer/]: <Dreoufther> no entra galleta
+[16Dec2024 02:36:10.818] [ForkJoinPool.commonPool-worker-47/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> nop
+[16Dec2024 02:36:12.234] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/frog/ShootTongue$State
+[16Dec2024 02:36:20.993] [ForkJoinPool.commonPool-worker-47/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> escribanle ps
+[16Dec2024 02:36:26.154] [ForkJoinPool.commonPool-worker-47/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> ya
+[16Dec2024 02:36:36.341] [ForkJoinPool.commonPool-worker-47/INFO] [net.minecraft.server.MinecraftServer/]: <Dreoufther> ya entro?
+[16Dec2024 02:36:41.858] [ForkJoinPool.commonPool-worker-47/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> no
+[16Dec2024 02:38:36.735] [Worker-Main-349/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-58, z=31}
+[16Dec2024 02:38:36.736] [Worker-Main-349/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=6, y=-58, z=31}
+[16Dec2024 02:38:36.736] [Worker-Main-349/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-58, z=43}
+[16Dec2024 02:38:36.736] [Worker-Main-349/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=6, y=-58, z=43}
+[16Dec2024 02:38:36.736] [Worker-Main-349/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-59, z=40}
+[16Dec2024 02:38:36.736] [Worker-Main-349/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-59, z=33}
+[16Dec2024 02:38:36.736] [Worker-Main-349/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=7, y=-59, z=40}
+[16Dec2024 02:38:36.737] [Worker-Main-349/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=7, y=-59, z=33}
+[16Dec2024 02:41:13.090] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rebondrake5556[/127.223.108.19:44389] logged in with entity id 189083 at (2513.0397612414527, 79.49434381412391, -4357.820765707945)
+[16Dec2024 02:41:13.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rebondrake5556 joined the game
+[16Dec2024 02:41:28.007] [ForkJoinPool.commonPool-worker-49/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> xd
+[16Dec2024 02:41:33.633] [ForkJoinPool.commonPool-worker-49/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> uy
+[16Dec2024 02:41:37.334] [ForkJoinPool.commonPool-worker-49/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> para ti no era
+[16Dec2024 02:41:37.685] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from ArazibeMoney50_: Location (-3758.59895542264, 79.59414970874786, 267.0) too far away from hit block BlockPos{x=-3759, y=78, z=266}.
+[16Dec2024 02:41:46.395] [ForkJoinPool.commonPool-worker-49/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> JAJAJAJ
+[16Dec2024 02:41:46.775] [Worker-Main-348/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombiekit:uv_lamp_entity
+[16Dec2024 02:41:55.459] [ForkJoinPool.commonPool-worker-49/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> dreoufther bien muertin
+[16Dec2024 02:41:56.033] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from ArazibeMoney50_: Location (-3768.613134622574, 74.71458899974823, 251.0) too far away from hit block BlockPos{x=-3769, y=73, z=250}.
+[16Dec2024 02:41:56.233] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from ArazibeMoney50_: Location (-3768.6337483227253, 74.5549533367157, 251.0) too far away from hit block BlockPos{x=-3769, y=73, z=250}.
+[16Dec2024 02:42:13.121] [ForkJoinPool.commonPool-worker-49/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> XDXD
+[16Dec2024 02:42:16.172] [ForkJoinPool.commonPool-worker-49/INFO] [net.minecraft.server.MinecraftServer/]: <Dreoufther> yo estoy bien we
+[16Dec2024 02:42:18.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Creative Mode]
+[16Dec2024 02:42:26.049] [ForkJoinPool.commonPool-worker-49/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> hola
+[16Dec2024 02:42:28.637] [ForkJoinPool.commonPool-worker-49/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> holaaa
+[16Dec2024 02:42:29.373] [ForkJoinPool.commonPool-worker-49/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> wenas
+[16Dec2024 02:42:34.166] [ForkJoinPool.commonPool-worker-49/INFO] [net.minecraft.server.MinecraftServer/]: <Dreoufther> wenas
+[16Dec2024 02:42:35.075] [ForkJoinPool.commonPool-worker-49/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> como estas?
+[16Dec2024 02:42:39.794] [ForkJoinPool.commonPool-worker-49/INFO] [net.minecraft.server.MinecraftServer/]: <Dreoufther> bien we
+[16Dec2024 02:42:46.610] [ForkJoinPool.commonPool-worker-49/INFO] [net.minecraft.server.MinecraftServer/]: <Dreoufther> cuantos bloques son?
+[16Dec2024 02:42:49.889] [ForkJoinPool.commonPool-worker-49/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> ahora que se responde a eso
+[16Dec2024 02:42:56.221] [ForkJoinPool.commonPool-worker-49/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> peren sigo viendo el tuto
+[16Dec2024 02:43:01.870] [ForkJoinPool.commonPool-worker-49/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> yxD
+[16Dec2024 02:43:05.965] [ForkJoinPool.commonPool-worker-49/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> dame los mats
+[16Dec2024 02:43:15.795] [ForkJoinPool.commonPool-worker-49/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> tira pe
+[16Dec2024 02:43:16.460] [ForkJoinPool.commonPool-worker-49/INFO] [net.minecraft.server.MinecraftServer/]: <Dreoufther> pero cuantos bloques son?
+[16Dec2024 02:43:41.833] [ForkJoinPool.commonPool-worker-49/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> 2 de diamante y 5 de hierro
+[16Dec2024 02:43:46.589] [ForkJoinPool.commonPool-worker-49/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> bloques
+[16Dec2024 02:43:51.632] [ForkJoinPool.commonPool-worker-49/INFO] [net.minecraft.server.MinecraftServer/]: <Dreoufther> mony tienes el hierro?
+[16Dec2024 02:43:51.645] [ForkJoinPool.commonPool-worker-49/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> mañana sube el precio
+[16Dec2024 02:43:55.873] [ForkJoinPool.commonPool-worker-49/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> a
+[16Dec2024 02:43:57.196] [ForkJoinPool.commonPool-worker-49/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> revivanlos ahora
+[16Dec2024 02:43:59.600] [Worker-Main-349/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[16Dec2024 02:43:59.601] [Worker-Main-349/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[16Dec2024 02:43:59.601] [Worker-Main-349/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[16Dec2024 02:43:59.602] [Worker-Main-349/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[16Dec2024 02:43:59.602] [Worker-Main-349/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[16Dec2024 02:43:59.602] [Worker-Main-349/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[16Dec2024 02:43:59.602] [Worker-Main-349/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[16Dec2024 02:43:59.603] [Worker-Main-349/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[16Dec2024 02:43:59.603] [Worker-Main-349/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[16Dec2024 02:43:59.603] [Worker-Main-349/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[16Dec2024 02:43:59.603] [Worker-Main-349/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[16Dec2024 02:43:59.603] [Worker-Main-349/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[16Dec2024 02:44:01.968] [ForkJoinPool.commonPool-worker-49/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> ok
+[16Dec2024 02:44:03.256] [Worker-Main-350/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[16Dec2024 02:44:03.257] [Worker-Main-350/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[16Dec2024 02:44:03.257] [Worker-Main-350/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[16Dec2024 02:44:03.257] [Worker-Main-350/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[16Dec2024 02:44:03.257] [Worker-Main-350/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[16Dec2024 02:44:03.257] [Worker-Main-350/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[16Dec2024 02:44:03.258] [Worker-Main-350/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[16Dec2024 02:44:03.258] [Worker-Main-350/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[16Dec2024 02:44:03.258] [Worker-Main-350/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[16Dec2024 02:44:03.258] [Worker-Main-350/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[16Dec2024 02:44:03.258] [Worker-Main-350/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[16Dec2024 02:44:03.258] [Worker-Main-350/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[16Dec2024 02:44:03.258] [Worker-Main-350/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[16Dec2024 02:44:08.549] [ForkJoinPool.commonPool-worker-49/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> hola linda
+[16Dec2024 02:44:11.709] [ForkJoinPool.commonPool-worker-49/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> eso no era
+[16Dec2024 02:44:16.625] [ForkJoinPool.commonPool-worker-49/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> eeeh
+[16Dec2024 02:44:23.814] [ForkJoinPool.commonPool-worker-49/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> copypaste eq
