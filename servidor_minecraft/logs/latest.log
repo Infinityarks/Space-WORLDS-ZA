@@ -1320,3 +1320,31 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [16Dec2024 18:39:09.509] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 100
 [16Dec2024 18:39:09.510] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}]}} to hordespawn on day 100
 [16Dec2024 18:39:09.510] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}]}} to hordespawn on day 100
+[16Dec2024 18:39:59.510] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 100
+[16Dec2024 18:39:59.511] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 100
+[16Dec2024 18:39:59.511] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 100
+[16Dec2024 18:39:59.511] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 100
+[16Dec2024 18:40:39.770] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[16Dec2024 18:40:39.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to RIOTNyx: murio riot
+[16Dec2024 18:40:49.509] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 100
+[16Dec2024 18:40:49.509] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 100
+[16Dec2024 18:40:49.510] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 100
+[16Dec2024 18:40:49.510] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 100
+[16Dec2024 18:40:59.523] [ForkJoinPool.commonPool-worker-3/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> y me lleve a todo el server conmigo
+[16Dec2024 18:41:16.167] [ForkJoinPool.commonPool-worker-3/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> mañana o hoy comienza LA CAZA
+[16Dec2024 18:41:39.513] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 100
+[16Dec2024 18:41:39.514] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 100
+[16Dec2024 18:41:39.514] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 100
+[16Dec2024 18:41:39.514] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 100
+[16Dec2024 18:41:39.523] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@75ced3a2]Can't spawn wave because max cap has been reached
+[16Dec2024 18:42:29.511] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 100
+[16Dec2024 18:42:29.512] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 100
+[16Dec2024 18:42:29.512] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 100
+[16Dec2024 18:42:29.512] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 100
+[16Dec2024 18:42:29.513] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@75ced3a2]Can't spawn wave because max cap has been reached
+[16Dec2024 18:43:19.510] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 100
+[16Dec2024 18:43:19.511] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 100
+[16Dec2024 18:43:19.512] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 100
+[16Dec2024 18:43:19.512] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 100
+[16Dec2024 18:43:19.512] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@75ced3a2]Can't spawn wave because max cap has been reached
+[16Dec2024 18:43:46.058] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
