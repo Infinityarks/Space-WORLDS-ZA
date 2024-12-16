@@ -1558,3 +1558,15 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [16Dec2024 19:58:53.278] [ForkJoinPool.commonPool-worker-16/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> Rebondrake5556 tu le diste la armadura a ArazibeMoney50_?
 [16Dec2024 19:59:20.139] [Server thread/INFO] [Easy NPC/]: Opening menu 80ef22eb-0898-4209-95df-b9750b7960ff for npc 2bce5709-0789-4265-96f7-1b8eba7fb991 and player ServerPlayer['ArazibeMoney50_'/5080, l='ServerLevel[World]', x=21.11, y=67.50, z=-16.71] with DialogMenuHandler{displayName=literal{Endermandrow TSI}[style={color=#FF00FF}]}
 [16Dec2024 19:59:36.808] [Server thread/INFO] [Easy NPC/]: Opening menu 673f0c74-bd1b-4e18-83e5-43fcbcfe36ed for npc 2bce5709-0789-4265-96f7-1b8eba7fb991 and player ServerPlayer['Rebondrake5556'/7367, l='ServerLevel[World]', x=18.91, y=65.00, z=-16.10] with DialogMenuHandler{displayName=literal{Endermandrow TSI}[style={color=#FF00FF}]}
+[16Dec2024 20:02:41.426] [Netty Epoll Server IO #5/INFO] [com.teampotato.redirector.Redirector/]: Redirecting xyz/przemyk/simpleplanes/network/ChangeThrottlePacket$Type
+[16Dec2024 20:03:38.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ArazibeMoney50_: Teleported ArazibeMoney50_ to -1572.500000, 59.000000, 773.500000]
+[16Dec2024 20:03:46.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Spectator Mode]
+[16Dec2024 20:03:51.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Creative Mode]
+[16Dec2024 20:06:53.310] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/21638, l='ServerLevel[World]', x=-1568.50, y=59.56, z=775.31] died, message: 'Cleric was shot by ArazibeMoney50_'
+[16Dec2024 20:06:58.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set ArazibeMoney50_'s game mode to Survival Mode]
+[16Dec2024 20:07:02.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Made ArazibeMoney50_ no longer a server operator]
+[16Dec2024 20:07:56.258] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rebondrake5556 lost connection: Disconnected
+[16Dec2024 20:07:56.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rebondrake5556 left the game
+[16Dec2024 20:07:59.008] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ArazibeMoney50_ lost connection: Disconnected
+[16Dec2024 20:07:59.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArazibeMoney50_ left the game
+[16Dec2024 20:10:17.904] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/Phantom$AttackPhase
