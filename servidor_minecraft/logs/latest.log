@@ -1583,3 +1583,18 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [16Dec2024 20:48:29.807] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3d993630[id=<null>,name=Dreoufther,properties={},legacy=false] (/127.44.182.56:50327) lost connection: Connection closed - mismatched mod channel list
 [16Dec2024 20:51:13.871] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RIOTNyx[/127.135.191.121:47167] logged in with entity id 28784 at (2515.582745562873, 102.0, -4355.542772540581)
 [16Dec2024 20:51:13.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIOTNyx joined the game
+[16Dec2024 20:53:33.511] [ForkJoinPool.commonPool-worker-21/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> puedes dormir?
+[16Dec2024 20:53:41.292] [ForkJoinPool.commonPool-worker-21/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> si
+[16Dec2024 20:53:55.368] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dreoufther[/127.44.182.56:36289] logged in with entity id 29359 at (-1571.0097634610242, 59.0, 769.610623837031)
+[16Dec2024 20:53:55.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dreoufther joined the game
+[16Dec2024 20:54:04.959] [ForkJoinPool.commonPool-worker-21/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> durerman
+[16Dec2024 20:54:25.460] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dreoufther lost connection: Timed out
+[16Dec2024 20:54:25.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dreoufther left the game
+[16Dec2024 20:54:53.267] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dreoufther[/127.44.182.56:35473] logged in with entity id 29394 at (-1571.0097634610242, 59.0, 769.610623837031)
+[16Dec2024 20:54:53.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dreoufther joined the game
+[16Dec2024 20:55:23.360] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dreoufther lost connection: Timed out
+[16Dec2024 20:55:23.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dreoufther left the game
+[16Dec2024 20:55:30.468] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dreoufther[/127.44.182.56:33401] logged in with entity id 29429 at (-1571.0097634610242, 59.0, 769.610623837031)
+[16Dec2024 20:55:30.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dreoufther joined the game
+[16Dec2024 20:57:50.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dreoufther has made the advancement [Leon]
+[16Dec2024 21:01:46.860] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Asghar Ghoul'/34146, l='ServerLevel[World]', x=3414.33, y=74.00, z=-3851.07] died: Asghar Ghoul was burnt to a crisp whilst fighting RIOTNyx

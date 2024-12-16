@@ -3561,21 +3561,21 @@
     },
     "done": true
   },
-  "scguns:main/craft_lightning_rod_connector": {
-    "criteria": {
-      "lightning_rod_connector": "2024-12-16 20:23:35 +0000"
-    },
-    "done": true
-  },
   "scguns:main/craft_lightning_battery": {
     "criteria": {
       "lightning_battery": "2024-12-16 20:22:17 +0000"
     },
     "done": true
   },
-  "scguns:main/craft_gun_parts_mold": {
+  "scguns:main/craft_lightning_rod_connector": {
     "criteria": {
-      "gun_parts_mold": "2024-12-16 20:37:28 +0000"
+      "lightning_rod_connector": "2024-12-16 20:23:35 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/craft_stamping_press": {
+    "criteria": {
+      "stamping_press": "2024-12-16 20:34:33 +0000"
     },
     "done": true
   },
@@ -3585,9 +3585,9 @@
     },
     "done": true
   },
-  "scguns:main/craft_stamping_press": {
+  "scguns:main/craft_gun_parts_mold": {
     "criteria": {
-      "stamping_press": "2024-12-16 20:34:33 +0000"
+      "gun_parts_mold": "2024-12-16 20:37:28 +0000"
     },
     "done": true
   },
