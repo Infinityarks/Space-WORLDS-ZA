@@ -3591,5 +3591,17 @@
     },
     "done": true
   },
+  "scguns:main/diamond_steel_blueprint": {
+    "criteria": {
+      "diamond_steel_blueprint": "2024-12-16 21:02:22 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/craft_large_casing_mold": {
+    "criteria": {
+      "large_casing_mold": "2024-12-16 21:02:22 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

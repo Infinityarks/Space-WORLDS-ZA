@@ -5979,3 +5979,24 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [16Dec2024 20:59:04.533] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
 [16Dec2024 20:59:04.538] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
 [16Dec2024 21:01:46.860] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Asghar Ghoul'/34146, l='ServerLevel[World]', x=3414.33, y=74.00, z=-3851.07] died: Asghar Ghoul was burnt to a crisp whilst fighting RIOTNyx
+[16Dec2024 21:04:04.531] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[16Dec2024 21:04:04.536] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[16Dec2024 21:07:00.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to ArazibeMoney50_: señor bills tiene alguna observacion
+[16Dec2024 21:07:00.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to RIOTNyx: señor bills tiene alguna observacion
+[16Dec2024 21:07:00.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Dreoufther: señor bills tiene alguna observacion
+[16Dec2024 21:07:54.061] [ForkJoinPool.commonPool-worker-23/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> ?
+[16Dec2024 21:08:24.741] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/settings/main/Context
+[16Dec2024 21:08:40.204] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of zombiekit:shelter/gathering_camps
+[16Dec2024 21:09:04.540] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[16Dec2024 21:09:04.545] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[16Dec2024 21:09:20.860] [Worker-Main-141/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/OreVeinifier$VeinType
+[16Dec2024 21:09:21.317] [Worker-Main-141/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mcjty/lostcities/worldgen/lost/Orientation
+[16Dec2024 21:09:21.318] [Worker-Main-141/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mcjty/lostcities/worldgen/lost/BuildingInfo$StreetType
+[16Dec2024 21:09:21.319] [Worker-Main-141/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mcjty/lostcities/api/RailChunkType
+[16Dec2024 21:09:21.319] [Worker-Main-141/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mcjty/lostcities/worldgen/lost/Railway$RailDirection
+[16Dec2024 21:09:21.339] [Worker-Main-141/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mcjty/lostcities/worldgen/LostCityTerrainFeature$AvoidChunk
+[16Dec2024 21:09:22.888] [Worker-Main-141/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mcjty/lostcities/worldgen/lost/Transform
+[16Dec2024 21:09:22.890] [Worker-Main-141/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mcjty/lostcities/worldgen/LostCityTerrainFeature$HardAirSetting
+[16Dec2024 21:09:23.511] [Worker-Main-141/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mcjty/lostcities/worldgen/lost/Direction
+[16Dec2024 21:09:23.512] [Worker-Main-141/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mcjty/lostcities/worldgen/lost/regassets/data/CitySphereSettings$CitySpherePartOrigin
+[16Dec2024 21:10:20.860] [Worker-Main-120/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mcjty/lostcities/worldgen/lost/regassets/data/CitySphereSettings$CitySphereCenterType
