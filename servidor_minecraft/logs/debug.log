@@ -7963,3 +7963,9 @@ Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.resource
 [16Dec2024 23:24:25.999] [Worker-Main-120/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombiekit:uv_lamp_entity
 [16Dec2024 23:24:30.014] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/65339, l='ServerLevel[World]', x=2518.33, y=75.06, z=-4360.50] died, message: 'Villager was slain by RIOTNyx'
 [16Dec2024 23:26:29.969] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/65313, l='ServerLevel[World]', x=2520.62, y=75.00, z=-4358.57] died, message: 'Villager was slain by RIOTNyx'
+[16Dec2024 23:29:04.541] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[16Dec2024 23:29:04.545] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[16Dec2024 23:31:21.463] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ClinicaSanPablo lost connection: Disconnected
+[16Dec2024 23:31:21.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ClinicaSanPablo left the game
+[16Dec2024 23:34:04.528] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[16Dec2024 23:34:04.533] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
