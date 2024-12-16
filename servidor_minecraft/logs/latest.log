@@ -645,3 +645,67 @@ Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.resource
 [16Dec2024 03:25:57.336] [ForkJoinPool.commonPool-worker-52/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> no alcanse a probar cuanto daño hacian
 [16Dec2024 03:25:59.987] [ForkJoinPool.commonPool-worker-52/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> las probe con zombies nomas
 [16Dec2024 03:26:25.103] [ForkJoinPool.commonPool-worker-52/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> igual q mala suerte
+[16Dec2024 03:26:40.660] [ForkJoinPool.commonPool-worker-52/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> jajajja
+[16Dec2024 03:26:42.197] [ForkJoinPool.commonPool-worker-52/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> ya q
+[16Dec2024 03:27:00.339] [ForkJoinPool.commonPool-worker-52/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> me va a explotar un huevo
+[16Dec2024 03:27:14.409] [ForkJoinPool.commonPool-worker-52/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> DILE a tu team que te reviva
+[16Dec2024 03:27:14.882] [ForkJoinPool.commonPool-worker-52/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> de cuantas minas me abre salvado gracias a bichos randoms comiendoselas
+[16Dec2024 03:28:11.133] [ForkJoinPool.commonPool-worker-52/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> igual viste el cambio de dificultad
+[16Dec2024 03:28:18.681] [ForkJoinPool.commonPool-worker-52/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> cuando los zombies te pegan la infeccion y te vuelven a pegar
+[16Dec2024 03:28:22.239] [ForkJoinPool.commonPool-worker-52/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> te van pegando debuffs
+[16Dec2024 03:28:55.332] [ForkJoinPool.commonPool-worker-52/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> re flashie cuando me pegaron hambre asta q me cure
+[16Dec2024 03:30:43.032] [Server thread/INFO] [Easy NPC/]: Opening menu e9df95ac-8bac-4d5d-8f8a-8ef13a313ef6 for npc 2bce5709-0789-4265-96f7-1b8eba7fb991 and player ServerPlayer['RIOTNyx'/167840, l='ServerLevel[World]', x=19.54, y=65.42, z=-15.08] with DialogMenuHandler{displayName=literal{Endermandrow TSI}[style={color=#FF00FF}]}
+[16Dec2024 03:30:43.180] [Server thread/INFO] [Easy NPC/]: Opening menu d3fb800f-5056-4f60-9319-57286f1c4c86 for npc 2bce5709-0789-4265-96f7-1b8eba7fb991 and player ServerPlayer['RIOTNyx'/167840, l='ServerLevel[World]', x=19.34, y=65.04, z=-15.15] with DialogMenuHandler{displayName=literal{Endermandrow TSI}[style={color=#FF00FF}]}
+[16Dec2024 03:30:48.686] [ForkJoinPool.commonPool-worker-53/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> xdxddxdx
+[16Dec2024 03:32:42.218] [Worker-Main-350/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
+[16Dec2024 03:32:42.247] [Worker-Main-350/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
+[16Dec2024 03:32:42.247] [Worker-Main-350/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
+[16Dec2024 03:32:45.489] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rebondrake5556[/127.223.108.19:56881] logged in with entity id 250909 at (-1568.5940689097863, 62.99407187054722, 771.8620795343242)
+[16Dec2024 03:32:45.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rebondrake5556 joined the game
+[16Dec2024 03:33:00.423] [ForkJoinPool.commonPool-worker-54/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> galleta
+[16Dec2024 03:33:16.254] [Server thread/INFO] [Easy NPC/]: Opening menu 4644ef1b-f88b-4bf9-8e00-a5344247f662 for npc 2bce5709-0789-4265-96f7-1b8eba7fb991 and player ServerPlayer['RIOTNyx'/167840, l='ServerLevel[World]', x=17.06, y=65.00, z=-15.78] with DialogMenuHandler{displayName=literal{Endermandrow TSI}[style={color=#FF00FF}]}
+[16Dec2024 03:33:18.332] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rebondrake5556 lost connection: Disconnected
+[16Dec2024 03:33:18.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rebondrake5556 left the game
+[16Dec2024 03:33:19.299] [Server thread/INFO] [Easy NPC/]: Opening menu 268c69b5-f38a-48fd-ab9c-547a883dd602 for npc 2bce5709-0789-4265-96f7-1b8eba7fb991 and player ServerPlayer['RIOTNyx'/167840, l='ServerLevel[World]', x=17.06, y=65.00, z=-15.78] with DialogMenuHandler{displayName=literal{Endermandrow TSI}[style={color=#FF00FF}]}
+[16Dec2024 03:33:24.231] [ForkJoinPool.commonPool-worker-54/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> iba a preguntarle algo
+[16Dec2024 03:33:26.390] [ForkJoinPool.commonPool-worker-54/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> tamadre
+[16Dec2024 03:33:26.530] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@456e0c1e]Trying to start horde event on day 40 with nextDay 40 and time 18000
+[16Dec2024 03:33:26.530] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@4652a009
+[16Dec2024 03:33:26.530] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 30
+[16Dec2024 03:33:26.530] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 30
+[16Dec2024 03:33:26.530] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=3,minDay=30,maxDay=40]{{HandItems:[{Count:1,id:"trident"}],id:"minecraft:drowned"}} to hordespawn on day 30
+[16Dec2024 03:33:26.580] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 40
+[16Dec2024 03:33:26.580] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 40
+[16Dec2024 03:33:26.580] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=3,minDay=30,maxDay=40]{{HandItems:[{Count:1,id:"trident"}],id:"minecraft:drowned"}} to hordespawn on day 40
+[16Dec2024 03:33:26.580] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=40,maxDay=40] to hordespawn on day 40
+[16Dec2024 03:33:26.580] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 40
+[16Dec2024 03:33:32.258] [ForkJoinPool.commonPool-worker-54/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> ya entra tranki
+[16Dec2024 03:33:32.940] [ForkJoinPool.commonPool-worker-54/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> ni modro lo descubrire yo mismo
+[16Dec2024 03:34:16.581] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 40
+[16Dec2024 03:34:16.581] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 40
+[16Dec2024 03:34:16.581] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=3,minDay=30,maxDay=40]{{HandItems:[{Count:1,id:"trident"}],id:"minecraft:drowned"}} to hordespawn on day 40
+[16Dec2024 03:34:16.581] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=40,maxDay=40] to hordespawn on day 40
+[16Dec2024 03:34:16.581] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 40
+[16Dec2024 03:35:06.579] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 40
+[16Dec2024 03:35:06.580] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 40
+[16Dec2024 03:35:06.580] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=3,minDay=30,maxDay=40]{{HandItems:[{Count:1,id:"trident"}],id:"minecraft:drowned"}} to hordespawn on day 40
+[16Dec2024 03:35:06.580] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=40,maxDay=40] to hordespawn on day 40
+[16Dec2024 03:35:06.581] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 40
+[16Dec2024 03:35:56.580] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 40
+[16Dec2024 03:35:56.581] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 40
+[16Dec2024 03:35:56.581] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=3,minDay=30,maxDay=40]{{HandItems:[{Count:1,id:"trident"}],id:"minecraft:drowned"}} to hordespawn on day 40
+[16Dec2024 03:35:56.581] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=40,maxDay=40] to hordespawn on day 40
+[16Dec2024 03:35:56.581] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 40
+[16Dec2024 03:36:03.890] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rebondrake5556[/127.223.108.19:43071] logged in with entity id 252494 at (-1568.5940689097863, 62.99407187054722, 771.8620795343242)
+[16Dec2024 03:36:03.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rebondrake5556 joined the game
+[16Dec2024 03:36:07.922] [ForkJoinPool.commonPool-worker-56/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> galleta
+[16Dec2024 03:36:29.782] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rebondrake5556 lost connection: Disconnected
+[16Dec2024 03:36:29.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rebondrake5556 left the game
+[16Dec2024 03:36:34.006] [ForkJoinPool.commonPool-worker-56/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> hdp
+[16Dec2024 03:36:38.968] [ForkJoinPool.commonPool-worker-56/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> JAJAJA
+[16Dec2024 03:36:46.584] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 40
+[16Dec2024 03:36:46.584] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 40
+[16Dec2024 03:36:46.584] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=3,minDay=30,maxDay=40]{{HandItems:[{Count:1,id:"trident"}],id:"minecraft:drowned"}} to hordespawn on day 40
+[16Dec2024 03:36:46.585] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=40,maxDay=40] to hordespawn on day 40
+[16Dec2024 03:36:46.585] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 40
+[16Dec2024 03:36:53.832] [ForkJoinPool.commonPool-worker-56/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> lo bueno es que creo que se como funciona
