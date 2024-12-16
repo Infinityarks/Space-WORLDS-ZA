@@ -820,3 +820,25 @@ Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.resource
 [16Dec2024 03:57:23.666] [ForkJoinPool.commonPool-worker-62/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> balas que penetran armor o explosivas
 [16Dec2024 03:57:34.011] [ForkJoinPool.commonPool-worker-62/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> las que penetran
 [16Dec2024 03:57:52.316] [ForkJoinPool.commonPool-worker-62/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> pues si no me equivoco probablemente o un airdrop o te sabes la base de los tipos estos q estan re tryhards
+[16Dec2024 03:58:11.724] [ForkJoinPool.commonPool-worker-62/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> las otras solo explotan y hacen un daño adicional pero si ignora el 75% de la armdura imagina si penetra
+[16Dec2024 03:58:21.033] [ForkJoinPool.commonPool-worker-62/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> tipo penetracion es casi un 100%
+[16Dec2024 03:58:27.919] [ForkJoinPool.commonPool-worker-62/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> one shot
+[16Dec2024 03:58:32.286] [ForkJoinPool.commonPool-worker-62/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> crafteare las explosivas igual primero
+[16Dec2024 03:58:34.666] [ForkJoinPool.commonPool-worker-62/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> para daño en area
+[16Dec2024 03:58:41.716] [ForkJoinPool.commonPool-worker-62/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> las pentracion de armor son faciles de hacer igual
+[16Dec2024 03:58:59.866] [ForkJoinPool.commonPool-worker-62/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> a ver
+[16Dec2024 03:59:19.150] [ForkJoinPool.commonPool-worker-62/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> lo malo que reduce casi todas las stats
+[16Dec2024 03:59:26.700] [ForkJoinPool.commonPool-worker-62/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> lo bueno son las explosiones que son si se juntan mucho
+[16Dec2024 03:59:33.930] [ForkJoinPool.commonPool-worker-62/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> cual es la que penetra?
+[16Dec2024 03:59:46.334] [ForkJoinPool.commonPool-worker-62/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> las full metal jacket
+[16Dec2024 03:59:53.817] [ForkJoinPool.commonPool-worker-62/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> ocupa 2 de obsidiana lagrimosa
+[16Dec2024 03:59:59.882] [ForkJoinPool.commonPool-worker-62/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> si vas a buscar traeme a mi tambien xd
+[16Dec2024 04:00:14.433] [ForkJoinPool.commonPool-worker-62/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> tengo 2...
+[16Dec2024 04:00:18.283] [ForkJoinPool.commonPool-worker-62/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> la desventaba de esto es que te aumenta el recoil y disminuye daño
+[16Dec2024 04:00:24.400] [ForkJoinPool.commonPool-worker-62/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> a tonces aslo igual xd
+[16Dec2024 04:00:53.081] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIOTNyx lost connection: Disconnected
+[16Dec2024 04:00:53.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIOTNyx left the game
+[16Dec2024 04:03:43.187] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RIOTNyx[/127.135.191.121:39783] logged in with entity id 274688 at (2515.617483474097, 102.0, -4355.455921905034)
+[16Dec2024 04:03:43.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIOTNyx joined the game
+[16Dec2024 04:04:32.189] [ForkJoinPool.commonPool-worker-63/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> se me habia crasheado
+[16Dec2024 04:04:35.335] [ForkJoinPool.commonPool-worker-63/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> xD
