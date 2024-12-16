@@ -340,3 +340,96 @@ Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.resource
 [16Dec2024 02:23:42.054] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from RIOTNyx: Location (4158.638579368591, 96.3125, -4317.352972447872) too far away from hit block BlockPos{x=4157, y=95, z=-4318}.
 [16Dec2024 02:23:42.253] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from RIOTNyx: Location (4158.638579368591, 96.3125, -4317.352972447872) too far away from hit block BlockPos{x=4157, y=95, z=-4318}.
 [16Dec2024 02:23:42.454] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from RIOTNyx: Location (4158.638579368591, 96.3125, -4317.352972447872) too far away from hit block BlockPos{x=4157, y=95, z=-4318}.
+[16Dec2024 02:23:45.431] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIOTNyx lost connection: Disconnected
+[16Dec2024 02:23:45.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIOTNyx left the game
+[16Dec2024 02:23:51.588] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RIOTNyx[/127.135.191.121:58213] logged in with entity id 167840 at (4158.843298626443, 95.0, -4316.193603323791)
+[16Dec2024 02:23:51.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIOTNyx joined the game
+[16Dec2024 02:24:23.531] [ForkJoinPool.commonPool-worker-42/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> cada vez que entro y salgo tengo 2
+[16Dec2024 02:24:32.081] [ForkJoinPool.commonPool-worker-42/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> debe estar bug
+[16Dec2024 02:24:37.605] [ForkJoinPool.commonPool-worker-42/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> las uso y sigue sin abrir se xd
+[16Dec2024 02:24:41.396] [ForkJoinPool.commonPool-worker-42/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> guarda cords y de ahi voy yo a ver si puedo hacer algo
+[16Dec2024 02:24:48.083] [ForkJoinPool.commonPool-worker-42/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> ahorita estoy experimentando en mi mismo xd
+[16Dec2024 02:25:02.557] [ForkJoinPool.commonPool-worker-42/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> 4158, -4320
+[16Dec2024 02:25:17.104] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Reinksl[/127.179.118.208:51863] logged in with entity id 168320 at (479.50089424375136, 63.5, 383.2212690354777)
+[16Dec2024 02:25:17.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Reinksl joined the game
+[16Dec2024 02:25:17.368] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/scarasol/zombiekit/entity/mechanics/HeavyMachineGunEntity$Direction
+[16Dec2024 02:27:43.224] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting de/markusbordihn/easynpc/data/attribute/EntityAttributeType
+[16Dec2024 02:27:43.233] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting de/markusbordihn/easynpc/data/sound/SoundType
+[16Dec2024 02:27:43.235] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['Humanoid'/172067, l='ServerLevel[World]', x=0.00, y=0.00, z=0.00] ...
+[16Dec2024 02:27:43.236] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting de/markusbordihn/easynpc/data/dialog/DialogType
+[16Dec2024 02:27:43.237] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['Humanoid'/172067, l='ServerLevel[World]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[16Dec2024 02:27:43.238] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Humanoid['Endermandrow TSI'/172067, l='ServerLevel[World]', x=17.50, y=65.00, z=-15.50].
+[16Dec2024 02:27:43.240] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting de/markusbordihn/easynpc/data/action/ActionDataType
+[16Dec2024 02:27:43.244] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting de/markusbordihn/easynpc/data/dialog/DialogButtonType
+[16Dec2024 02:27:43.248] [Server thread/INFO] [Easy NPC/]: Loading trading offers [net.minecraft.world.item.trading.MerchantOffer@5a25f448] for Humanoid['Endermandrow TSI'/172067, l='ServerLevel[World]', x=17.50, y=65.00, z=-15.50]
+[16Dec2024 02:27:44.062] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['Humanoid'/172089, l='ServerLevel[World]', x=0.00, y=0.00, z=0.00] ...
+[16Dec2024 02:27:44.062] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['Humanoid'/172089, l='ServerLevel[World]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[16Dec2024 02:27:44.062] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Humanoid['Kisu'/172089, l='ServerLevel[World]', x=15.50, y=65.00, z=-17.50].
+[16Dec2024 02:27:44.063] [Server thread/INFO] [Easy NPC/]: Loading trading offers [net.minecraft.world.item.trading.MerchantOffer@ca235e7, net.minecraft.world.item.trading.MerchantOffer@91c07de, net.minecraft.world.item.trading.MerchantOffer@1ef4dc4d, net.minecraft.world.item.trading.MerchantOffer@1dc1ae24] for Humanoid['Kisu'/172089, l='ServerLevel[World]', x=15.50, y=65.00, z=-17.50]
+[16Dec2024 02:27:47.041] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ArazibeMoney50_[/127.10.2.120:50757] logged in with entity id 172204 at (-1574.699999988079, 59.5625, 778.6999999880791)
+[16Dec2024 02:27:47.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArazibeMoney50_ joined the game
+[16Dec2024 02:28:34.363] [Server thread/INFO] [Easy NPC/]: Opening menu 1edd168e-eac2-485a-b1f8-5db4424157ff for npc 2bce5709-0789-4265-96f7-1b8eba7fb991 and player ServerPlayer['Reinksl'/168320, l='ServerLevel[World]', x=19.39, y=65.00, z=-14.94] with DialogMenuHandler{displayName=literal{Endermandrow TSI}[style={color=#FF00FF}]}
+[16Dec2024 02:28:34.365] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting de/markusbordihn/easynpc/data/attribute/BaseAttributeType
+[16Dec2024 02:28:42.417] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from ArazibeMoney50_: Location (-1657.0, 100.52039337158203, 490.81909108161926) too far away from hit block BlockPos{x=-1657, y=99, z=490}.
+[16Dec2024 02:28:43.484] [Server thread/INFO] [Easy NPC/]: Opening menu 86b919e7-fc70-426f-a31e-eb0336b84f89 for npc 2bce5709-0789-4265-96f7-1b8eba7fb991 and player ServerPlayer['Reinksl'/168320, l='ServerLevel[World]', x=18.02, y=65.00, z=-16.76] with DialogMenuHandler{displayName=literal{Endermandrow TSI}[style={color=#FF00FF}]}
+[16Dec2024 02:28:45.783] [Server thread/INFO] [Easy NPC/]: Opening menu ae016545-d137-4c78-858b-8f50befef169 for npc 2bce5709-0789-4265-96f7-1b8eba7fb991 and player ServerPlayer['Reinksl'/168320, l='ServerLevel[World]', x=18.02, y=65.00, z=-16.76] with DialogMenuHandler{displayName=literal{Endermandrow TSI}[style={color=#FF00FF}]}
+[16Dec2024 02:28:51.083] [Server thread/INFO] [Easy NPC/]: Opening menu ec9ff13e-2b13-4a15-8af1-26bb1ccb7e26 for npc 2bce5709-0789-4265-96f7-1b8eba7fb991 and player ServerPlayer['Reinksl'/168320, l='ServerLevel[World]', x=18.02, y=65.00, z=-16.76] with DialogMenuHandler{displayName=literal{Endermandrow TSI}[style={color=#FF00FF}]}
+[16Dec2024 02:28:52.314] [Server thread/INFO] [Easy NPC/]: Opening menu f9147561-db4f-4a26-aef5-a3886122d15d for npc 2bce5709-0789-4265-96f7-1b8eba7fb991 and player ServerPlayer['Reinksl'/168320, l='ServerLevel[World]', x=18.02, y=65.00, z=-16.76] with DialogMenuHandler{displayName=literal{Endermandrow TSI}[style={color=#FF00FF}]}
+[16Dec2024 02:29:32.111] [Worker-Main-350/INFO] [ModernFix/]: Instantiating Mojang DFU
+[16Dec2024 02:29:40.232] [Worker-Main-349/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-58, z=31}
+[16Dec2024 02:29:40.233] [Worker-Main-349/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=6, y=-58, z=31}
+[16Dec2024 02:29:40.233] [Worker-Main-349/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-58, z=43}
+[16Dec2024 02:29:40.233] [Worker-Main-349/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=6, y=-58, z=43}
+[16Dec2024 02:29:40.234] [Worker-Main-349/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-59, z=40}
+[16Dec2024 02:29:40.234] [Worker-Main-349/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-59, z=33}
+[16Dec2024 02:29:40.234] [Worker-Main-349/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=7, y=-59, z=40}
+[16Dec2024 02:29:40.235] [Worker-Main-349/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=7, y=-59, z=33}
+[16Dec2024 02:29:42.035] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from ArazibeMoney50_: Location (-2279.2608296871185, 123.5, 473.51419281959534) too far away from hit block BlockPos{x=-2281, y=121, z=474}.
+[16Dec2024 02:29:53.198] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['Humanoid'/175266, l='ServerLevel[World]', x=0.00, y=0.00, z=0.00] ...
+[16Dec2024 02:29:53.199] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['Humanoid'/175266, l='ServerLevel[World]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[16Dec2024 02:29:53.199] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Humanoid['Kisu'/175266, l='ServerLevel[World]', x=15.50, y=65.00, z=-17.50].
+[16Dec2024 02:29:53.200] [Server thread/INFO] [Easy NPC/]: Loading trading offers [net.minecraft.world.item.trading.MerchantOffer@2f60148e, net.minecraft.world.item.trading.MerchantOffer@158a7b63, net.minecraft.world.item.trading.MerchantOffer@33f0b409, net.minecraft.world.item.trading.MerchantOffer@1df9f303] for Humanoid['Kisu'/175266, l='ServerLevel[World]', x=15.50, y=65.00, z=-17.50]
+[16Dec2024 02:29:54.575] [Netty Epoll Server IO #6/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [easy_npc:network,framework:play,zombiekit:zombiekit,tacz:handshake,better_zombie_drops:better_zombie_drops,curios:main,sona:sona,framework:handshake,simpleplanes:main,scguns:play,hordes:infection,cure:cure,extinction:extinction,hordes:hordeevent,tacz:network,geckolib:main] rejected vanilla connections
+[16Dec2024 02:29:54.576] [Netty Epoll Server IO #6/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/127.89.152.76:54581] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
+[16Dec2024 02:29:57.068] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Reinksl moved too quickly! -8.329114761502296,0.15819071711905508,-8.245819561799149
+[16Dec2024 02:30:00.324] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from ArazibeMoney50_: Location (-2392.6576384902, 126.0, 539.1881536245346) too far away from hit block BlockPos{x=-2393, y=124, z=538}.
+[16Dec2024 02:30:00.467] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from ArazibeMoney50_: Location (-2393.0, 125.6909464597702, 539.4643156528473) too far away from hit block BlockPos{x=-2393, y=124, z=538}.
+[16Dec2024 02:31:03.105] [Worker-Main-349/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[16Dec2024 02:31:03.106] [Worker-Main-349/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[16Dec2024 02:31:03.117] [Worker-Main-350/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[16Dec2024 02:31:04.869] [Worker-Main-349/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[16Dec2024 02:31:04.871] [Worker-Main-349/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[16Dec2024 02:31:04.872] [Worker-Main-349/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[16Dec2024 02:31:04.872] [Worker-Main-349/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[16Dec2024 02:31:04.889] [Worker-Main-348/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[16Dec2024 02:31:04.890] [Worker-Main-348/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[16Dec2024 02:31:05.041] [Worker-Main-349/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[16Dec2024 02:31:05.042] [Worker-Main-349/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[16Dec2024 02:31:05.043] [Worker-Main-349/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[16Dec2024 02:31:05.043] [Worker-Main-349/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[16Dec2024 02:31:05.044] [Worker-Main-349/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[16Dec2024 02:31:05.044] [Worker-Main-349/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[16Dec2024 02:31:05.123] [Worker-Main-349/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[16Dec2024 02:31:05.124] [Worker-Main-349/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[16Dec2024 02:31:05.124] [Worker-Main-349/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[16Dec2024 02:31:05.222] [Worker-Main-348/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[16Dec2024 02:31:05.222] [Worker-Main-348/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[16Dec2024 02:31:05.223] [Worker-Main-348/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[16Dec2024 02:31:05.223] [Worker-Main-348/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[16Dec2024 02:31:05.223] [Worker-Main-348/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[16Dec2024 02:31:06.268] [Worker-Main-349/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[16Dec2024 02:31:06.392] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/scarasol/zombiekit/entity/goal/HeavyMachineGunUsingGoal$MachineGunState
+[16Dec2024 02:31:06.401] [Worker-Main-350/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[16Dec2024 02:31:06.428] [Worker-Main-350/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[16Dec2024 02:31:06.428] [Worker-Main-350/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[16Dec2024 02:31:06.429] [Worker-Main-350/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[16Dec2024 02:31:06.430] [Worker-Main-350/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[16Dec2024 02:31:06.430] [Worker-Main-350/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[16Dec2024 02:31:06.431] [Worker-Main-350/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[16Dec2024 02:31:17.371] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=4721, y=66, z=-4141} but found not block entity block Block{minecraft:stone} at location
+[16Dec2024 02:31:17.372] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=4721, y=66, z=-4141}
+[16Dec2024 02:31:19.785] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/176632, l='ServerLevel[World]', x=-2407.30, y=64.00, z=121.70] died, message: 'Villager suffocated in a wall'
+[16Dec2024 02:31:19.786] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/176623, l='ServerLevel[World]', x=-2420.63, y=64.00, z=127.72] died, message: 'Villager suffocated in a wall'
+[16Dec2024 02:31:37.033] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [easy_npc:network,framework:play,zombiekit:zombiekit,tacz:handshake,better_zombie_drops:better_zombie_drops,curios:main,sona:sona,framework:handshake,simpleplanes:main,scguns:play,hordes:infection,cure:cure,extinction:extinction,hordes:hordeevent,tacz:network,geckolib:main] rejected vanilla connections
+[16Dec2024 02:31:37.033] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/127.89.152.76:44779] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
+[16Dec2024 02:33:16.790] [ForkJoinPool.commonPool-worker-46/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> ArazibeMoney50_ pense que estabas vivo

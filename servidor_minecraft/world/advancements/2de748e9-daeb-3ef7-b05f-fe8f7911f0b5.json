@@ -2972,6 +2972,30 @@
     },
     "done": true
   },
+  "scguns:main/treated_brass": {
+    "criteria": {
+      "treated_brass_ingot": "2024-12-12 20:35:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2024-12-12 20:35:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2024-12-12 20:35:25 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/treated_brass_blueprint": {
+    "criteria": {
+      "treated_brass_blueprint": "2024-12-12 20:35:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2024-12-12 20:49:01 +0000"
@@ -2984,51 +3008,9 @@
     },
     "done": true
   },
-  "minecraft:story/lava_bucket": {
-    "criteria": {
-      "lava_bucket": "2024-12-12 21:18:15 +0000"
-    },
-    "done": true
-  },
-  "scguns:main/treated_brass": {
-    "criteria": {
-      "treated_brass_ingot": "2024-12-12 20:35:25 +0000"
-    },
-    "done": true
-  },
   "zombiekit:heavy_machine_gun_adv": {
     "criteria": {
       "heavy_machine_gun_adv": "2024-12-12 20:49:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_campfire": {
-    "criteria": {
-      "has_soul_sand": "2024-12-12 20:49:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/nether_wart_block": {
-    "criteria": {
-      "has_nether_wart": "2024-12-12 20:35:25 +0000"
-    },
-    "done": true
-  },
-  "scguns:main/ocean/marlin": {
-    "criteria": {
-      "marlin": "2024-12-12 20:49:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/plant_seed": {
-    "criteria": {
-      "nether_wart": "2024-12-12 20:56:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_torch": {
-    "criteria": {
-      "has_soul_sand": "2024-12-12 20:49:02 +0000"
     },
     "done": true
   },
@@ -3044,12 +3026,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_nether_bricks": {
-    "criteria": {
-      "has_nether_wart": "2024-12-12 20:35:25 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2024-12-12 20:49:01 +0000"
@@ -3062,9 +3038,33 @@
     },
     "done": true
   },
-  "scguns:main/treated_brass_blueprint": {
+  "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
-      "treated_brass_blueprint": "2024-12-12 20:35:25 +0000"
+      "has_soul_sand": "2024-12-12 20:49:02 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/ocean/marlin": {
+    "criteria": {
+      "marlin": "2024-12-12 20:49:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2024-12-12 20:49:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "nether_wart": "2024-12-12 20:56:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-12-12 21:18:15 +0000"
     },
     "done": true
   },
