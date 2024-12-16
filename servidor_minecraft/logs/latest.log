@@ -1573,3 +1573,13 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [16Dec2024 20:40:47.672] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2b84d451[id=<null>,name=ArazibeMoney50_,properties={},legacy=false] (/127.10.2.120:33915) lost connection: Disconnected
 [16Dec2024 20:41:30.880] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ArazibeMoney50_[/127.10.2.120:37147] logged in with entity id 27994 at (-1573.699999988079, 58.875, 765.3000000119209)
 [16Dec2024 20:41:30.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArazibeMoney50_ joined the game
+[16Dec2024 20:42:43.762] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIOTNyx lost connection: Disconnected
+[16Dec2024 20:42:43.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIOTNyx left the game
+[16Dec2024 20:46:56.459] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [sophisticatedbackpacks:channel,sophisticatedcore:channel] rejected their client side version number
+[16Dec2024 20:46:56.460] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[16Dec2024 20:46:56.507] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@431d9f1a[id=<null>,name=Dreoufther,properties={},legacy=false] (/127.44.182.56:39787) lost connection: Connection closed - mismatched mod channel list
+[16Dec2024 20:48:29.798] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [sophisticatedbackpacks:channel,sophisticatedcore:channel] rejected their client side version number
+[16Dec2024 20:48:29.799] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[16Dec2024 20:48:29.807] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3d993630[id=<null>,name=Dreoufther,properties={},legacy=false] (/127.44.182.56:50327) lost connection: Connection closed - mismatched mod channel list
+[16Dec2024 20:51:13.871] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RIOTNyx[/127.135.191.121:47167] logged in with entity id 28784 at (2515.582745562873, 102.0, -4355.542772540581)
+[16Dec2024 20:51:13.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIOTNyx joined the game
