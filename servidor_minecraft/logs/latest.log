@@ -2181,3 +2181,9 @@ Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.resource
 [16Dec2024 23:26:29.969] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/65313, l='ServerLevel[World]', x=2520.62, y=75.00, z=-4358.57] died, message: 'Villager was slain by RIOTNyx'
 [16Dec2024 23:31:21.463] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ClinicaSanPablo lost connection: Disconnected
 [16Dec2024 23:31:21.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ClinicaSanPablo left the game
+[16Dec2024 23:39:30.162] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/65340, l='ServerLevel[World]', x=2520.65, y=75.00, z=-4358.30] died, message: 'Librarian was slain by RIOTNyx'
+[16Dec2024 23:42:18.671] [ForkJoinPool.commonPool-worker-49/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> que hacen muchachos?
+[16Dec2024 23:42:19.661] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4ca6b4d4[id=<null>,name=ClinicaSanPablo,properties={},legacy=false] (/127.26.29.228:45537) lost connection: Disconnected
+[16Dec2024 23:42:43.715] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6f1ad83a[id=<null>,name=ClinicaSanPablo,properties={},legacy=false] (/127.26.29.228:48213) lost connection: Disconnected
+[16Dec2024 23:44:34.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArazibeMoney50_ has made the advancement [Getting an Upgrade]
+[16Dec2024 23:47:26.712] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/65319, l='ServerLevel[World]', x=2520.60, y=75.00, z=-4358.30] died, message: 'Librarian was slain by RIOTNyx'
