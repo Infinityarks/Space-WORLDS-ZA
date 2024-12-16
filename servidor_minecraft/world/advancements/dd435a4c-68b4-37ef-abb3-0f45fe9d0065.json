@@ -3904,27 +3904,9 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
-      "has_gold_backpack": "2024-12-16 21:56:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/composter": {
-    "criteria": {
-      "has_wood_slab": "2024-12-16 22:04:34 +0000"
-    },
-    "done": true
-  },
-  "scguns:main/craft_disc_mold": {
-    "criteria": {
-      "disc_mold": "2024-12-16 21:52:14 +0000"
-    },
-    "done": true
-  },
-  "scguns:main/craft_blank_mold": {
-    "criteria": {
-      "blank_mold": "2024-12-16 21:52:10 +0000"
+      "has_smithing_trim_template": "2024-12-16 21:32:52 +0000"
     },
     "done": true
   },
@@ -3934,15 +3916,33 @@
     },
     "done": true
   },
+  "scguns:main/craft_blank_mold": {
+    "criteria": {
+      "blank_mold": "2024-12-16 21:52:10 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/craft_disc_mold": {
+    "criteria": {
+      "disc_mold": "2024-12-16 21:52:14 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2024-12-16 21:56:30 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/gold_backpack": {
     "criteria": {
       "has_iron_backpack": "2024-12-16 21:58:41 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+  "minecraft:recipes/decorations/composter": {
     "criteria": {
-      "has_smithing_trim_template": "2024-12-16 21:32:52 +0000"
+      "has_wood_slab": "2024-12-16 22:04:34 +0000"
     },
     "done": true
   },
