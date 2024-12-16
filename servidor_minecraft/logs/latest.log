@@ -2187,3 +2187,17 @@ Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.resource
 [16Dec2024 23:42:43.715] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6f1ad83a[id=<null>,name=ClinicaSanPablo,properties={},legacy=false] (/127.26.29.228:48213) lost connection: Disconnected
 [16Dec2024 23:44:34.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArazibeMoney50_ has made the advancement [Getting an Upgrade]
 [16Dec2024 23:47:26.712] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/65319, l='ServerLevel[World]', x=2520.60, y=75.00, z=-4358.30] died, message: 'Librarian was slain by RIOTNyx'
+[16Dec2024 23:47:36.863] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/79902, l='ServerLevel[World]', x=2520.51, y=75.00, z=-4359.54] died, message: 'Villager was slain by RIOTNyx'
+[16Dec2024 23:48:17.460] [ForkJoinPool.commonPool-worker-50/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> ?
+[16Dec2024 23:48:18.377] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ClinicaSanPablo[/127.26.29.228:51195] logged in with entity id 185446 at (3937.8521772088607, 55.0, -4969.625477661626)
+[16Dec2024 23:48:18.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ClinicaSanPablo joined the game
+[16Dec2024 23:49:11.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to RIOTNyx: a
+[16Dec2024 23:49:11.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to ArazibeMoney50_: a
+[16Dec2024 23:49:11.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Dreoufther: a
+[16Dec2024 23:49:11.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to ClinicaSanPablo: a
+[16Dec2024 23:51:47.013] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/65337, l='ServerLevel[World]', x=2520.60, y=75.00, z=-4358.30] died, message: 'Librarian was slain by RIOTNyx'
+[16Dec2024 23:52:00.001] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/65312, l='ServerLevel[World]', x=2520.51, y=75.00, z=-4359.57] died, message: 'Villager was slain by RIOTNyx'
+[16Dec2024 23:55:18.414] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dreoufther lost connection: Timed out
+[16Dec2024 23:55:18.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dreoufther left the game
+[16Dec2024 23:55:54.022] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dreoufther[/127.44.182.56:60265] logged in with entity id 190415 at (-1571.8468046297926, 58.5, 779.4885701619066)
+[16Dec2024 23:55:54.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dreoufther joined the game
