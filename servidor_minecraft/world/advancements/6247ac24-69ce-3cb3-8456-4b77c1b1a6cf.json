@@ -131,6 +131,7 @@
     "criteria": {
       "minecraft:pillager": "2024-12-08 18:58:57 +0000",
       "minecraft:skeleton": "2024-12-08 18:55:34 +0000",
+      "minecraft:vindicator": "2024-12-16 19:33:07 +0000",
       "minecraft:spider": "2024-12-10 17:24:22 +0000",
       "minecraft:creeper": "2024-12-08 17:06:02 +0000",
       "minecraft:husk": "2024-12-13 00:10:43 +0000",
@@ -2049,6 +2050,12 @@
   "scguns:main/copper/scrapper": {
     "criteria": {
       "scrapper": "2024-12-15 01:50:19 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/diamond_steel/soul_drummer": {
+    "criteria": {
+      "soul_drummer": "2024-12-16 19:37:34 +0000"
     },
     "done": true
   },

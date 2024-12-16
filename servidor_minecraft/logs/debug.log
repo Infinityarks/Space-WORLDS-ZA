@@ -4632,3 +4632,42 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [16Dec2024 19:30:21.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ArazibeMoney50_: Teleported ArazibeMoney50_ to -2436.500000, 81.000000, 140.500000]
 [16Dec2024 19:30:22.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Creative Mode]
 [16Dec2024 19:30:24.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Spectator Mode]
+[16Dec2024 19:30:32.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Teleported Rebondrake5556 to ArazibeMoney50_]
+[16Dec2024 19:30:45.385] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rebondrake5556 moved too quickly! -10.16118103952931,0.0,2.6522096683411576
+[16Dec2024 19:30:47.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ArazibeMoney50_: Set own game mode to Creative Mode]
+[16Dec2024 19:30:53.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Creative Mode]
+[16Dec2024 19:33:09.269] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/11350, l='ServerLevel[World]', x=-2394.26, y=70.00, z=89.46] died, message: 'Villager was shot by Pillager'
+[16Dec2024 19:33:42.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Spectator Mode]
+[16Dec2024 19:33:46.110] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/11343, l='ServerLevel[World]', x=-2439.83, y=68.02, z=86.49] died, message: 'Villager was shot by Pillager'
+[16Dec2024 19:34:04.535] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[16Dec2024 19:34:04.540] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[16Dec2024 19:34:29.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Creative Mode]
+[16Dec2024 19:35:02.611] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/11342, l='ServerLevel[World]', x=-2462.04, y=65.00, z=108.30] died, message: 'Villager was shot by Pillager'
+[16Dec2024 19:35:09.789] [ForkJoinPool.commonPool-worker-8/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> me vas a devolver la vida Rebondrake5556?
+[16Dec2024 19:35:15.292] [ForkJoinPool.commonPool-worker-8/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> cual?
+[16Dec2024 19:35:41.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set ArazibeMoney50_'s game mode to Survival Mode]
+[16Dec2024 19:35:42.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArazibeMoney50_ was blown up by Suicide Drone
+[16Dec2024 19:35:52.546] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rebondrake5556 moved too quickly! -2.9577320578605395,0.0,9.654140283090129
+[16Dec2024 19:36:00.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ArazibeMoney50_: Set own game mode to Creative Mode]
+[16Dec2024 19:36:04.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ArazibeMoney50_: Teleported ArazibeMoney50_ to -2398.500000, 67.000000, 142.500000]
+[16Dec2024 19:36:26.821] [ForkJoinPool.commonPool-worker-9/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> la de cuando mori porque no dijiste que no habia un bioma de radiacion
+[16Dec2024 19:36:39.167] [ForkJoinPool.commonPool-worker-9/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> no
+[16Dec2024 19:36:57.972] [ForkJoinPool.commonPool-worker-9/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> la puedo recuperar de alguna forma?
+[16Dec2024 19:37:01.771] [ForkJoinPool.commonPool-worker-9/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> no
+[16Dec2024 19:37:21.520] [ForkJoinPool.commonPool-worker-9/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> te quedan 2 vidas actualmente
+[16Dec2024 19:37:27.526] [ForkJoinPool.commonPool-worker-9/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> lose
+[16Dec2024 19:38:28.832] [Server thread/WARN] [scguns/]: literal{Rebondrake5556}(6247ac24-69ce-3cb3-8456-4b77c1b1a6cf) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 98
+[16Dec2024 19:38:28.834] [Server thread/WARN] [scguns/]: literal{Rebondrake5556}(6247ac24-69ce-3cb3-8456-4b77c1b1a6cf) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 94
+[16Dec2024 19:38:28.986] [Server thread/WARN] [scguns/]: literal{Rebondrake5556}(6247ac24-69ce-3cb3-8456-4b77c1b1a6cf) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 92
+[16Dec2024 19:38:28.987] [Server thread/WARN] [scguns/]: literal{Rebondrake5556}(6247ac24-69ce-3cb3-8456-4b77c1b1a6cf) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 91
+[16Dec2024 19:38:29.136] [Server thread/WARN] [scguns/]: literal{Rebondrake5556}(6247ac24-69ce-3cb3-8456-4b77c1b1a6cf) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 98
+[16Dec2024 19:38:29.137] [Server thread/WARN] [scguns/]: literal{Rebondrake5556}(6247ac24-69ce-3cb3-8456-4b77c1b1a6cf) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 98
+[16Dec2024 19:38:29.138] [Server thread/WARN] [scguns/]: literal{Rebondrake5556}(6247ac24-69ce-3cb3-8456-4b77c1b1a6cf) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 97
+[16Dec2024 19:38:29.139] [Server thread/WARN] [scguns/]: literal{Rebondrake5556}(6247ac24-69ce-3cb3-8456-4b77c1b1a6cf) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 96
+[16Dec2024 19:38:29.139] [Server thread/WARN] [scguns/]: literal{Rebondrake5556}(6247ac24-69ce-3cb3-8456-4b77c1b1a6cf) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 96
+[16Dec2024 19:38:29.140] [Server thread/WARN] [scguns/]: literal{Rebondrake5556}(6247ac24-69ce-3cb3-8456-4b77c1b1a6cf) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 95
+[16Dec2024 19:38:29.140] [Server thread/WARN] [scguns/]: literal{Rebondrake5556}(6247ac24-69ce-3cb3-8456-4b77c1b1a6cf) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 95
+[16Dec2024 19:38:47.668] [Server thread/WARN] [scguns/]: literal{Rebondrake5556}(6247ac24-69ce-3cb3-8456-4b77c1b1a6cf) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 99
+[16Dec2024 19:38:47.669] [Server thread/WARN] [scguns/]: literal{Rebondrake5556}(6247ac24-69ce-3cb3-8456-4b77c1b1a6cf) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 97
+[16Dec2024 19:39:04.577] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[16Dec2024 19:39:04.584] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
