@@ -6078,3 +6078,14 @@ Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.resource
 [16Dec2024 01:00:21.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArazibeMoney50_ joined the game
 [16Dec2024 01:01:09.654] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
 [16Dec2024 01:01:09.659] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[16Dec2024 01:04:25.684] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of zombiekit:shelter/broken
+[16Dec2024 01:04:25.690] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of zombiekit:shelter/broken_gate
+[16Dec2024 01:04:25.694] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of zombiekit:shelter/broken_basement
+[16Dec2024 01:04:56.135] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ClinicaSanPablo moved wrongly!
+[16Dec2024 01:06:09.658] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[16Dec2024 01:06:09.663] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[16Dec2024 01:06:44.845] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:firewatchtower' in chunk [-105, 76], discarding
+[16Dec2024 01:06:44.846] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:firewatchtower' in chunk [-104, 76], discarding
+[16Dec2024 01:06:44.847] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:firewatchtower' in chunk [-103, 76], discarding
+[16Dec2024 01:11:09.650] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[16Dec2024 01:11:09.656] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World

@@ -12,3 +12,7 @@
 [16Dec2024 00:49:43.331] [ForkJoinPool.commonPool-worker-26/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> ya a nada de los 6 stacks
 [16Dec2024 01:00:21.389] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ArazibeMoney50_[/127.10.2.120:53745] logged in with entity id 123757 at (-1572.474677392612, 59.0, 772.9780311075756)
 [16Dec2024 01:00:21.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArazibeMoney50_ joined the game
+[16Dec2024 01:04:56.135] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ClinicaSanPablo moved wrongly!
+[16Dec2024 01:06:44.845] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:firewatchtower' in chunk [-105, 76], discarding
+[16Dec2024 01:06:44.846] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:firewatchtower' in chunk [-104, 76], discarding
+[16Dec2024 01:06:44.847] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:firewatchtower' in chunk [-103, 76], discarding
