@@ -114,3 +114,171 @@
 [16Dec2024 01:36:14.547] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2339, y=69, z=2039} BlockPos{x=-2338, y=67, z=2038}
 [16Dec2024 01:42:26.841] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dreoufther[/127.44.182.56:42073] logged in with entity id 142636 at (-1543.6244092419183, 64.0, 751.3022550172751)
 [16Dec2024 01:42:26.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dreoufther joined the game
+[16Dec2024 01:43:37.536] [ForkJoinPool.commonPool-worker-35/INFO] [net.minecraft.server.MinecraftServer/]: <Dreoufther> weon
+[16Dec2024 01:43:41.383] [ForkJoinPool.commonPool-worker-35/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> si soy
+[16Dec2024 01:43:49.655] [ForkJoinPool.commonPool-worker-35/INFO] [net.minecraft.server.MinecraftServer/]: <Dreoufther> mony hay un zombie en la base
+[16Dec2024 01:43:56.834] [ForkJoinPool.commonPool-worker-35/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> pegale un tiro
+[16Dec2024 01:43:57.997] [ForkJoinPool.commonPool-worker-35/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> a poco no
+[16Dec2024 01:44:03.591] [ForkJoinPool.commonPool-worker-35/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> es el cadaber de demon
+[16Dec2024 01:44:14.343] [ForkJoinPool.commonPool-worker-35/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> mato a los aldeanos?
+[16Dec2024 01:44:24.588] [ForkJoinPool.commonPool-worker-35/INFO] [net.minecraft.server.MinecraftServer/]: <Dreoufther> no los ataca
+[16Dec2024 01:44:31.185] [ForkJoinPool.commonPool-worker-35/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> ok ps matalo
+[16Dec2024 01:44:36.902] [ForkJoinPool.commonPool-worker-35/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> y pon sus cosas en un cofre
+[16Dec2024 01:44:56.783] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Farmihou'/142709, l='ServerLevel[World]', x=-1568.47, y=59.00, z=772.01] died: Zombie Player was shot by Dreoufther
+[16Dec2024 01:45:54.197] [ForkJoinPool.commonPool-worker-36/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> ya mero llego a la bace
+[16Dec2024 01:46:17.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dreoufther has made the advancement [Hot Stuff]
+[16Dec2024 01:49:20.906] [ForkJoinPool.commonPool-worker-37/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> gente pueden dormir?
+[16Dec2024 01:49:23.898] [ForkJoinPool.commonPool-worker-37/INFO] [net.minecraft.server.MinecraftServer/]: <Dreoufther> entonces el demoman esta muerto?
+[16Dec2024 01:49:29.732] [ForkJoinPool.commonPool-worker-37/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> creo q si
+[16Dec2024 01:49:36.653] [ForkJoinPool.commonPool-worker-37/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> no puedo riot
+[16Dec2024 01:49:39.646] [ForkJoinPool.commonPool-worker-37/INFO] [net.minecraft.server.MinecraftServer/]: <Dreoufther> hay que revivirlo
+[16Dec2024 01:49:43.649] [ForkJoinPool.commonPool-worker-37/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> no se a logrado dormir una sola ves
+[16Dec2024 01:49:46.300] [ForkJoinPool.commonPool-worker-37/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> yo al menos no
+[16Dec2024 01:49:48.552] [ForkJoinPool.commonPool-worker-37/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> ya tengo los m,ateriañes
+[16Dec2024 01:49:51.105] [ForkJoinPool.commonPool-worker-37/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> materiales
+[16Dec2024 01:49:55.350] [ForkJoinPool.commonPool-worker-37/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> tengo luna roja
+[16Dec2024 01:49:59.050] [ForkJoinPool.commonPool-worker-37/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> o luna de sangre
+[16Dec2024 01:50:15.789] [ForkJoinPool.commonPool-worker-37/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> me voy
+[16Dec2024 01:50:21.883] [ForkJoinPool.commonPool-worker-37/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> se va
+[16Dec2024 01:51:05.718] [Server thread/WARN] [net.minecraft.world.level.block.entity.SignBlockEntity/]: Player Dreoufther just tried to change non-editable sign
+[16Dec2024 01:51:56.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArazibeMoney50_ was slain by Swarm
+[16Dec2024 01:52:00.953] [ForkJoinPool.commonPool-worker-38/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> verga
+[16Dec2024 01:52:05.135] [ForkJoinPool.commonPool-worker-38/INFO] [net.minecraft.server.MinecraftServer/]: <Dreoufther> no mames
+[16Dec2024 01:52:08.084] [ForkJoinPool.commonPool-worker-38/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> te mataron los bichos chiquitos esos?
+[16Dec2024 01:52:12.255] [ForkJoinPool.commonPool-worker-38/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> en mi cuerpo estan los materiañes pa revivir
+[16Dec2024 01:52:14.133] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['ArazibeMoney50_'/149566, l='ServerLevel[World]', x=-1569.30, y=65.00, z=773.83] died: Zombie Player hit the ground too hard whilst trying to escape Iron Golem
+[16Dec2024 01:52:15.154] [ForkJoinPool.commonPool-worker-38/INFO] [net.minecraft.server.MinecraftServer/]: <Dreoufther> en la puerta
+[16Dec2024 01:52:16.757] [ForkJoinPool.commonPool-worker-38/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> clinica sisiis
+[16Dec2024 01:52:30.817] [ForkJoinPool.commonPool-worker-38/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> esas cosas al inicio les tenia miedo
+[16Dec2024 01:52:35.336] [ForkJoinPool.commonPool-worker-38/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> luego entendi como funcionaban y ya no
+[16Dec2024 01:52:41.685] [ForkJoinPool.commonPool-worker-38/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> como?
+[16Dec2024 01:52:54.836] [ForkJoinPool.commonPool-worker-38/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> lit solo spamea o carga un poquito antes q te agarren
+[16Dec2024 01:52:58.318] [ForkJoinPool.commonPool-worker-38/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> tienen re poca vida xD
+[16Dec2024 01:53:01.134] [ForkJoinPool.commonPool-worker-38/INFO] [net.minecraft.server.MinecraftServer/]: <Dreoufther> donde pongo tus cosas we?
+[16Dec2024 01:53:07.448] [ForkJoinPool.commonPool-worker-38/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> en un cofre plis
+[16Dec2024 01:53:26.532] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@2abe572b]Trying to start horde event on day 40 with nextDay 40 and time 18000
+[16Dec2024 01:53:26.533] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@afad5b
+[16Dec2024 01:53:26.533] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 30
+[16Dec2024 01:53:26.533] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 30
+[16Dec2024 01:53:26.534] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=3,minDay=30,maxDay=40]{{HandItems:[{Count:1,id:"trident"}],id:"minecraft:drowned"}} to hordespawn on day 30
+[16Dec2024 01:53:26.583] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 40
+[16Dec2024 01:53:26.583] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 40
+[16Dec2024 01:53:26.583] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=3,minDay=30,maxDay=40]{{HandItems:[{Count:1,id:"trident"}],id:"minecraft:drowned"}} to hordespawn on day 40
+[16Dec2024 01:53:26.583] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=40,maxDay=40] to hordespawn on day 40
+[16Dec2024 01:53:26.583] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 40
+[16Dec2024 01:54:16.582] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 40
+[16Dec2024 01:54:16.583] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 40
+[16Dec2024 01:54:16.583] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=3,minDay=30,maxDay=40]{{HandItems:[{Count:1,id:"trident"}],id:"minecraft:drowned"}} to hordespawn on day 40
+[16Dec2024 01:54:16.583] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=40,maxDay=40] to hordespawn on day 40
+[16Dec2024 01:54:16.583] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 40
+[16Dec2024 01:54:17.085] [ForkJoinPool.commonPool-worker-39/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> arriba ay cosas
+[16Dec2024 01:54:20.144] [ForkJoinPool.commonPool-worker-39/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> de la casa
+[16Dec2024 01:54:44.954] [ForkJoinPool.commonPool-worker-39/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> en una de las shulkers esta mi mochila
+[16Dec2024 01:54:59.138] [ForkJoinPool.commonPool-worker-39/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> y en lamopchila ay mas mochilas
+[16Dec2024 01:55:00.351] [ForkJoinPool.commonPool-worker-39/INFO] [net.minecraft.server.MinecraftServer/]: <Dreoufther> ok
+[16Dec2024 01:55:05.483] [ForkJoinPool.commonPool-worker-39/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> en una deven de estar los diamantes
+[16Dec2024 01:55:06.586] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 40
+[16Dec2024 01:55:06.586] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 40
+[16Dec2024 01:55:06.586] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=3,minDay=30,maxDay=40]{{HandItems:[{Count:1,id:"trident"}],id:"minecraft:drowned"}} to hordespawn on day 40
+[16Dec2024 01:55:06.586] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=40,maxDay=40] to hordespawn on day 40
+[16Dec2024 01:55:06.586] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 40
+[16Dec2024 01:55:08.245] [ForkJoinPool.commonPool-worker-39/INFO] [net.minecraft.server.MinecraftServer/]: <Dreoufther> como te revivo?
+[16Dec2024 01:55:11.402] [ForkJoinPool.commonPool-worker-39/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> abre la puerta
+[16Dec2024 01:55:19.791] [ForkJoinPool.commonPool-worker-39/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> ahorita q venga galleta le das los materiales
+[16Dec2024 01:55:25.534] [ForkJoinPool.commonPool-worker-39/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> entre
+[16Dec2024 01:55:56.593] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 40
+[16Dec2024 01:55:56.593] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 40
+[16Dec2024 01:55:56.593] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=3,minDay=30,maxDay=40]{{HandItems:[{Count:1,id:"trident"}],id:"minecraft:drowned"}} to hordespawn on day 40
+[16Dec2024 01:55:56.594] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=40,maxDay=40] to hordespawn on day 40
+[16Dec2024 01:55:56.594] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 40
+[16Dec2024 01:55:59.605] [ForkJoinPool.commonPool-worker-39/INFO] [net.minecraft.server.MinecraftServer/]: <Dreoufther> no esta tu mochila we
+[16Dec2024 01:56:09.037] [ForkJoinPool.commonPool-worker-39/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> q?
+[16Dec2024 01:56:09.651] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.EntityStorage/]: An Entity type entity.scguns.brass_bolt has thrown an exception trying to write state. It will not persist. Report this to the mod author
+net.minecraft.ReportedException: Saving entity NBT
+	at net.minecraft.world.entity.Entity.m_20240_(Entity.java:1683) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.world.entity.Entity.m_20086_(Entity.java:1588) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.world.entity.Entity.m_20223_(Entity.java:1595) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.world.level.chunk.storage.EntityStorage.m_156565_(EntityStorage.java:93) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1708) ~[?:?]
+	at java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:762) ~[?:?]
+	at net.minecraft.world.level.chunk.storage.EntityStorage.m_141971_(EntityStorage.java:90) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.world.level.entity.PersistentEntitySectionManager.m_157512_(PersistentEntitySectionManager.java:217) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.world.level.entity.PersistentEntitySectionManager.m_157578_(PersistentEntitySectionManager.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at it.unimi.dsi.fastutil.longs.LongOpenHashSet.forEach(LongOpenHashSet.java:756) ~[fastutil-8.5.9.jar%2390!/:?]
+	at it.unimi.dsi.fastutil.longs.LongIterable.forEach(LongIterable.java:146) ~[fastutil-8.5.9.jar%2390!/:?]
+	at it.unimi.dsi.fastutil.longs.AbstractLongCollection.forEach(AbstractLongCollection.java:149) ~[fastutil-8.5.9.jar%2390!/:?]
+	at net.minecraft.world.level.entity.PersistentEntitySectionManager.m_157554_(PersistentEntitySectionManager.java:286) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8643_(ServerLevel.java:746) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.server.MinecraftServer.m_129885_(MinecraftServer.java:507) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.server.MinecraftServer.m_195514_(MinecraftServer.java:532) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:824) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.resources.ResourceLocation.toString()" because the return value of "net.minecraft.core.Registry.m_7981_(Object)" is null
+	at net.minecraft.world.entity.projectile.AbstractArrow.m_7380_(AbstractArrow.java:465) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.world.entity.Entity.m_20240_(Entity.java:1662) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	... 19 more
+[16Dec2024 01:56:24.664] [ForkJoinPool.commonPool-worker-39/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> abre la puerta
+[16Dec2024 01:56:27.324] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from RIOTNyx: Location (3805.188859269023, 112.6161208152771, -4295.7083176374435) too far away from hit block BlockPos{x=3805, y=111, z=-4295}.
+[16Dec2024 01:56:27.325] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from RIOTNyx: Location (3805.188859269023, 112.6161208152771, -4295.7083176374435) too far away from hit block BlockPos{x=3805, y=111, z=-4295}.
+[16Dec2024 01:56:27.561] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from RIOTNyx: Location (3805.116985246539, 112.61611473560333, -4295.311491966248) too far away from hit block BlockPos{x=3805, y=111, z=-4295}.
+[16Dec2024 01:56:27.585] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from RIOTNyx: Location (3805.116985246539, 112.61611473560333, -4295.311491966248) too far away from hit block BlockPos{x=3805, y=111, z=-4295}.
+[16Dec2024 01:56:27.761] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from RIOTNyx: Location (3805.139898106456, 112.61576616764069, -4294.955822467804) too far away from hit block BlockPos{x=3805, y=111, z=-4295}.
+[16Dec2024 01:56:27.762] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from RIOTNyx: Location (3805.139898106456, 112.61576616764069, -4294.955822467804) too far away from hit block BlockPos{x=3805, y=111, z=-4295}.
+[16Dec2024 01:56:29.740] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from RIOTNyx: Location (3802.8981202840805, 112.61615085601807, -4292.763624951243) too far away from hit block BlockPos{x=3801, y=111, z=-4293}.
+[16Dec2024 01:56:29.787] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from RIOTNyx: Location (3802.8981202840805, 112.61615085601807, -4292.763624951243) too far away from hit block BlockPos{x=3801, y=111, z=-4293}.
+[16Dec2024 01:56:30.008] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from RIOTNyx: Location (3802.547498345375, 112.6162132024765, -4292.6734037697315) too far away from hit block BlockPos{x=3801, y=111, z=-4293}.
+[16Dec2024 01:56:30.037] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from RIOTNyx: Location (3802.547498345375, 112.6162132024765, -4292.6734037697315) too far away from hit block BlockPos{x=3801, y=111, z=-4293}.
+[16Dec2024 01:56:30.213] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from RIOTNyx: Location (3802.163018345833, 112.69552659988403, -4292.530950427055) too far away from hit block BlockPos{x=3801, y=111, z=-4293}.
+[16Dec2024 01:56:30.236] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from RIOTNyx: Location (3802.163018345833, 112.69552659988403, -4292.530950427055) too far away from hit block BlockPos{x=3801, y=111, z=-4293}.
+[16Dec2024 01:56:34.864] [ForkJoinPool.commonPool-worker-39/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> ay esta}
+[16Dec2024 01:56:37.611] [ForkJoinPool.commonPool-worker-39/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> en la optra
+[16Dec2024 01:56:44.163] [ForkJoinPool.commonPool-worker-39/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> abajo del cobre
+[16Dec2024 01:56:46.584] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 40
+[16Dec2024 01:56:46.585] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 40
+[16Dec2024 01:56:46.585] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=3,minDay=30,maxDay=40]{{HandItems:[{Count:1,id:"trident"}],id:"minecraft:drowned"}} to hordespawn on day 40
+[16Dec2024 01:56:46.585] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=40,maxDay=40] to hordespawn on day 40
+[16Dec2024 01:56:46.585] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 40
+[16Dec2024 01:56:50.240] [ForkJoinPool.commonPool-worker-39/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> en una de las azules
+[16Dec2024 01:57:05.805] [ForkJoinPool.commonPool-worker-39/INFO] [net.minecraft.server.MinecraftServer/]: <Dreoufther> ok ya encontre XD
+[16Dec2024 01:57:13.069] [ForkJoinPool.commonPool-worker-39/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> xdxd dale
+[16Dec2024 01:57:31.010] [ForkJoinPool.commonPool-worker-39/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> me voy a quedar afk en lo que llega galleta
+[16Dec2024 01:57:35.900] [ForkJoinPool.commonPool-worker-39/INFO] [net.minecraft.server.MinecraftServer/]: <Dreoufther> ok
+[16Dec2024 01:57:36.583] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 40
+[16Dec2024 01:57:36.583] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 40
+[16Dec2024 01:57:36.583] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=3,minDay=30,maxDay=40]{{HandItems:[{Count:1,id:"trident"}],id:"minecraft:drowned"}} to hordespawn on day 40
+[16Dec2024 01:57:36.583] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=40,maxDay=40] to hordespawn on day 40
+[16Dec2024 01:57:36.584] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 40
+[16Dec2024 01:57:41.706] [ForkJoinPool.commonPool-worker-39/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> le das los materiales pa la revivicion
+[16Dec2024 01:57:47.941] [ForkJoinPool.commonPool-worker-39/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> ya viste tu regalo eda?
+[16Dec2024 01:57:49.465] [ForkJoinPool.commonPool-worker-39/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> ddxdxdx
+[16Dec2024 01:57:52.441] [ForkJoinPool.commonPool-worker-39/INFO] [net.minecraft.server.MinecraftServer/]: <Dreoufther> sis
+[16Dec2024 01:57:57.149] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3747, y=130, z=-4384} BlockPos{x=3746, y=129, z=-4383}
+[16Dec2024 01:58:01.494] [ForkJoinPool.commonPool-worker-39/INFO] [net.minecraft.server.MinecraftServer/]: <Dreoufther> donde estan los bloques de hierro we?
+[16Dec2024 01:58:01.508] [ForkJoinPool.commonPool-worker-39/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> a q esta god
+[16Dec2024 01:58:06.096] [ForkJoinPool.commonPool-worker-39/INFO] [net.minecraft.server.MinecraftServer/]: <Dreoufther> sis
+[16Dec2024 01:58:13.401] [ForkJoinPool.commonPool-worker-39/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> dale ps toca esperar
+[16Dec2024 01:58:19.141] [ForkJoinPool.commonPool-worker-39/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> me puse a farmear hace rato xd
+[16Dec2024 01:58:21.199] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3734, y=129, z=-4371} BlockPos{x=3733, y=128, z=-4372}
+[16Dec2024 01:58:21.607] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3733, y=130, z=-4371} BlockPos{x=3733, y=129, z=-4370}
+[16Dec2024 01:58:21.652] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3733, y=130, z=-4371} BlockPos{x=3733, y=129, z=-4370}
+[16Dec2024 01:58:21.697] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3733, y=130, z=-4371} BlockPos{x=3733, y=129, z=-4370}
+[16Dec2024 01:58:25.534] [ForkJoinPool.commonPool-worker-39/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> por si esto pasaba
+[16Dec2024 01:58:31.703] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from RIOTNyx: Location (3732.626567900181, 129.91678488254547, -4378.0) too far away from hit block BlockPos{x=3732, y=129, z=-4380}.
+[16Dec2024 01:58:31.704] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from RIOTNyx: Location (3732.626567900181, 129.91678488254547, -4378.0) too far away from hit block BlockPos{x=3732, y=129, z=-4380}.
+[16Dec2024 01:58:34.306] [ForkJoinPool.commonPool-worker-39/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> se salen
+[16Dec2024 01:58:36.493] [ForkJoinPool.commonPool-worker-39/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> ya
+[16Dec2024 01:58:44.894] [ForkJoinPool.commonPool-worker-39/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> daqle ahorita vengo
+[16Dec2024 01:59:48.942] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3820, y=81, z=-4477} BlockPos{x=3819, y=80, z=-4476}
+[16Dec2024 01:59:50.934] [ForkJoinPool.commonPool-worker-40/INFO] [net.minecraft.server.MinecraftServer/]: <Dreoufther> we los aldeanos se infectan tambien
+[16Dec2024 02:00:04.647] [ForkJoinPool.commonPool-worker-40/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> valio riata
+[16Dec2024 02:00:07.919] [ForkJoinPool.commonPool-worker-40/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> pegale un tiro
+[16Dec2024 02:00:16.462] [ForkJoinPool.commonPool-worker-40/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> es por si bien xd
+[16Dec2024 02:00:22.787] [ForkJoinPool.commonPool-worker-40/INFO] [net.minecraft.server.MinecraftServer/]: <Dreoufther> se curan con manzanas tambien
+[16Dec2024 02:00:34.591] [ForkJoinPool.commonPool-worker-40/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> si pero es mas emocionante dispararle xd
+[16Dec2024 02:00:46.853] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/142682, l='ServerLevel[World]', x=-1577.12, y=63.00, z=772.70] died, message: 'Fletcher was slain by Dreoufther'
+[16Dec2024 02:00:48.182] [ForkJoinPool.commonPool-worker-40/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> jajajaj
+[16Dec2024 02:01:24.094] [ForkJoinPool.commonPool-worker-40/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> ya vengo
+[16Dec2024 02:01:24.684] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ArazibeMoney50_ lost connection: Disconnected
+[16Dec2024 02:01:24.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArazibeMoney50_ left the game
