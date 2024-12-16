@@ -2,3 +2,10 @@
 [16Dec2024 00:06:16.824] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/105949, l='ServerLevel[World]', x=2519.70, y=78.00, z=-4364.66] died, message: 'Fletcher was slain by RIOTNyx'
 [16Dec2024 00:18:53.431] [ForkJoinPool.commonPool-worker-22/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> como vas con el oro?
 [16Dec2024 00:18:59.113] [ForkJoinPool.commonPool-worker-22/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> 2 stacks y 41
+[16Dec2024 00:36:14.382] [ForkJoinPool.commonPool-worker-23/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> perame tantito
+[16Dec2024 00:36:15.280] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ClinicaSanPablo lost connection: Disconnected
+[16Dec2024 00:36:15.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ClinicaSanPablo left the game
+[16Dec2024 00:38:44.231] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@14d8aa22[id=<null>,name=ClinicaSanPablo,properties={},legacy=false] (/127.128.175.180:46921) lost connection: Disconnected
+[16Dec2024 00:38:58.079] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2e9749b8[id=<null>,name=ClinicaSanPablo,properties={},legacy=false] (/127.128.175.180:50989) lost connection: Disconnected
+[16Dec2024 00:40:18.237] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ClinicaSanPablo[/127.128.175.180:33325] logged in with entity id 116780 at (3112.5773848912477, -10.0, -4135.699999988079)
+[16Dec2024 00:40:18.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ClinicaSanPablo joined the game
