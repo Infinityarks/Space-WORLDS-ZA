@@ -709,3 +709,67 @@ Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.resource
 [16Dec2024 03:36:46.585] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=40,maxDay=40] to hordespawn on day 40
 [16Dec2024 03:36:46.585] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 40
 [16Dec2024 03:36:53.832] [ForkJoinPool.commonPool-worker-56/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> lo bueno es que creo que se como funciona
+[16Dec2024 03:36:58.331] [ForkJoinPool.commonPool-worker-56/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> ArazibeMoney50_ te va a revivir?
+[16Dec2024 03:37:06.034] [ForkJoinPool.commonPool-worker-56/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> lo malo es que no tengo sujeto de prueba voy a tener que testear esto en mi mismo xd
+[16Dec2024 03:37:15.487] [ForkJoinPool.commonPool-worker-56/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> el que?
+[16Dec2024 03:37:27.482] [ForkJoinPool.commonPool-worker-56/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> e la radiacion segun yo ocupo el full biohazard
+[16Dec2024 03:37:29.882] [ForkJoinPool.commonPool-worker-56/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> y los filtros
+[16Dec2024 03:37:36.282] [ForkJoinPool.commonPool-worker-56/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> si y no
+[16Dec2024 03:37:36.582] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 40
+[16Dec2024 03:37:36.582] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 40
+[16Dec2024 03:37:36.582] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=3,minDay=30,maxDay=40]{{HandItems:[{Count:1,id:"trident"}],id:"minecraft:drowned"}} to hordespawn on day 40
+[16Dec2024 03:37:36.582] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=40,maxDay=40] to hordespawn on day 40
+[16Dec2024 03:37:36.582] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 40
+[16Dec2024 03:37:36.584] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@456e0c1e]Can't spawn wave because max cap has been reached
+[16Dec2024 03:37:38.014] [ForkJoinPool.commonPool-worker-56/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> SI yo tengo la armadura
+[16Dec2024 03:37:41.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to ClinicaSanPablo: a
+[16Dec2024 03:37:41.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to RIOTNyx: a
+[16Dec2024 03:37:41.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to ArazibeMoney50_: a
+[16Dec2024 03:37:46.441] [ForkJoinPool.commonPool-worker-56/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> voy a meterme a buscar cosas ahi dentro
+[16Dec2024 03:37:51.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[16Dec2024 03:37:56.481] [ForkJoinPool.commonPool-worker-56/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> no hay nada interesante xd
+[16Dec2024 03:37:58.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set ArazibeMoney50_'s game mode to Creative Mode
+[16Dec2024 03:38:13.690] [ForkJoinPool.commonPool-worker-56/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> las minas es lo q me interesa
+[16Dec2024 03:38:14.531] [ForkJoinPool.commonPool-worker-56/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> no hay nada es lo mismo
+[16Dec2024 03:38:19.655] [ForkJoinPool.commonPool-worker-56/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> que hay?
+[16Dec2024 03:38:23.282] [ForkJoinPool.commonPool-worker-56/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> ni idea por eso xd
+[16Dec2024 03:38:30.092] [ForkJoinPool.commonPool-worker-56/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> por cierto consegui algo que posiblemente te guste
+[16Dec2024 03:38:31.232] [ForkJoinPool.commonPool-worker-56/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> donde andas
+[16Dec2024 03:38:49.785] [ForkJoinPool.commonPool-worker-56/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> a 4125 bloques
+[16Dec2024 03:39:47.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown game mode: spectador
+[16Dec2024 03:39:47.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ... spectador arazibemoney50:<--[HERE]
+[16Dec2024 03:39:51.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown game mode: spectador
+[16Dec2024 03:39:51.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ... spectador arazibemoney50_<--[HERE]
+[16Dec2024 03:40:08.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set ArazibeMoney50_'s game mode to Spectator Mode
+[16Dec2024 03:40:13.380] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ArazibeMoney50_ lost connection: Disconnected
+[16Dec2024 03:40:13.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArazibeMoney50_ left the game
+[16Dec2024 03:41:09.729] [ForkJoinPool.commonPool-worker-58/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> acabo de descubrir unas cosas muy interesantes
+[16Dec2024 03:41:13.943] [ForkJoinPool.commonPool-worker-58/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> me voy a volver openheimer
+[16Dec2024 03:41:19.110] [ForkJoinPool.commonPool-worker-58/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> todo mal escrito
+[16Dec2024 03:41:20.008] [ForkJoinPool.commonPool-worker-58/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> xd
+[16Dec2024 03:41:33.448] [ForkJoinPool.commonPool-worker-58/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> te vas a volver jaime abierto?
+[16Dec2024 03:41:38.843] [ForkJoinPool.commonPool-worker-58/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> zi
+[16Dec2024 03:41:41.179] [ForkJoinPool.commonPool-worker-58/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> jaime alberto
+[16Dec2024 03:43:05.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to ClinicaSanPablo: a
+[16Dec2024 03:43:05.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to RIOTNyx: a
+[16Dec2024 03:43:13.094] [ForkJoinPool.commonPool-worker-59/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> q paso galleta
+[16Dec2024 03:43:17.180] [ForkJoinPool.commonPool-worker-59/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> arazi ya arranco xd
+[16Dec2024 03:43:20.482] [ForkJoinPool.commonPool-worker-59/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> nada
+[16Dec2024 03:43:23.539] [ForkJoinPool.commonPool-worker-59/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> siempre pone a
+[16Dec2024 03:43:28.299] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! -7.494726437909208,-3.243270704337476,8.97551261847184
+[16Dec2024 03:43:28.305] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! -7.129407007784266,-3.0949862578287224,8.538289149585353
+[16Dec2024 03:43:28.352] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! -7.130991703684003,-3.087540328979159,8.539886859353828
+[16Dec2024 03:43:28.352] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! -6.767357022966053,-2.9391353132199356,8.10464583600924
+[16Dec2024 03:43:28.352] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! -6.404364540863867,-2.7914459809901047,7.670177078877032
+[16Dec2024 03:43:45.158] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:boat' in chunk [51, -154], discarding
+[16Dec2024 03:43:45.159] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:boat' in chunk [52, -154], discarding
+[16Dec2024 03:43:46.456] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:boat' in chunk [51, -155], discarding
+[16Dec2024 03:43:46.456] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:boat' in chunk [52, -155], discarding
+[16Dec2024 03:43:47.564] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: modern_structures:boat
+[16Dec2024 03:43:47.564] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:boat' in chunk [52, -156], discarding
+[16Dec2024 03:43:47.567] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:boat' in chunk [51, -156], discarding
+[16Dec2024 03:44:07.206] [ForkJoinPool.commonPool-worker-59/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> por andar viendo el mapa casi haga el 911
+[16Dec2024 03:44:11.911] [ForkJoinPool.commonPool-worker-59/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> xD
+[16Dec2024 03:45:03.495] [ForkJoinPool.commonPool-worker-59/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> estas en la base?
+[16Dec2024 03:45:05.480] [ForkJoinPool.commonPool-worker-59/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> se
+[16Dec2024 03:45:10.538] [ForkJoinPool.commonPool-worker-59/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> ya llego
