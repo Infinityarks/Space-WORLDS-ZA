@@ -1566,5 +1566,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_mushroom_stew": "2024-12-16 01:33:03 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

@@ -92,3 +92,25 @@
 [16Dec2024 01:31:53.394] [ForkJoinPool.commonPool-worker-32/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> a quien le dices?
 [16Dec2024 01:32:06.632] [ForkJoinPool.commonPool-worker-32/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> a farmi
 [16Dec2024 01:32:08.345] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2276, y=109, z=2293} BlockPos{x=-2276, y=108, z=2294}
+[16Dec2024 01:33:41.716] [ForkJoinPool.commonPool-worker-33/INFO] [net.minecraft.server.MinecraftServer/]: <Farmihou> a
+[16Dec2024 01:33:48.539] [ForkJoinPool.commonPool-worker-33/INFO] [net.minecraft.server.MinecraftServer/]: <Farmihou> bueno gg
+[16Dec2024 01:33:51.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Farmihou joined zombies.
+[16Dec2024 01:33:53.192] [ForkJoinPool.commonPool-worker-33/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> ando lejos
+[16Dec2024 01:33:54.983] [ForkJoinPool.commonPool-worker-33/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> nmms
+[16Dec2024 01:33:59.333] [ForkJoinPool.commonPool-worker-33/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> te dije q te salieras
+[16Dec2024 01:34:13.732] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Gunsmith'/135970, l='ServerLevel[World]', x=-1583.44, y=57.50, z=770.69] died, message: 'Gunsmith was slain by Zombie Player'
+[16Dec2024 01:34:23.881] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Farmihou lost connection: Disconnected
+[16Dec2024 01:34:23.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Farmihou left the game
+[16Dec2024 01:34:29.031] [ForkJoinPool.commonPool-worker-33/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> bueno tengo materiales pa revivirte
+[16Dec2024 01:34:29.743] [ForkJoinPool.commonPool-worker-33/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> a
+[16Dec2024 01:35:14.254] [Worker-Main-350/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-58, z=43}
+[16Dec2024 01:35:14.255] [Worker-Main-350/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=6, y=-58, z=43}
+[16Dec2024 01:35:14.255] [Worker-Main-350/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-59, z=40}
+[16Dec2024 01:35:14.255] [Worker-Main-350/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-59, z=33}
+[16Dec2024 01:35:14.256] [Worker-Main-350/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=7, y=-59, z=40}
+[16Dec2024 01:35:14.256] [Worker-Main-350/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=7, y=-59, z=33}
+[16Dec2024 01:36:14.447] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2339, y=69, z=2039} BlockPos{x=-2338, y=67, z=2038}
+[16Dec2024 01:36:14.498] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2339, y=69, z=2039} BlockPos{x=-2338, y=67, z=2038}
+[16Dec2024 01:36:14.547] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2339, y=69, z=2039} BlockPos{x=-2338, y=67, z=2038}
+[16Dec2024 01:42:26.841] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dreoufther[/127.44.182.56:42073] logged in with entity id 142636 at (-1543.6244092419183, 64.0, 751.3022550172751)
+[16Dec2024 01:42:26.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dreoufther joined the game
