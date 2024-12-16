@@ -16,3 +16,79 @@
 [16Dec2024 01:06:44.845] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:firewatchtower' in chunk [-105, 76], discarding
 [16Dec2024 01:06:44.846] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:firewatchtower' in chunk [-104, 76], discarding
 [16Dec2024 01:06:44.847] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:firewatchtower' in chunk [-103, 76], discarding
+[16Dec2024 01:13:26.534] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@263715b1]Trying to start horde event on day 90 with nextDay 90 and time 18000
+[16Dec2024 01:13:26.535] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@760aaaae
+[16Dec2024 01:13:26.535] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 80
+[16Dec2024 01:13:26.535] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 80
+[16Dec2024 01:13:26.535] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 80
+[16Dec2024 01:13:26.536] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 80
+[16Dec2024 01:13:26.583] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 90
+[16Dec2024 01:13:26.583] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 90
+[16Dec2024 01:13:26.583] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 90
+[16Dec2024 01:13:26.584] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 90
+[16Dec2024 01:14:16.584] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 90
+[16Dec2024 01:14:16.584] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 90
+[16Dec2024 01:14:16.584] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 90
+[16Dec2024 01:14:16.585] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 90
+[16Dec2024 01:15:06.586] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 90
+[16Dec2024 01:15:06.586] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 90
+[16Dec2024 01:15:06.587] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 90
+[16Dec2024 01:15:06.587] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 90
+[16Dec2024 01:15:56.586] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 90
+[16Dec2024 01:15:56.587] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 90
+[16Dec2024 01:15:56.587] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 90
+[16Dec2024 01:15:56.587] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 90
+[16Dec2024 01:16:20.100] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:firewatchtower' in chunk [-104, 77], discarding
+[16Dec2024 01:16:20.101] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:firewatchtower' in chunk [-103, 77], discarding
+[16Dec2024 01:16:20.103] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:firewatchtower' in chunk [-105, 77], discarding
+[16Dec2024 01:16:22.856] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:firewatchtower' in chunk [-105, 78], discarding
+[16Dec2024 01:16:22.858] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: modern_structures:firewatchtower
+[16Dec2024 01:16:22.858] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:firewatchtower' in chunk [-104, 78], discarding
+[16Dec2024 01:16:22.860] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:firewatchtower' in chunk [-103, 78], discarding
+[16Dec2024 01:16:46.584] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 90
+[16Dec2024 01:16:46.585] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 90
+[16Dec2024 01:16:46.585] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 90
+[16Dec2024 01:16:46.585] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 90
+[16Dec2024 01:16:46.587] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@263715b1]Can't spawn wave because max cap has been reached
+[16Dec2024 01:17:36.584] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 90
+[16Dec2024 01:17:36.584] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 90
+[16Dec2024 01:17:36.585] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 90
+[16Dec2024 01:17:36.585] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 90
+[16Dec2024 01:17:36.585] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@263715b1]Can't spawn wave because max cap has been reached
+[16Dec2024 01:18:03.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to RIOTNyx: mañana comienzan los cambios de dificultad
+[16Dec2024 01:18:03.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to ClinicaSanPablo: mañana comienzan los cambios de dificultad
+[16Dec2024 01:18:03.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to ArazibeMoney50_: mañana comienzan los cambios de dificultad
+[16Dec2024 01:18:17.085] [ForkJoinPool.commonPool-worker-29/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> a
+[16Dec2024 01:18:40.523] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: modern_structures:firewatchtower
+[16Dec2024 01:19:13.701] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:trappedtruck_2' in chunk [-126, 83], discarding
+[16Dec2024 01:19:13.702] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: modern_structures:trappedtruck_2
+[16Dec2024 01:19:13.702] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:trappedtruck_2' in chunk [-126, 84], discarding
+[16Dec2024 01:19:13.705] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:trappedtruck_2' in chunk [-126, 82], discarding
+[16Dec2024 01:19:13.848] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:trappedtruck_2' in chunk [-128, 82], discarding
+[16Dec2024 01:19:13.849] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:trappedtruck_2' in chunk [-127, 82], discarding
+[16Dec2024 01:19:13.853] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:trappedtruck_2' in chunk [-128, 83], discarding
+[16Dec2024 01:19:13.854] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:trappedtruck_2' in chunk [-127, 83], discarding
+[16Dec2024 01:19:13.858] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:trappedtruck_2' in chunk [-128, 84], discarding
+[16Dec2024 01:19:13.859] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:trappedtruck_2' in chunk [-127, 84], discarding
+[16Dec2024 01:19:19.510] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: modern_structures:trappedtruck_2
+[16Dec2024 01:19:56.204] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1926, y=65, z=1595} BlockPos{x=-1926, y=64, z=1594}
+[16Dec2024 01:22:30.893] [ForkJoinPool.commonPool-worker-30/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> ESTOY INFECTADO Y NO TENGO ORO
+[16Dec2024 01:22:43.917] [ForkJoinPool.commonPool-worker-30/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> tengo manzanas
+[16Dec2024 01:22:45.836] [ForkJoinPool.commonPool-worker-30/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> de oro
+[16Dec2024 01:22:48.383] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIOTNyx lost connection: Disconnected
+[16Dec2024 01:22:48.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIOTNyx left the game
+[16Dec2024 01:25:51.346] [Worker-Main-349/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-58, z=31}
+[16Dec2024 01:25:51.349] [Worker-Main-349/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=6, y=-58, z=31}
+[16Dec2024 01:28:03.298] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RIOTNyx[/127.135.191.121:41979] logged in with entity id 135499 at (2487.300000011921, 77.0, -4274.300000011921)
+[16Dec2024 01:28:03.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIOTNyx joined the game
+[16Dec2024 01:29:55.148] [Worker-Main-349/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/Panda$Gene
+[16Dec2024 01:29:57.497] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Farmihou[/127.16.167.39:54493] logged in with entity id 135910 at (-1575.699999988079, 59.0, 766.6362382171302)
+[16Dec2024 01:29:57.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Farmihou joined the game
+[16Dec2024 01:30:24.532] [ForkJoinPool.commonPool-worker-32/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> AAAAAAAAAAA
+[16Dec2024 01:30:47.595] [ForkJoinPool.commonPool-worker-32/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> quien es demoman en discord?
+[16Dec2024 01:31:25.034] [ForkJoinPool.commonPool-worker-32/INFO] [net.minecraft.server.MinecraftServer/]: <Farmihou> yo
+[16Dec2024 01:31:38.341] [ForkJoinPool.commonPool-worker-32/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> ok salte voy pa base y tre doy manzana
+[16Dec2024 01:31:52.483] [ForkJoinPool.commonPool-worker-32/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> va
+[16Dec2024 01:31:53.394] [ForkJoinPool.commonPool-worker-32/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> a quien le dices?
+[16Dec2024 01:32:06.632] [ForkJoinPool.commonPool-worker-32/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> a farmi
+[16Dec2024 01:32:08.345] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2276, y=109, z=2293} BlockPos{x=-2276, y=108, z=2294}
