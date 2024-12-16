@@ -1678,3 +1678,12 @@ Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.resource
 [15Dec2024 23:42:55.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ClinicaSanPablo has made the advancement [The Parrots and the Bats]
 [15Dec2024 23:50:37.579] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/101609, l='ServerLevel[World]', x=2512.03, y=76.00, z=-4362.78] died, message: 'Villager was slain by RIOTNyx'
 [15Dec2024 23:50:39.235] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/100725, l='ServerLevel[World]', x=2511.74, y=76.20, z=-4362.84] died, message: 'Villager was slain by RIOTNyx'
+[15Dec2024 23:52:03.687] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/97636, l='ServerLevel[World]', x=2509.89, y=76.82, z=-4362.70] died, message: 'Villager was slain by RIOTNyx'
+[15Dec2024 23:54:59.288] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/89250, l='ServerLevel[World]', x=2509.64, y=77.39, z=-4362.44] died, message: 'Librarian was slain by RIOTNyx'
+[15Dec2024 23:56:53.980] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/88075, l='ServerLevel[World]', x=2514.50, y=75.00, z=-4367.40] died, message: 'Librarian was slain by RIOTNyx'
+[15Dec2024 23:58:05.030] [ForkJoinPool.commonPool-worker-20/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> te quieres hacer cargo de los aldeanos?
+[15Dec2024 23:58:06.430] [ForkJoinPool.commonPool-worker-20/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> xd
+[15Dec2024 23:58:17.079] [ForkJoinPool.commonPool-worker-20/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> ando en una mina re lejos xD
+[15Dec2024 23:59:34.339] [ForkJoinPool.commonPool-worker-21/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> pero te veo en el minimapa xd
+[15Dec2024 23:59:41.181] [ForkJoinPool.commonPool-worker-21/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> a poco si
+[15Dec2024 23:59:43.689] [ForkJoinPool.commonPool-worker-21/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> donde termine
