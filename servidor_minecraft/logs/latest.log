@@ -9,3 +9,4 @@
 [16Dec2024 00:38:58.079] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2e9749b8[id=<null>,name=ClinicaSanPablo,properties={},legacy=false] (/127.128.175.180:50989) lost connection: Disconnected
 [16Dec2024 00:40:18.237] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ClinicaSanPablo[/127.128.175.180:33325] logged in with entity id 116780 at (3112.5773848912477, -10.0, -4135.699999988079)
 [16Dec2024 00:40:18.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ClinicaSanPablo joined the game
+[16Dec2024 00:49:43.331] [ForkJoinPool.commonPool-worker-26/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> ya a nada de los 6 stacks
