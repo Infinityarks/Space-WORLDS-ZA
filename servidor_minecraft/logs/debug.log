@@ -7639,3 +7639,29 @@ Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.resource
 [16Dec2024 22:13:35.267] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 50
 [16Dec2024 22:14:04.547] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
 [16Dec2024 22:14:04.553] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[16Dec2024 22:14:25.273] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 50
+[16Dec2024 22:14:25.274] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 50
+[16Dec2024 22:14:25.274] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 50
+[16Dec2024 22:14:25.274] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 50
+[16Dec2024 22:14:31.039] [ForkJoinPool.commonPool-worker-41/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> ok pero no le digas de esto a riot
+[16Dec2024 22:15:15.265] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 50
+[16Dec2024 22:15:15.265] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 50
+[16Dec2024 22:15:15.266] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 50
+[16Dec2024 22:15:15.266] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 50
+[16Dec2024 22:15:15.266] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@6b994bb9]Can't spawn wave because max cap has been reached
+[16Dec2024 22:15:48.778] [ForkJoinPool.commonPool-worker-42/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> ???
+[16Dec2024 22:16:28.292] [ForkJoinPool.commonPool-worker-42/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> tas
+[16Dec2024 22:16:36.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Survival Mode]
+[16Dec2024 22:16:37.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rebondrake5556 was blown up by ClinicaSanPablo
+[16Dec2024 22:16:39.642] [ForkJoinPool.commonPool-worker-42/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> xD
+[16Dec2024 22:16:42.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Creative Mode]
+[16Dec2024 22:16:43.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Spectator Mode]
+[16Dec2024 22:16:48.265] [ForkJoinPool.commonPool-worker-42/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> galleta se fue a dormir
+[16Dec2024 22:16:51.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Creative Mode]
+[16Dec2024 22:18:28.565] [ForkJoinPool.commonPool-worker-43/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> veamos algo
+[16Dec2024 22:19:04.538] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[16Dec2024 22:19:04.543] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[16Dec2024 22:22:45.015] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rebondrake5556 lost connection: Disconnected
+[16Dec2024 22:22:45.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rebondrake5556 left the game
+[16Dec2024 22:24:04.545] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[16Dec2024 22:24:04.551] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
