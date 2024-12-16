@@ -304,3 +304,39 @@ Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.resource
 [16Dec2024 02:11:36.841] [Worker-Main-348/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=7, y=-59, z=40}
 [16Dec2024 02:11:36.841] [Worker-Main-348/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=7, y=-59, z=33}
 [16Dec2024 02:13:03.217] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4160, y=121, z=-4616} BlockPos{x=4160, y=119, z=-4616}
+[16Dec2024 02:18:35.901] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from RIOTNyx: Location (4156.3125, 96.29763555526733, -4317.866144314408) too far away from hit block BlockPos{x=4157, y=95, z=-4318}.
+[16Dec2024 02:18:40.982] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dreoufther lost connection: Disconnected
+[16Dec2024 02:18:40.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dreoufther left the game
+[16Dec2024 02:18:42.097] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from RIOTNyx: Location (4156.3125, 96.08281815052032, -4317.952738989145) too far away from hit block BlockPos{x=4157, y=95, z=-4318}.
+[16Dec2024 02:20:33.080] [ForkJoinPool.commonPool-worker-42/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> me enontre 2 las use y no se habrio
+[16Dec2024 02:20:39.162] [ForkJoinPool.commonPool-worker-42/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> .-.
+[16Dec2024 02:21:02.881] [ForkJoinPool.commonPool-worker-42/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> pense que solo abria a la primera
+[16Dec2024 02:21:34.745] [ForkJoinPool.commonPool-worker-42/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> por alguna razon tengo 2 otra vez
+[16Dec2024 02:21:38.896] [ForkJoinPool.commonPool-worker-42/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> a
+[16Dec2024 02:21:40.505] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from RIOTNyx: Location (4158.75, 95.9809040427208, -4317.672664523125) too far away from hit block BlockPos{x=4157, y=95, z=-4318}.
+[16Dec2024 02:21:43.121] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from RIOTNyx: Location (4158.75, 95.9809040427208, -4317.672664523125) too far away from hit block BlockPos{x=4157, y=95, z=-4318}.
+[16Dec2024 02:21:44.249] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from RIOTNyx: Location (4158.75, 95.98072707653046, -4317.679610282183) too far away from hit block BlockPos{x=4157, y=95, z=-4318}.
+[16Dec2024 02:21:50.907] [ForkJoinPool.commonPool-worker-42/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> tampoco abrio xd
+[16Dec2024 02:21:53.753] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from RIOTNyx: Location (4158.75, 96.14392518997192, -4317.844697877765) too far away from hit block BlockPos{x=4157, y=95, z=-4318}.
+[16Dec2024 02:21:57.497] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from RIOTNyx: Location (4158.75, 95.79857754707336, -4317.76808334887) too far away from hit block BlockPos{x=4157, y=95, z=-4318}.
+[16Dec2024 02:21:58.095] [ForkJoinPool.commonPool-worker-42/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> ta raro
+[16Dec2024 02:22:15.380] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIOTNyx lost connection: Disconnected
+[16Dec2024 02:22:15.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIOTNyx left the game
+[16Dec2024 02:22:16.095] [ForkJoinPool.commonPool-worker-42/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> me acabo de dejar infectar pero a proposito
+[16Dec2024 02:22:21.443] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RIOTNyx[/127.135.191.121:59659] logged in with entity id 166957 at (4156.294075669113, 95.0, -4316.191424261916)
+[16Dec2024 02:22:21.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIOTNyx joined the game
+[16Dec2024 02:22:35.296] [ForkJoinPool.commonPool-worker-42/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> me acabo de dejar infectar pero a proposito pero esto sera para un experimento
+[16Dec2024 02:22:38.146] [ForkJoinPool.commonPool-worker-42/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> aver si funciona
+[16Dec2024 02:23:00.151] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from RIOTNyx: Location (4158.645137429237, 96.3125, -4316.745888948441) too far away from hit block BlockPos{x=4157, y=95, z=-4318}.
+[16Dec2024 02:23:00.342] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from RIOTNyx: Location (4158.625057339668, 96.3125, -4316.808426260948) too far away from hit block BlockPos{x=4157, y=95, z=-4318}.
+[16Dec2024 02:23:04.730] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIOTNyx lost connection: Disconnected
+[16Dec2024 02:23:04.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIOTNyx left the game
+[16Dec2024 02:23:13.689] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RIOTNyx[/127.135.191.121:58583] logged in with entity id 167463 at (4159.1656180900445, 95.5, -4317.332599024028)
+[16Dec2024 02:23:13.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIOTNyx joined the game
+[16Dec2024 02:23:39.590] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from RIOTNyx: Location (4158.63548374176, 96.3125, -4317.353092074394) too far away from hit block BlockPos{x=4157, y=95, z=-4318}.
+[16Dec2024 02:23:41.450] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from RIOTNyx: Location (4158.638579368591, 96.3125, -4317.352972447872) too far away from hit block BlockPos{x=4157, y=95, z=-4318}.
+[16Dec2024 02:23:41.654] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from RIOTNyx: Location (4158.638579368591, 96.3125, -4317.352972447872) too far away from hit block BlockPos{x=4157, y=95, z=-4318}.
+[16Dec2024 02:23:41.851] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from RIOTNyx: Location (4158.638579368591, 96.3125, -4317.352972447872) too far away from hit block BlockPos{x=4157, y=95, z=-4318}.
+[16Dec2024 02:23:42.054] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from RIOTNyx: Location (4158.638579368591, 96.3125, -4317.352972447872) too far away from hit block BlockPos{x=4157, y=95, z=-4318}.
+[16Dec2024 02:23:42.253] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from RIOTNyx: Location (4158.638579368591, 96.3125, -4317.352972447872) too far away from hit block BlockPos{x=4157, y=95, z=-4318}.
+[16Dec2024 02:23:42.454] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from RIOTNyx: Location (4158.638579368591, 96.3125, -4317.352972447872) too far away from hit block BlockPos{x=4157, y=95, z=-4318}.
