@@ -1310,3 +1310,13 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [16Dec2024 18:24:32.425] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/TankPosition
 [16Dec2024 18:25:38.445] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
 [16Dec2024 18:26:48.062] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/living/LivingChangeTargetEvent$LivingTargetType
+[16Dec2024 18:39:09.460] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@75ced3a2]Trying to start horde event on day 100 with nextDay 100 and time 18000
+[16Dec2024 18:39:09.463] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@76905ce1
+[16Dec2024 18:39:09.466] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 90
+[16Dec2024 18:39:09.466] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 90
+[16Dec2024 18:39:09.466] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}]}} to hordespawn on day 90
+[16Dec2024 18:39:09.467] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}]}} to hordespawn on day 90
+[16Dec2024 18:39:09.509] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 100
+[16Dec2024 18:39:09.509] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 100
+[16Dec2024 18:39:09.510] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}]}} to hordespawn on day 100
+[16Dec2024 18:39:09.510] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}]}} to hordespawn on day 100
