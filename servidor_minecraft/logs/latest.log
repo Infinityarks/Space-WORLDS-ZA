@@ -1614,3 +1614,48 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [16Dec2024 21:09:23.511] [Worker-Main-141/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mcjty/lostcities/worldgen/lost/Direction
 [16Dec2024 21:09:23.512] [Worker-Main-141/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mcjty/lostcities/worldgen/lost/regassets/data/CitySphereSettings$CitySpherePartOrigin
 [16Dec2024 21:10:20.860] [Worker-Main-120/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mcjty/lostcities/worldgen/lost/regassets/data/CitySphereSettings$CitySphereCenterType
+[16Dec2024 21:12:30.521] [Netty Epoll Server IO #3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting xyz/przemyk/simpleplanes/network/CyclePlaneInventoryPacket$Type
+[16Dec2024 21:14:28.258] [Worker-Main-120/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[16Dec2024 21:15:04.773] [ForkJoinPool.commonPool-worker-24/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> se lagueo?
+[16Dec2024 21:15:10.402] [ForkJoinPool.commonPool-worker-24/INFO] [net.minecraft.server.MinecraftServer/]: <Dreoufther> medio
+[16Dec2024 21:15:33.368] [ForkJoinPool.commonPool-worker-24/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> a mi no me cargan lso chunks xd
+[16Dec2024 21:16:06.773] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of ArazibeMoney50_) moved too quickly! 5.686173541181688,-0.045101830289937084,-8.579077485393384
+[16Dec2024 21:16:06.810] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of ArazibeMoney50_) moved too quickly! 6.206522150425371,-0.04978951876543647,-9.3579070329111
+[16Dec2024 21:16:34.510] [ForkJoinPool.commonPool-worker-25/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> bfffff
+[16Dec2024 21:16:40.475] [ForkJoinPool.commonPool-worker-25/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> si me salgo me muero
+[16Dec2024 21:17:44.158] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIOTNyx lost connection: Disconnected
+[16Dec2024 21:17:44.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIOTNyx left the game
+[16Dec2024 21:17:55.216] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RIOTNyx[/127.135.191.121:60403] logged in with entity id 41886 at (4544.7975425922605, 123.60264408090667, -3870.971677828511)
+[16Dec2024 21:17:55.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIOTNyx joined the game
+[16Dec2024 21:18:21.762] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! 96.40253634474539,38.95470943249262,-73.03800663784295
+[16Dec2024 21:18:21.763] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! 95.72182950025399,38.70821440506256,-72.64990478121626
+[16Dec2024 21:18:21.763] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! 95.02267198418849,38.4994356127327,-72.27985107504219
+[16Dec2024 21:18:22.025] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! 94.3111890084856,38.3210338545677,-71.92739948650114
+[16Dec2024 21:18:22.025] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! 93.59204523295921,38.1663762763618,-71.59151485676921
+[16Dec2024 21:18:22.031] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! 92.86871409582182,38.029893398076126,-71.27085793957076
+[16Dec2024 21:18:22.031] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! 92.14376303881727,37.90710701893295,-70.96398764766263
+[16Dec2024 21:19:35.013] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIOTNyx lost connection: Disconnected
+[16Dec2024 21:19:35.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIOTNyx left the game
+[16Dec2024 21:19:41.872] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RIOTNyx[/127.135.191.121:59779] logged in with entity id 42839 at (4447.740419338766, 134.40043752695058, -3797.527974581406)
+[16Dec2024 21:19:41.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIOTNyx joined the game
+[16Dec2024 21:19:57.327] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! 54.240419338765605,16.974390359234633,-22.027974581405942
+[16Dec2024 21:19:57.373] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! 54.240419338765605,16.91946985923464,-22.027974581405942
+[16Dec2024 21:19:57.374] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! 54.240419338765605,16.839701741791245,-22.027974581405942
+[16Dec2024 21:19:57.462] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! 54.240419338765605,16.74564884460375,-22.027974581405942
+[16Dec2024 21:19:57.463] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! 54.240419338765605,16.626875309396567,-22.027974581405942
+[16Dec2024 21:19:57.464] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! 54.240419338765605,16.483469243790722,-22.027974581405942
+[16Dec2024 21:19:57.464] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! 54.240419338765605,16.31552451984716,-22.027974581405942
+[16Dec2024 21:19:57.465] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! 54.240419338765605,16.123140684864964,-22.027974581405942
+[16Dec2024 21:19:57.465] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! 54.240419338765605,15.906422867170036,-22.027974581405942
+[16Dec2024 21:19:57.466] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! 54.240419338765605,15.665481677081871,-22.027974581405942
+[16Dec2024 21:19:57.467] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! 54.240419338765605,15.40043310325433,-22.027974581405942
+[16Dec2024 21:19:57.467] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! 54.240419338765605,15.1113984045938,-22.027974581405942
+[16Dec2024 21:19:57.469] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! 54.24011470361256,14.798504321033548,-22.02767460499308
+[16Dec2024 21:21:27.772] [Worker-Main-141/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-58, z=31}
+[16Dec2024 21:21:27.774] [Worker-Main-141/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=6, y=-58, z=31}
+[16Dec2024 21:21:27.774] [Worker-Main-141/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-58, z=43}
+[16Dec2024 21:21:27.774] [Worker-Main-141/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=6, y=-58, z=43}
+[16Dec2024 21:21:27.774] [Worker-Main-141/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-59, z=40}
+[16Dec2024 21:21:27.775] [Worker-Main-141/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-59, z=33}
+[16Dec2024 21:21:27.775] [Worker-Main-141/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=7, y=-59, z=40}
+[16Dec2024 21:21:27.775] [Worker-Main-141/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=7, y=-59, z=33}
