@@ -8397,3 +8397,17 @@ Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.resource
 [17Dec2024 00:07:42.061] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! -10.783929636518678,-0.35649435841946797,-5.214921690378105
 [17Dec2024 00:07:42.079] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! -10.143842662775114,-0.33665152928844577,-4.905047790898607
 [17Dec2024 00:07:42.079] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! -9.50324468079225,-0.31581622319490066,-4.59494239430569
+[17Dec2024 00:09:04.555] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[17Dec2024 00:09:04.563] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[17Dec2024 00:09:59.360] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ArazibeMoney50_ lost connection: Disconnected
+[17Dec2024 00:09:59.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArazibeMoney50_ left the game
+[17Dec2024 00:09:59.959] [ForkJoinPool.commonPool-worker-55/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> ve llendo tu justo tengo que hacer algo
+[17Dec2024 00:10:04.959] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dreoufther lost connection: Disconnected
+[17Dec2024 00:10:04.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dreoufther left the game
+[17Dec2024 00:10:10.455] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ClinicaSanPablo lost connection: Disconnected
+[17Dec2024 00:10:10.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ClinicaSanPablo left the game
+[17Dec2024 00:10:38.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIOTNyx has made the advancement [Voluntary Exile]
+[17Dec2024 00:11:17.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIOTNyx has made the advancement [Ol' Betsy]
+[17Dec2024 00:14:04.508] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[17Dec2024 00:14:04.513] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[17Dec2024 00:14:08.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIOTNyx has made the advancement [Take Aim]
